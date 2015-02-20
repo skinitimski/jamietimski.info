@@ -33,7 +33,7 @@ namespace Atmosphere.WebTools
             Logger = new StreamWriter(file);
             Logger.AutoFlush = true;
 
-            Web = new DirectoryInfo(Path.Combine(Directory.GetCurrentDirectory(), @"..\.www"));
+            Web = new DirectoryInfo(Path.Combine(Directory.GetCurrentDirectory(), @".www"));
             Data = new DirectoryInfo(Directory.GetCurrentDirectory());
 
             XsltArgList = new XsltArgumentList();

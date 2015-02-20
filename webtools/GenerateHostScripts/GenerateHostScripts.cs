@@ -68,11 +68,11 @@ namespace Atmosphere.WebTools
 
 
 
-            using (var writer = new StreamWriter(@".\hostweb.fat.host.psftp", false))
+            using (var writer = new StreamWriter(@"hostweb.fat.host.psftp", false))
             {
                 foreach (string cmd in _commands) writer.WriteLine(cmd);
             }
-            using (var writer = new StreamWriter(@".\hostweb.fat.clean.next.psftp", false))
+            using (var writer = new StreamWriter(@"hostweb.fat.clean.next.psftp", false))
             {
                 foreach (string cmd in _cleanup) writer.WriteLine(cmd);
             }
@@ -89,11 +89,11 @@ namespace Atmosphere.WebTools
 
                 ProcessDirectory(WebTools.WebGalleryDir);
 
-                using (var writer = new StreamWriter(@".\hostweb.fat.gallery.host.psftp", false))
+                using (var writer = new StreamWriter(@"hostweb.fat.gallery.host.psftp", false))
                 {
                     foreach (string cmd in _commands) writer.WriteLine(cmd);
                 }
-                using (var writer = new StreamWriter(@".\hostweb.fat.gallery.clean.next.psftp", false))
+                using (var writer = new StreamWriter(@"hostweb.fat.gallery.clean.next.psftp", false))
                 {
                     foreach (string cmd in _cleanup) writer.WriteLine(cmd);
                 }
@@ -115,11 +115,11 @@ namespace Atmosphere.WebTools
 
                 ProcessDirectory(WebTools.WebCalendarsDir);
 
-                using (var writer = new StreamWriter(@".\hostweb.fat.calendars.host.psftp", false))
+                using (var writer = new StreamWriter(@"hostweb.fat.calendars.host.psftp", false))
                 {
                     foreach (string cmd in _commands) writer.WriteLine(cmd);
                 }
-                using (var writer = new StreamWriter(@".\hostweb.fat.calendars.clean.next.psftp", false))
+                using (var writer = new StreamWriter(@"hostweb.fat.calendars.clean.next.psftp", false))
                 {
                     foreach (string cmd in _cleanup) writer.WriteLine(cmd);
                 }
