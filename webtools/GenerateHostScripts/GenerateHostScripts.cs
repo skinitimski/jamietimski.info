@@ -80,10 +80,10 @@ namespace Atmosphere.WebTools
 
         static void GenerateGalleryScripts()
         {
+            WebTools.Log("Generating host/cleanup scripts for gallery directory...");
+
             if (WebTools.WebGalleryDir.Exists)
             {
-                WebTools.Log("Generating host/cleanup scripts for gallery directory...");
-
                 _commands = new List<string>();
                 _cleanup = new List<string>();
 
@@ -100,16 +100,16 @@ namespace Atmosphere.WebTools
             }
             else
             {
-                WebTools.Log("Could not find directory: {0}", WebTools.WebGalleryDir.FullName);
+                WebTools.Log("Could not find directory; skipping: {0}", WebTools.WebGalleryDir.FullName);
             }
         }
 
         static void GenerateCalendarsScripts()
         {
+            WebTools.Log("Generating host/cleanup scripts for calendars directory...");
+            
             if (WebTools.WebCalendarsDir.Exists)
             {
-                WebTools.Log("Generating host/cleanup scripts for calendars directory...");
-
                 _commands = new List<string>();
                 _cleanup = new List<string>();
 
@@ -126,7 +126,7 @@ namespace Atmosphere.WebTools
             }
             else
             {
-                WebTools.Log("Could not find directory: {0}", WebTools.WebCalendarsDir.FullName);
+                WebTools.Log("Could not find directory; skipping: {0}", WebTools.WebCalendarsDir.FullName);
             }
         }
 
