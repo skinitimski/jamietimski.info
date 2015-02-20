@@ -1,0 +1,268 @@
+<page parent="lists">
+    <title>Lists - TV</title>
+    <header>
+        <p>
+            Here are some <l href="../lists.html">lists</l> pertaining to TV.
+        </p>
+    </header>
+    <sidebar heading="Other Lists">
+        <sections>
+            <list id="TV Shows">
+                <description>
+                    <p>
+                        I watch TV on occasion. Actually, I don't exactly have the means to watch cable TV anymore since Comcast switched
+                        to a digital signal or whatever. That's all well and good because when I move out I'm not going to be getting cable service.
+                    </p>
+                    <p>
+                        Personally, I think there's a lot of crap on TV today. I find it harder and harder
+                        to flip through the channels and find something I'm willing to watch at any given point during the day.
+                        That's bizarre, seeing as how there are more channels and more therefore more programming than there used to be.
+                        Why is there so much less to watch?
+                    </p>
+                    <p>
+                        I think by far the worst crap on TV today are the shows that try to merge the styles of reality TV and documentary.
+                        Take Pawn Stars for example. I think that show is cool in concept. But it is clearly scripted, which is a disappointment.
+                        But what I hate about the show the most is the annoying cutaways to the mock interviews, in which the character is facing just
+                        off camera answering a question nobody asked in the most clich&#xe9; way possible. That drives me CRAZY. And there are a ton of
+                        shows out there with the same format, and every one I've seen I've disliked.
+                    </p>
+                    <p>
+                        Anyway, I usually just watch shows on TiVo. Here are some of my favorite shows.
+                    </p>
+                </description>
+                <columns>
+                    <column width="25%">Show Title</column>
+                    <column width="75%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>South Park</columnValue>
+                        <columnValue>
+                            My favorite show on television. I love the satire and political/social commentary, but the
+                            fact that it's hilarious is certainly the show's greatest quality. I think I know about as
+                            much about this show as anyone.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>The Daily Show with Jon Stewart</columnValue>
+                        <columnValue>
+                            Thanks to the magic of TiVo, I didn't miss a single episode from fall 2005 to fall 2010--when I ended up going without cable for 8 months.
+                            I got back on the wagon around May 2011, but I've once again cut the cable cord, so I'll only be seeing it when I get the chance.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>
+                            <a href="http://en.wikipedia.org/wiki/Louie_(TV_series)">Louie</a>
+                        </columnValue>
+                        <columnValue>
+                            This show is bizzarely humorous. Louis C.K., head writer/director/producer, has an odd wit that
+                            is very easy to relate to, but his ideas are almost always pulled out of the stratosphere. This
+                            show breaks all the norms of a situational comedy.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>
+                            <a href="http://en.wikipedia.org/wiki/Aqua_Teen_Hunger_Force">Aqua Teen Hunger Force</a>
+                            <i prefix=" ">(a.k.a. Aqua Unit Patrol Squad 1)</i>
+                        </columnValue>
+                        <columnValue>
+                            This show is literally off the wall. It is full of non-sequiters and very often makes no sense
+                            whatsoever, but the absurdity adds to the hilarity. The characters (and the voice actors backing
+                            them) are consistently funny, especially <a prefix=" " href="http://en.wikipedia.org/wiki/Carl_Brutananadilewski">Carl Brutananadilewski</a>.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Family Guy</columnValue>
+                        <columnValue>
+                            The best fart joke comedy TV has yet offered. However, its humor value has slipped in recent years.
+                            <b>In general,</b> the older the episode, the more I like it.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Law &amp; Order</columnValue>
+                        <columnValue>
+                            I've watched this show for years. Nowadays, it's a treat whenever an old episode comes on (such as one with Ben Stone), since after
+                            19 seasons they tend to show more recent stuff. <a prefix=" " suffix=" " href="http://en.wikipedia.org/wiki/Jack_McCoy">Jack McCoy</a> is one of my
+                            favorite characters of all time.
+                        </columnValue>
+                    </listItem>
+                </listItems>
+            </list>
+
+            <list id="Notable South Park Episodes">
+                <description>
+                    <p>
+                        I love <a prefix=" " href="http://en.wikipedia.org/wiki/South_Park">South Park</a>. Eventually I'm going to flesh this list out into a
+                        review website on the series, but that will take some time that I don't currently have.
+                        In the meantime, here are some of my favorite episodes and reasons why.
+                    </p>
+                    <p>My favorite episodes tend to be favorites for some common reasons:</p>
+                    <ol>
+                        <li>Mostly set in the elementary school, dealing with just the kids and their lives</li>
+                        <li>Excellent satire</li>
+                    </ol>
+                </description>
+                <columns>
+                    <column width="20%">Episode Title</column>
+                    <column width="20%">Season#-Episode#</column>
+                    <column width="60%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>Tweek vs. Craig</columnValue>
+                        <columnValue>3-5</columnValue>
+                        <columnValue>
+                            The Mr. Adler scenes are a little odd, I'll admit. But the premise of the fight, basically a bet
+                            between the main Four with Tweek and Craig caught in the middle, is hilarious. The sub-plot with
+                            Kenny taking home ec instead of shop class is also very fitting.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Jewbilee</columnValue>
+                        <columnValue>3-9</columnValue>
+                        <columnValue>
+                            I am actually a big Kenny fan, and in this episode, he has to fake being a Jew in order to
+                            go to a camp for Jewish kids with Kyle. I love the fact that you can clearly decipher what Kenny
+                            is saying without the other characters having to repeat it, as in other episodes. Even full
+                            sentences like "How do I do that?" are clear enough out of context to make sense. Moses is one of
+                            my favorite South Park characters; we see him later in Super Best Friends.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Cartman Joins NAMBLA</columnValue>
+                        <columnValue>4-6</columnValue>
+                        <columnValue>
+                            The fact that the show is plotted mainly around elementary school kids is generally one of the
+                            funniest building blocks of the show, because the na&#239;vet&#233; opens up different ways to look at
+                            very seriously wrong things in the world, like NAMBLA. This episode exploits Cartman's naivety:
+                            he joins NAMBLA because he thinks he is too mature for his kid friends and these cool, older men
+                            welcome him in with open arms.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Towelie</columnValue>
+                        <columnValue>5-8</columnValue>
+                        <columnValue>
+                            This is probably the most self-aware episode of its time. A ridiculous, derp-quality character
+                            is introduced named Towelie, and he is by far "the worst character ever", but by that same token,
+                            he is also the best. During this whole episode the kids want nothing other than to get their Okama Game
+                            Sphere back so that they can continue playing Thirst for Blood, but in the meanwhile they have to
+                            suffer through one of the silliest, most contrived plot their writers have conceived yet!
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Asspen</columnValue>
+                        <columnValue>6-2</columnValue>
+                        <columnValue>
+                            By this point in the series, the writers had successfully established a reputation for satire, to the
+                            point where they can write a satire about anything and nothing all at once. I can't tell if this episode
+                            is a direct satire of a specific story, or if it's just a wrapper for
+                            a bunch of lame stories with a similar storyline. Either way, the grief is clear, and anyone can relate.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Raisins</columnValue>
+                        <columnValue>7-14</columnValue>
+                        <columnValue>
+                            It is in this awesome episode that we first meet the Goth Kids, a group of which Stan briefly becomes a
+                            member. It's so sad watching Butters spend all his money on a slimey Raisins girl, but at the same time
+                            it is a vicious satire exposing the unfortunate thin line separating sexuality and good food service.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Quest for Ratings</columnValue>
+                        <columnValue>8-11</columnValue>
+                        <columnValue>
+                            <p>
+                                The kids are in some sort of TV production course and are producing a school news program. However,
+                                they find themselves losing in the ratings to Craig's "Animals Close Up With a Wide-Angle Lens", which
+                                is exactly what it sounds like. So they beef up their news program with flashy graphics, lies about celebrities,
+                                and stories that make people feel like they have to watch the show or they'll die (just like real news
+                                programs).
+                            </p>
+                            <p>
+                                It's even funnier to note that Trey Parker said of this episode, "...this was the first time we were
+                                officially...out of ideas." Oh the irony.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>The Losing Edge</columnValue>
+                        <columnValue>9-5</columnValue>
+                        <columnValue>
+                            <p>
+                                The kids are all playing baseball all summer in the state tournament circuit, and they hate every minute of it.
+                                They want to lose so that their season will end, but every other team in the league wants the same
+                                thing. The teams find themselves battling to see who can lose. An ingenious take on kids sports.
+                            </p>
+                            <p>
+                                The parents, on the other hand, love every minute of their kids' success, especially Randy, who always
+                                gets into fights with other drunk dads at the games. He is speechless to find out that he is going to get
+                                to fight in the State Championship game.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>With Apologies to Jesse Jackson</columnValue>
+                        <columnValue>11-1</columnValue>
+                        <columnValue>
+                            <p>
+                                The first and second times I watched this episode (different audiences), everyone in the room found themselves
+                                gasping for air after laughing uncontrollably at the opening sequence. What an INCREDIBLE season premiere
+                                to have seen with all of my friends in our freshman year apartment.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>The List</columnValue>
+                        <columnValue>11-14</columnValue>
+                        <columnValue>
+                            Another episode based almost solely around just the kids and their lives at the elementary school.
+                            That's not the <i>only</i> reason I like it, but it's a good reason. Does that sparkle with you?
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Major Boobage</columnValue>
+                        <columnValue>12-3</columnValue>
+                        <columnValue>
+                            This episode has so much to offer: Kenny doing drugs (sniffing cat pee), Cartman keeping a safe-house during
+                            the cat holocaust, an Eliot Spitzer-themed public apology performed by Gerold Broflovski, and a
+                            <a prefix=" " suffix=" " href="http://en.wikipedia.org/wiki/Heavy_Metal_(film)">Heavy Metal</a>
+                            parody, both in music and animation. I love it when Butters tries to comfort Kenny while he detoxes.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>The Ungroundable</columnValue>
+                        <columnValue>12-14</columnValue>
+                        <columnValue>
+                            This episode forces you to relate to the Goth kids, of all people, in their contempt for "Vamp" kids--kids who think
+                            it's cool to dress up like vampires. With the recent vampire craze, for those of us thinking, "seriously, what's the
+                            deal?", this episode shines brightly through the dark with a clear message: anyone who likes to dress up like a vampire is a douchebag.
+                            Here, the writers again play on the na&#239;vet&#233; of the characters, specifically Butters. Butters is "transformed"
+                            into a vampire and doesn't realize that he's still in fact a human, and goes without food because he thinks he
+                            needs to consume only blood. He even goes so far as to give Cartman a hickey trying to suck his blood, never having
+                            even bitten into him.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Pinewood Derby</columnValue>
+                        <columnValue>13-6</columnValue>
+                        <columnValue>
+                            The opening sequence of Stan and Randy preparing for and subsequently winning the Pinewood Derby is probably
+                            my favorite beginning to any South Park episode, with the opening to "With Apologies to Jesse Jackson" being
+                            a very close second. I love the scene when the FBI first comes to visit Randy.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>You Have 0 Friends</columnValue>
+                        <columnValue>14-4</columnValue>
+                        <columnValue>
+                            Nothing has ever sufficed in expressing my hatred of Facebook better than this episode. It is
+                            also brilliantly written. In this episode, I am Stan. And to quote Stan, "<i space-before="false">Fuck</i> Facebook, seriously!"
+                        </columnValue>
+                    </listItem>
+                </listItems>
+            </list>
+        </sections>
+    </sidebar>
+</page>

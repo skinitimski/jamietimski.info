@@ -1,0 +1,9 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+10	9:30 PM	Madfish	The Madfish Grill	Rocky Neck, Gloucester, MA	Mile 21
+11	10:00 AM	Parade	375th Birthday Parade	Concord, MA	Boston Fireman's Band
+# first standalone show
+18	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	100 Proof
+24	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround Sound
+25	12:00 PM	Parade	Homecoming Parade	Everret, MA	Boston Fireman's Band
+25	5:00 PM	Parade	Block Party Kickoff Parade	Canton, MA	Boston Fireman's Band
+25	8:00 PM	Middle East	The Middle East	Cambridge, MA	Mile 21	3 Floors of Ska

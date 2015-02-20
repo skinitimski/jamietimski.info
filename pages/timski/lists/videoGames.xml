@@ -1,0 +1,444 @@
+<page parent="lists">
+    <title>Lists - Video Games</title>
+    <header>
+        <p>
+            I am a fan of video games, and have been for almost as long as I've been alive. One of my first toys
+            growing up was a PC.
+        </p>
+        <p>
+            I have a slightly addictive personality, which certainly comes out when playing games. I get addicted to
+            one game and play it until completion or boredom. Then I put it on the shelf, wait a while (months to years),
+            and then pick it up again.
+        </p>
+    </header>
+    <sidebar heading="Other Lists">
+        <sections>
+
+            <list id="My Favorite Games">
+                <description>
+                    <p>These are my favorite games of all time.</p>
+                </description>
+                <columns>
+                    <column width="20%">Game</column>
+                    <column width="20%">Platform</column>
+                    <column width="60%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>Final Fantasy VII</columnValue>
+                        <columnValue>PlayStation</columnValue>
+                        <columnValue>
+                            <a name="ff7"></a>
+                            <p>
+                                I can't say enough about the game that changed my life. Nine playable characters complete with
+                                unique, intertwining backstories; four complete CDs worth of brilliantly composed soundtrack;
+                                50+ hours of gameplay; magic, swords, and guns all in the same context...
+                            </p>
+                            <p>
+                                This game is a wonderful fantasy. It is so extensive that it takes multiple play-throughs to
+                                fully understand what is going on--if you believe you can ever fully understand what is going on--yet so
+                                enthralling that the story sticks with you from beginning to end.
+                            </p>
+                            <p>
+                                I am a master of this game, through and through. I know how to get every item, learn every skill, and
+                                travel to every area on the map. I have found so many ways to immortalize my party that battling enemies
+                                has become trivial at the least.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Sonic the Hedgehog 3 and Knuckles</columnValue>
+                        <columnValue>Sega Genesis</columnValue>
+                        <columnValue>
+                            <a name="s3"></a>
+                            <p>
+                                I have quite literally played through this game in its entirety hundreds of times. I got into this game
+                                by watching my brother Dave and his friend Kyle play it. I became Dave's apprentice, and as he learned
+                                to play to perfection, so did I. There was one summer that I can remember playing S3&amp;K through from
+                                beginning to end several times per day. I think Dave was on staff at summer camp that year, so I was
+                                frequently lonely.
+                            </p>
+                            <p>
+                                I hold S3&amp;K to be better than its predecessors for many reasons:
+                            </p>
+                            <ul>
+                                <li>
+                                    Better music
+                                    <ul>
+                                        <li class="nolabel">
+                                            Not only is there <i>more</i> music in this game, but each act has its own unique track, unlike
+                                            predecessors where all acts of the same zone had the same music.
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    More rings
+                                    <ul>
+                                        <li class="nolabel">
+                                            More rings means more chances to pick up extra lives. When I play S2, I only very rarely reach 200 rings, and
+                                            it's usually only right before getting injured and losing all of them. In S3&amp;K, I very often have 300+ rings,
+                                            and sometimes even get into the 400s and 500s. I never remember what my record is, but I know it is <i>at least</i>
+                                            in the 500s. I may or may not have seen a 600...I can't remember.
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    Presence of a developed storyline
+                                    <ul>
+                                        <li class="nolabel">
+                                            The game actually has <i>two</i> storylines; one for Sonic/Tails and one for Knuckles. Throughout both, there
+                                            are definitive plot points and a developed storyline, even if it isn't always clear what that story is. Also, unlike
+                                            in previous games, S3&amp;K features transitions between zones, so when you go from a hill covered in mushrooms to a
+                                            flying fortress in the sky, you don't wonder what the hell just happened.
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    Emeralds
+                                    <ul>
+                                        <li class="nolabel">
+                                            Not only are there two sets of Emeralds in this game (Chaos and Super), they are by far the most fun to
+                                            obtain. First of all, you don't need 100, 50, or even <i>any</i> rings to enter a special stage. This is a
+                                            huge pain in the ass throughout Sonic 2, as you have to have 50 rings before hitting a star post in order
+                                            to enter a special stage, and when you exit it, your ring count is reset to 0, meaning you have to recollect
+                                            all your rings. Second, the special stages themselves are ridiculously fun and entertaining to play. Third, the
+                                            fact that you finally get to play as Super Tails is one of my favorite parts of S3&amp;K.
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>The Legend of Zelda: Ocarina of Time</columnValue>
+                        <columnValue>Nintendo 64</columnValue>
+                        <columnValue>
+                            <a name="oot"></a>
+                            <p>
+                                Some would say that this is the greatest video game ever made. I tend to agree. It is certainly the quintessential Zelda game,
+                                being the first one in 3D, the one that supposedly splits the series's timeline into <i space-after="false">
+                                    <a href="http://zelda.wikia.com/wiki/Timeline">three</a>
+                                </i>, and the one that describes the creation of the Triforce, Sacred Realm, and Hyrule itself.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                </listItems>
+            </list>
+            <!--list id="&quot;The Classics&quot;">
+            <description>
+                <p>These are what I call &quot;classics&quot;.</p>
+            </description>
+            <listItems>
+                <listItem>
+                    <identity>Space Quest (series)</identity>
+                    <descriptor>PC</descriptor>
+                    <prose>
+                        <p></p>
+                    </prose>
+                </listItem>
+            </listItems>
+        </list-->
+            <list id="Video Games I've Played Through to Completion">
+                <description>
+                    <p>Here are some role-playing games that I've played through to completion.</p>
+                </description>
+                <columns>
+                    <column width="20%">Game</column>
+                    <column width="20%">Platform</column>
+                    <column width="60%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>Wizards and Warriors III</columnValue>
+                        <columnValue>Nintendo</columnValue>
+                        <columnValue>
+                            <p>
+                                This is a fantastic NES game. Your goal is to confront the evil king. You do this by acquiring
+                                new identities with enhanced abilities which allow you to advance.
+                            </p>
+                            <p>
+                                You start off as a warrior named Kuros hunting for the evil wizard Malkil who has maliciously
+                                taken the kingship of the city of Pideup from the Good King James. In order to make an assault on
+                                the wizard's castle and free King James, Kuros must equip himself with the weapons of a knight,
+                                tools which he lost shortly after his previous encounter with Malkil.
+                            </p>
+                            <p>
+                                The game's world is split into three sections: the town, the
+                                castle above it and the underground below. Each area has a guild: the town has a guild of thievery and stealth;
+                                the underground, a guild of wizardry and sorcery; the castle, a guild of knighthood and valor. Each guild has three
+                                levels, and the player must pass the tests of each level in order to gain that level's abilities and honors. Each new
+                                ability allows you to enter a new section of the world, and typically, allows you to enter and attempt to pass the next
+                                guild level. The final guild you enter is the 3rd level of the knight's guild, which gives you the sword and
+                                armor necessary to defeat Malkil.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Final Fantasy VII</columnValue>
+                        <columnValue>PlayStation</columnValue>
+                        <columnValue>
+                            <p>
+                                See description <l space-after="false" href="#ff7">above</l>.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Sonic the Hedgehog 3 and Knuckles</columnValue>
+                        <columnValue>Sega Genesis</columnValue>
+                        <columnValue>
+                            <p>
+                                See description <l space-after="false" href="#s3">above</l>.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>The Legend of Zelda</columnValue>
+                        <columnValue>Nintendo</columnValue>
+                        <columnValue>
+                            <p>
+                                This was the game that started it all. Like most NES games, this game is MUCH harder
+                                than its 3D successors. The only way I found it pleasing to go through this game was
+                                by looking stuff up online.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Zelda II: The Adventure of Link</columnValue>
+                        <columnValue>Nintendo</columnValue>
+                        <columnValue>
+                            <p>
+                                Unlike most Zelda fans, <i>this</i> was the game I played over and over throughout
+                                my childhood. And strangely enough, it has been called the black sheep of the series.
+                                It is the only game in the series to have a primarily side-scrolling perspective, a number in its
+                                title, extra lives, and an experience points system, among other things. Nevertheless, some
+                                Zelda aspects introduced with this game became staples throughout
+                                the series, such as items like the Hammer, the magic meter/spells, Dark/Shadow Link, the concept of different
+                                parts of the Triforce (i.e. the Triforce of Courage), certain enemies, side-quests, etc.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>The Legend of Zelda: Ocarina of Time</columnValue>
+                        <columnValue>Nintendo 64</columnValue>
+                        <columnValue>
+                            <p>
+                                See description <l space-after="false" href="#oot">above</l>.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>The Legend of Zelda: Wind Waker</columnValue>
+                        <columnValue>GameCube</columnValue>
+                        <columnValue>
+                            <p>
+                                This game takes a lot of heat from Zelda fans. The overworld is a grid map of the ocean divided into
+                                49 squares, and in each square is an island. Gameplay consists of a lot of sailing between those islands, which
+                                is very time consuming and aggrevating to most players.
+                            </p>
+                            <p>
+                                The dungeons in this game are not very good when compared to OOT or Twilight Princess.
+                                And, there are only a small handful of dungeons to complete. The story is also lacking. Some Zelda fans
+                                would agree that they would probably like the game <i>if</i> it weren't a Zelda game.
+                            </p>
+                            <p>
+                                Personally, I really like this game. The dungeons are disappointing, but the game still has so much to offer. The graphics
+                                are very pleasing to look at. The fighting/controls are very comfortable and responsive. There are TONS of items to collect, and some unique items you
+                                don't really find in the other games (Deku Leaf, Telescope, and the oh-so-useless Tingle Tuner).
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>The Legend of Zelda: Twilight Princess</columnValue>
+                        <columnValue>GameCube</columnValue>
+                        <columnValue>
+                            <p>
+                                HOLY CRAP is this game beautiful. It might be the most graphically-attractive game made for the GameCube.
+                            </p>
+                            <p>
+                                I think this game is the perfect union of its predecessors. It's like OOT on steroids, with more items, dungeons, and beauty.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Metroid: Prime</columnValue>
+                        <columnValue>GameCube</columnValue>
+                        <columnValue>
+                            <p>
+                                I didn't really know what I was in for when I bought this game. I had seen
+                                <a prefix=" " suffix=" " href="http://en.wikipedia.org/wiki/Metroid_Prime_3:_Corruption">Corruption</a>
+                                played before, so I knew that it was an exploratory RPG. But I had no idea what the Metroid series was about,
+                                nor did I understand what the game would be like from beginning to end. I started to develop that idea early on, only to find
+                                out as I progressed that I was horribly, horribly wrong.
+                            </p>
+                            <p>
+                                I first played this game in the summer of 2008, when I was on my first co-op gig. Those summer nights
+                                consisted of getting home from work, doing everything I needed to get done before the next day,
+                                then getting high and playing Metroid. It was a great summer.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Half-Life</columnValue>
+                        <columnValue>PC</columnValue>
+                        <columnValue>
+                            <p>
+                                At the time, this was the longest game I had ever played. I got to enjoy it both while playing
+                                and while watching Dave play it before me.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>
+                            Half-Life<sup>2</sup>
+                        </columnValue>
+                        <columnValue>PC</columnValue>
+                        <columnValue>
+                            <p>
+                                This game is EPIC. It is truly astounding how much work has gone into making this game
+                                look real, not just in how it depicts textures and colors, but in how it depicts physical concepts
+                                like motion, face muscles, and <a prefix=" " href="http://en.wikipedia.org/wiki/Bloom_(shader_effect)">bloom</a>.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Portal</columnValue>
+                        <columnValue>PC</columnValue>
+                        <columnValue>
+                            <p>
+                                This game is seriously brilliant, both in design and concept. While
+                                you never expect a game to be completely in touch with the world of
+                                physics (especially not one that allows you to shoot wormhole-like
+                                portals onto smooth surfaces like <i>Portal</i>), this game is
+                                at its core a physics puzzle game. Use your understanding of physical reality to
+                                navigate through this totally imaginative world of puzzles.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>ToeJam &amp; Earl in Panic on Funkatron</columnValue>
+                        <columnValue>Sega Genesis</columnValue>
+                        <columnValue>
+                            <p>
+                                This game is "AWESOME". You take the role of a pair of the coolest, funkiest aliens in the
+                                galaxy, and your job is to rid your home planet, Funkatron, of the pesky Earthlings that followed you back from your
+                                most recent visit to Earth. You achieve this by catching the Earthlings and jars and tossing them on a ship back to Earth.
+                            </p>
+                            <p>
+                                The music in this game is incredibly funky and creative. One of my favorite tracks, played whenever
+                                you have to stroll through a flowery meadow, is called "Pasture Bedtime". Hilarious.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Goldeneye 007</columnValue>
+                        <columnValue>Nintendo 64</columnValue>
+                        <columnValue>
+                            <p>
+                                Everyone who has ever played a video game has played this one. Goldeneye proved to be a seminal first person shooter,
+                                and is probably responsible for the popularity and success of the multiplayer first person shooter genre. This is the
+                                kind of game that friends could spend hour after hour shooting each other with varying combinations of weapons and rules
+                                (including fighting in a slap-only sudden death match).
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Pok&#xe9;mon Snap</columnValue>
+                        <columnValue>Nintendo 64</columnValue>
+                        <columnValue>
+                            <p>
+                                I don't care what anyone says, this game is a lot of fun to play.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Darwinia</columnValue>
+                        <columnValue>PC</columnValue>
+                        <columnValue>
+                            <p>
+                                Darwinia is pretty unique. The graphics are elegant but simple, as is the gameplay. Strategy and timing are crucial to
+                                success. But the whole concept of the plot and the world in which the game takes place is very creative.
+                            </p>
+                            <p>
+                                I almost forgot I had even played this game.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                </listItems>
+            </list>
+            <list id="Other Games I've Played">
+                <description>
+                    <p>Here are some other games I've played.</p>
+                </description>
+                <columns>
+                    <column width="20%">Game</column>
+                    <column width="20%">Platform</column>
+                    <column width="60%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>The Legend of Zelda: A Link to the Past</columnValue>
+                        <columnValue>Super Nintendo / Game Boy Advance</columnValue>
+                        <columnValue>
+                            <p>
+                                At one time I was playing this game on Game Boy Advance, but that device was stolen from me in New York City,
+                                and the game went with it. I don't remember how far I got, but needless to say I need to play this game again.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>The Legend of Zelda: Link's Awakening</columnValue>
+                        <columnValue>Game Boy</columnValue>
+                        <columnValue>
+                            <p>
+                                I'm so close to finishing this game that it hurts a little.
+                            </p>
+                            <p>
+                                I've had fun with this one. I like the items and the gameplay. I can't speak to the story yet since
+                                I haven't finished it. I can't seem to memorize the overworld map no matter how hard I try.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Super Smash Brothers Melee</columnValue>
+                        <columnValue>GameCube</columnValue>
+                        <columnValue>
+                            <p>
+
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Super Smash Brothers Brawl</columnValue>
+                        <columnValue>Wii</columnValue>
+                        <columnValue>
+                            <p>
+
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Mario Kart 64</columnValue>
+                        <columnValue>Nintendo 64</columnValue>
+                        <columnValue>
+                            <p>
+                                This game is OK. I like later incarnations better.
+                            </p>
+                            <p>
+                                Playing in 150cc mode is freaking hard.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Mario Kart: Double Dash!!</columnValue>
+                        <columnValue>GameCube</columnValue>
+                        <columnValue>
+                            <p>
+                                This is probably my favorite Mario Kart incarnation.
+                            </p>
+                        </columnValue>
+                    </listItem>
+                </listItems>
+            </list>
+        </sections>
+    </sidebar>
+</page>

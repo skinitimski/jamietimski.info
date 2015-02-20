@@ -1,0 +1,5 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+13	9:00 PM	Lat 43	Latitude 43	Gloucester, MA	The Runaround
+21	9:00 PM	Cameron's	Cameron's Restaurant	Gloucester, MA	100 Proof
+28	9:00 PM	Madfish	The Madfish Grill	Rocky Neck, Gloucester, MA	Mile 21
+#??	7:00 PM	Stage Fort	The Bandstand at Stage Fort Park	Gloucester, MA	Cape Ann Community Band	Annual Community Band Concert

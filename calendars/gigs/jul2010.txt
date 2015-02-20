@@ -1,0 +1,8 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+3	6:00 AM	Horribles' Parade	Fishtown Horribles' Parade	Gloucester, MA	Boston Fireman's Band
+3	8:00 PM (ish)	Boulevard	Stacy Boulevard	Gloucester, MA	The Runaround	3rd Annual Fireworks Extravaganzaa
+4	10:00 AM	Parade	4th of July Parade	Burlington, MA	Boston Fireman's Band
+4	6:00 PM	Parade	4th of July Parade	Rockport, MA	Boston Fireman's Band
+5	9:00 AM	Parade	4th of July Parade	Needham, MA	Boston Fireman's Band
+10	9:00 PM	Capt Carlo's	Captain Carlo's Outside	Gloucester, MA	The Runaround
+16	9:30 PM	Overtime	Overtime Sports Bar	Beverly, MA	The Runaround

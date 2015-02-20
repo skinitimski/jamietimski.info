@@ -1,0 +1,66 @@
+<page parent="index" suppressHomeLink="true" suppressParentLink="true" sortOrder="30">
+    <title center="true">The Engagement</title>
+    <sidebar>
+        <sections suppressHomeLink="true" suppressParentLink="true">
+            <section id="Backstory">
+                <p>
+                    Jamie and Timski spent most of the summer of 2012 together, but the crucial tests of their relationship came in the form of two
+                    getaway trips: first, a camping trip in NH with a large portion of Timski's family, and then a road trip to Milwaukee to visit with Jamie's
+                    closest friends. After returning from the road trip and allowing a couple of days to pass, Timski started itching to propose. He spilled
+                    the beans to his sister-in-law Jenn at lunch the following Monday, and the idea snowballed from there. By Tuesday evening, he had
+                    his plan put together.
+                </p>
+            </section>
+            <section id="The Ring">
+                <with-image>
+                    <text>
+                        <p>
+                            On Thursday that week, Jamie was to be at a meeting in the evening, and Timski was supposed to be at a softball game.
+                            Timski sneakily decided this would be the perfect time to go buy the ring. Accompanied by his mother Maureen and Jenn, he headed to the Square One Mall in
+                            Saugus, MA, which houses several jewelry stores.
+                        </p>
+                        <p>
+                            The first stop was Hannoush Jewelers, and it turned out to be the only stop that was necessary. The salesman, Frank, showed off a bunch of rings,
+                            but the only one Timski was interested in was this petite ring with an unusual blue diamond. Frank, Maureen, and Jenn tried explaining to Timski
+                            that an engagement ring is supposed to have a <i>real diamond</i> (you know, the colorless kind), wedding bands are important (and the one Timski
+                            wanted wouldn't fit well with a wedding band), and other such things in order to help him find the right ring, but the little
+                            ring with the blue diamond seemed to be absolutely but inexplicably perfect.
+                            They searched other shops that night, but eventually came back to Hannoush, where Timski decided to take a risk and get the unusual ring.
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/ring.jpg</src>
+                        <caption>The engagement ring</caption>
+                    </image>
+                </with-image>
+            </section>
+            <section id="The Proposal">
+                <with-image>
+                    <text>
+                        <p>
+                            On the night of Friday, August 31 2012, Timski had a gig with his band <l href="/pages/bands.html#The Runaround Sound">The Runaround Sound</l> at
+                            the <a prefix=" " href="http://www.capeannbrewing.com/">Cape Ann Brew Pub</a>. Since that was where he and Jamie had their first date, he thought it would be the
+                            perfect time and place to propose.
+                        </p>
+                        <p>
+                            Jamie arrived from work a little bit into the first set. Surprisingly, she didn't find it odd that most of Timski's immediate family was present, given that
+                            they don't usually all come to his gigs. At the first set break, Timski greeted Jamie and asked if she wanted to go get some air outside.
+                            They walked out onto the dock overlooking Gloucester's inner harbor; it was a gorgeous evening. There he pulled the ring out of his pocket and asked Jamie if she would marry him.
+                            Cheers and camera flashes abounded from the pub as Jamie accepted.
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/proposal.jpg</src>
+                        <caption>The proposal</caption>
+                    </image>
+                </with-image>
+            </section>
+            <section id="The Party">
+                <p>
+                    The happy couple celebrated their engagement with a party at their residence on October 6, 2012. Unfortunately, everyone
+                    was too busy having fun to take pictures!
+                </p>
+            </section>
+        </sections>
+    </sidebar>
+</page>

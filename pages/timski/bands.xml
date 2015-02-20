@@ -1,0 +1,183 @@
+<page parent="timski">
+    <title>Bands</title>
+    <header>
+        <p>
+            I am in some bands. Check out our <l href="/calendars/gigs.html">show dates</l>!
+        </p>
+    </header>
+    <sections>
+        <band id="The Runaround Sound">
+            <description>
+                <with-image>
+                    <text>
+                        <p>
+                            The Runaround Sound formed in the winter of 2007/2008 out of the remnants of a
+                            high school band, <a prefix=" " href="/gallery/heap/cl0.jpg">"The Checklist"</a>, 
+                            a.k.a. <a prefix=" " href="/gallery/heap/sp0.jpg">"The Square Pegs"</a>.
+                            We play covers of
+                            various ska/reggae/rocksteady tunes, some standards and some rare gold. We play bars,
+                            events, weddings, you name it. Our job is to get you to dance. The band is on
+                            Facebook--search for a profile named "Run Around".
+                        </p>
+                        <p>
+                            Check out this <a prefix=" " suffix=" " href="http://www.youtube.com/watch?v=bomJ3o7A_ko">video</a> of us at the Middle East on 1/7/2012.
+                        </p>
+                    </text>  
+                    <image>
+                        <src>/gallery/heap/ras2.jpg</src>
+                        <caption>The Runaround Sound @ The Cape Ann Brewery, Winter 2011-2012</caption>
+                    </image>
+                </with-image>
+            </description>
+            <members>
+                <member name="Carlos Menezes"       role="Horns, Lead and Backing Vocals" />
+                <member name="Timothy Klopotoski"   role="Organ, Trombone, Lead and Backing Vocals" />
+                <member name="Steve Russo"          role="Drums, Lead and Backing Vocals" />
+                <member name="Nick Capello"         role="Tenor Saxophone, Percussion, Backing Vocals" />
+                <member name="Bill Spencer"         role="Bass Guitar, Backing Vocals" />
+                <member name="Christian Towler"     role="Lead Guitar" />
+            </members>
+            <friends>
+                <member name="Michael Thomas Doyle" role="Lead Guitar"                           sometimes="Drums" />
+                <member name="Tim Ringwood"         role="Lead Guitar, Lead and Backing Vocals"  sometimes="Drums" />
+                <member name="Mike Goulart"         role="Lead Guitar" />
+                <member name="Dan Liacos"           role="Drums" />
+                <member name="Rick Geraghty"        role="Drums" />
+                <member name="Josh Lentini"         role="Drums" />
+                <member name="James Gigliotti"      role="Bass Guitar" />
+                <member name="Pete Iannito"         role="Bass Guitar" />
+                <member name="Chris 'Red' Kersker"  role="Bass Guitar" />
+                <member name="Shawn Lowe"           role="Trumpet" />
+                <member name="Alex Delisi"          role="Trumpet" />
+                <member name="Paula Burns"          role="Trombone" />
+                <member name="Nate Rich"            role="Saxophone" />
+                <member name="Mike Lentini"         role="Saxophone" />
+                <member name="Luke Gosselin"        role="Saxophone" />
+            </friends>
+        </band>
+        <hidden id="Afrobeat Collective (name TBD)">
+            <description>
+                <with-image>
+                    <text>
+                        <p>
+                            The unnamed Afrobeat band will be making its debut at the Rhumb Line in Gloucester on December 20, 2014.
+                        </p>
+                    </text>  
+                    <!--
+                    <image>
+                        <src>/gallery/heap/ras2.jpg</src>
+                        <caption>The Runaround Sound @ The Cape Ann Brewery, Winter 2011-2012</caption>
+                    </image>
+                    -->
+                </with-image>
+            </description>
+            <members>
+                <member name="Joe Wilkins"      role="Guitar, Vocals" />
+                <member name="Renee Dupuis"     role="Keys, Vocals" />
+                <member name="Dennis Monagle"   role="Drums, Vocals" />
+                <member name="Steve Burke"      role="Drums" />
+                <member name="Scott Noring"     role="Percussion" />
+                <member name="Joe Cardoza"      role="Guitar" />
+                <member name="Laura Heinrichs"  role="Flute" />
+                <member name="Tim Klopotoski"   role="Trombone" />
+                <member name="Jamie Klopotoski" role="Bari Sax" />
+                <member name="Mike Lentini"     role="Tenor Sax" />
+            </members>
+        </hidden>
+        <band id="Boston Fireman's Band">
+            <description>
+                <with-image>
+                    <text>
+                        <p>
+                            The <a prefix=" " suffix=" " href="/gallery/heap/bfb0.jpg">BFB</a> is a professional 
+                            marching band representing the Boston Firemen. We play at several parades
+                            in the Boston area throughout the year. Our repertoire is made up of very loud and proud
+                            marches, such as Bravura, Washington Post March, National Emblem, Hostrauser's March,
+                            etc. I play the trombone and the sousaphone with the BFB (not simultaneously). My first gig
+                            with the BFB was in Quincy on June 16, 2007.
+                        </p>
+                    </text>  
+                    <image>
+                        <src>/gallery/heap/bfb0.jpg</src>
+                        <caption>The Boston Fireman's Band @ East Boston Columbus Day Parade (2008 or 2010)</caption>
+                    </image>
+                </with-image>
+                
+            </description>
+        </band>
+        
+        
+        
+        <hidden id="Mile 21">
+            <description>
+                Mile 21, Gloucester's premiere reggae band, formed back in the fall of 2000.
+                We play a mix of sound incorporating reggae, ska, and punk rock. Our material
+                is mostly our own. Mile 21 is signed to Megalith Records.
+                <a href="http://www.youtube.com/watch?v=yqpm4Bes9Vs">Video</a>
+            </description>
+            <members>
+                <member name="Keith Amero"             role="Rhythm Guitar, Lead Vocals" formerly="Bass Guitar"/>
+                <member name="Mike Goulart"            role="Lead Guitar" />
+                <member name="Chris 'Red' Kersker"     role="Bass Guitar" />
+                <member name="Julien O'Brien"          role="Keyboardz" />
+                <member name="Steve Russo"             role="Drums, Backing Vocals" />
+                <member name="Carlos Menezes"          role="Horns, Backing Vocals" />
+                <member name="Timothy Klopotoski"      role="Horns, Backing Vocals" />
+            </members>
+        </hidden>
+        <hidden id="100 Proof">
+            <description>
+                100 Proof ("hundred proof") is a southern rock cover band. We play Allman Brothers,
+                Johnny Cash, ZZ Top, Lynard Skynard, and the like. Check us out.
+            </description>
+            <members>
+                <member name="Mike Goulart"        role="Lead Guitar" />
+                <member name="Brian Tarr"          role="Rhythm Guitar, Lead Vocals" />
+                <member name="Dan Liacos"          role="Drums, Backing Vocals" />
+                <member name="Carlos Menezes"      role="Bass Guitar" />
+                <member name="Tim Klopotoski"      role="Organ/Keyboards, Backing Vocals" />
+            </members>
+        </hidden>
+        
+        
+        <hidden id="Cape Ann Big Band">
+            <description>
+                <with-image>
+                    <text>
+                        <p>
+                            The <a prefix=" " href="http://facebook.com/capeannbigband">CABB</a>, started in the fall of 2010
+                            by a group of very dedicated musicians primarily
+                            from Gloucester, is Cape Ann's premiere big band. The band is directed by Carlos Menezes,
+                            and is managed by a board consisting of Carlos, Paula, Shawn, Mike, and Rick.
+                            Originally a founding member, I had to depart from the group in late fall 2010. I joined
+                            up again in summer 2011 on 4th trombone.
+                        </p>
+                    </text>  
+                    <image>
+                        <src>/gallery/heap/cabb0.jpg</src>
+                        <caption>The Cape Ann Big Band</caption>
+                    </image>
+                </with-image>                
+            </description>
+            <members>
+                <member name="Steve Silva"          role="Alto Saxophone" />
+                <member name="Ed Biggs"             role="Alto Saxophone"  sometimes="Clarinet"/>
+                <member name="Carlos Menezes"       role="Tenor Saxophone, Director" />
+                <member name="Nick Capello"         role="Tenor Saxophone" />
+                <member name="Mike Lentini"         role="Baritone Saxophone" />
+                <member name="Tom Madore"           role="Trombone" />
+                <member name="Paula Burns"          role="Trombone" />
+                <member name="Dana Cohen"           role="Trombone" />
+                <member name="Timothy Klopotoski"   role="Trombone" />
+                <member name="Shawn Lowe"           role="Trumpet" />
+                <member name="Alex Delisi"          role="Trumpet" />
+                <member name="Arthur Adamson"       role="Trumpet" />
+                <member name="John Persson"         role="Trumpet" />
+                <member name="Christian Towler"     role="Guitar" />
+                <member name="Gary Wolsieffer"      role="Bass Guitar, Upright Bass" />
+                <member name="Chris Bodek"          role="Keyboard" />
+                <member name="Rick Geraghty"        role="Drums" />
+            </members>
+        </hidden>
+    </sections>
+</page>

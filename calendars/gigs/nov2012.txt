@@ -1,0 +1,6 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+4	1:00 PM	Private Party	The Gloucester House Restaurant	Gloucester, MA	Cape Ann Big Band	Birthday Party
+9	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround Sound
+11	3:00 PM	Fundraiser	The Gloucester House Restaurant	Gloucester, MA	Cape Ann Big Band	Troop Fundraiser
+21	9:00 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	The Runaround Sound	Thanksgiving Eve Celebration
+25	3:00 PM	Parade	Santa Claus Parade	Gloucester, MA	Boston Fireman's Band

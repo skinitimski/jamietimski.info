@@ -1,0 +1,2 @@
+title	Timski's Life Events
+eventType	Atmosphere.WebTools.BasicEvent

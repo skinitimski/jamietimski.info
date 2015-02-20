@@ -1,0 +1,304 @@
+<page parent="instruments">
+    <title>Instruments - Trombones</title>
+    <header>
+        <p>
+            I own a few trombones. I've bought and sold over a dozen horns since 2001.
+        </p>
+        <p>
+            While playing tenor, I am exclusively using Vincent Bach 6 1/2 AL mouthpieces, specifically, the vintage when the "1/2" was stamped
+            <a prefix=" " href="/gallery/heap/6.5al0.jpg">like this</a>, which was before they started stamping it <a prefix=" " href="/gallery/heap/6.5al1.jpg">like this</a>.
+            I am not sure exactly what changed about the 6 1/2 AL over its history, I just wanted to be consistent when I bought multiple copies.
+        </p>
+        <p>
+            I now exclusively use a <a prefix=" " suffix=" " href="http://www.monette.net/newsite/index.htm">Monette</a>
+            BT-2 for bass trombone. I tried using my Bach one day after using the Monette for a long time and found it to be too stuffy--there is no comparison. The Monette is so open. 
+        </p>
+    </header>
+    <sidebar heading="Other Instruments">
+        <sections>
+            <section id="Cherie">
+                <values>
+                    <make>Conn</make>
+                    <model>18H (bell); 14H (slide)</model>
+                    <bore>.484"</bore>
+                    <bell>7 1/2", lacquered copper</bell>
+                    <key>Bb</key>
+                    <slide>9/10</slide>
+                    <cost>~$250</cost>
+                    <year>circa 1966 (bell)</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            This is my baby, my favorite trombone. I have owned the bell section for several years. For a long time I was
+                            using a slide that my father built out of two other Conn slides (one a 14H, the other a 48H). The stockings and
+                            inner tubes on that slide were pitted and rough, but the action was still smooth for a long time. I played it to
+                            the point where the slide was no longer usable. To get a replacement slide I bought a used Conn 14H on eBay. So
+                            Cherie is actually two trombones.  I recently worked on the slide a little and brought it from an 8 to a 9.
+                        </p>
+                        <p>
+                            Cherie gets her name from her bell, which is made from copper. Typical brass bells are an alloy made from roughly 70% copper
+                            and 30% zinc. Cherie's bell is 100% copper. Copper bells, accoring to <a prefix=" " href="http://cderksen.home.xs4all.nl/ConnArticle20.html">Conn</a>,
+                            produce a darker sound with increased directional projection. While I have found that to be true, I cherish
+                            Cherie more for her unique "cherry" appearance.
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/cherie.jpg</src>
+                    </image>
+                </with-image>
+            </section>
+            <section id="Maura">
+                <values>
+                    <make>Conn</make>
+                    <model>18H</model>
+                    <bore>.484"</bore>
+                    <bell>7", unlacquered copper</bell>
+                    <key>Bb</key>
+                    <slide>9/10</slide>
+                    <cost>~$150</cost>
+                    <year>circa 1957</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            This horn is very similar to <a prefix=" " href="#Cherie">Cherie</a>, but the bell is slightly smaller, and it has no lacquer.
+                            The result is a noticably darker sound. The bell section is also a slightly different dimension (1/4" <i space-after="false">longer</i>), which
+                            means all of the slide positions look different; I have to close my eyes to play in tune.
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/maura.jpg</src>
+                    </image>
+                </with-image>
+            </section>
+            <section id="Charlotte">
+                <values>
+                    <make>Conn</make>
+                    <model>6H</model>
+                    <bore>.500"</bore>
+                    <bell>8", silver</bell>
+                    <key>Bb</key>
+                    <slide>9/10</slide>
+                    <cost>~$650</cost>
+                    <year>circa 1970</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            This is my silver concert horn. I bought Charlotte on eBay while I was in high school, right around the time I decided to
+                            sell my Bach 42BO. I don't like to take her out of the case because she is in such nice condition. She does
+                            have a few small dents, and some weird mark on the silver just below the tuning slide, but she's still beautiful from end
+                            to end. The slide is almost perfect.
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/charlotte.jpg</src>
+                    </image>
+                </with-image>
+            </section>
+            <section id="Cleveland">
+                <values>
+                    <make>Cleveland</make>
+                    <model>Superior</model>
+                    <bore></bore>
+                    <bell>7 3/8", lacquered yellow brass</bell>
+                    <key>Bb</key>
+                    <slide>7/10</slide>
+                    <cost>Free!</cost>
+                    <year>circa 1965</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            This horn came "free" with a Conn 4H that I bought on eBay (the auction was for two bones, but I wanted the 4H). I ended
+                            up keeping this one because of its impeccable condition and resold the 4H for the same price as I paid for both originally
+                            (thereby making Cleveland a free horn). The condition has worsened greatly since. The slide
+                            has been dented and fixed several times. I was dancing on stage one night; I jumped too high and fell into Steve's drum set, and
+                            squished part of the bell section on a piece of hardware. Oops. Still plays great! I usually march with this horn. When
+                            <l href="#Cherie">Cherie</l> was out of service, I played this horn a <i space-after="false">lot</i>.
+                        </p>
+                    </text>
+                </with-image>
+            </section>
+            <section id="Maureen">
+                <values>
+                    <make>King</make>
+                    <model>4B Sonorous</model>
+                    <bore>.547"</bore>
+                    <bell>8 1/2", lacquered yellow brass</bell>
+                    <key>Bb/F</key>
+                    <slide>9/10</slide>
+                    <cost>~$425</cost>
+                    <year>circa 1978</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            I bought this horn on eBay because I needed a Bb/F trombone for use with the Cape Ann Big Band. I wanted to play 4th trombone,
+                            which is impossible on a straight tenor. When I first played this horn, the slide was stuck, so I could only play in 1st position, but
+                            it didn't matter. I was immediately amazed by the sound produced. The horn is aptly named "Sonorous".
+                        </p>
+                    </text>
+                </with-image>
+            </section>
+            <section id="Darcie">
+                <values>
+                    <make>Conn</make>
+                    <model>60H, custom</model>
+                    <bore>.562"</bore>
+                    <bell>9 1/2", lacquered red brass</bell>
+                    <key>Bb/F/D</key>
+                    <slide>10/10</slide>
+                    <cost>$2600</cost>
+                    <year>circa 1972</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            This is my new love, my first triple horn. I love old Conns so I bought this one without having tried it.
+                            I am very pleased with my decision, as this horn plays great. The tuning slide on this horn is built into the handslide,
+                            so that the entire bell section can be conical (a tuning slide in the bell requires two cylindrical sections in the bell).
+                            The sound is big and dark.
+                        </p>
+                        <p>
+                            This horn was customized by the previous owner. It was originally a single-valve 60H, and a second Conn valve was added
+                            to make the horn more like a 62H. The valve linkages were replaced with ball linkages which are incredibly smooth and quiet.
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/darcie.jpg</src>
+                    </image>
+                </with-image>
+            </section>
+            <section id="Lily">
+                <values>
+                    <make>Conn</make>
+                    <model>16A</model>
+                    <bore>??</bore>
+                    <bell>4", silver</bell>
+                    <key>Bb</key>
+                    <slide>7/10</slide>
+                    <cost>$1000</cost>
+                    <year>circa 1921</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            Never in my life did I expect to own one of these. This item has extremely high levels of both rareness and coolness.
+                            You might call her a soprano trombone, or perhaps a slide cornet. I just call her Lily. At over 90 years old, she's the
+                            oldest working instrument I own.
+                        </p>
+                        <p>
+                            Lily, like <l space-after="false" href="#Darcie">Darcie</l>, has her tuning slide built into the handslide. This allows the bell to be conical,
+                            which is traditionally the mark of a cornet versus a trumpet (which would be more cylindrical). Her finish is an
+                            old-style silver which is unpolished with a matte appearance. The inside of the bell has a gold wash which is in almost
+                            perfect condition.
+                        </p>
+                        <p>
+                            Lily is <i space-after="false">tiny</i>. I really didn't expect her to be so small.
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/lily.jpg</src>
+                    </image>
+                </with-image>
+            </section>
+            <hidden id="Frankenstein">
+                <values>
+                    <make>Conn, Yamaha, ???</make>
+                    <model>Mix</model>
+                    <bore>.532"</bore>
+                    <bell>9", lacquered yellow brass</bell>
+                    <key>Bb/F/Gb/D</key>
+                    <slide>9/10</slide>
+                    <cost>
+                        <em>On loan</em>
+                    </cost>
+                    <year>
+                        <em>unknown</em>
+                    </year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            I am currently borrowing this horn from a fellow <l href="/pages/timski/bands.html#Boston Fireman's Band">BFB</l> boner.
+                            It was the first quadruple horn I had ever handled. This
+                            horn was most definitely constructed out of three separate horns. The bell is from an Elkhart Conn
+                            bass trombone (possibly a 73H). The slide is from a Yamaha tenor. I still haven't been able to identify the valve set.
+                        </p>
+                    </text>
+                </with-image>
+            </hidden>
+            <section id="Holton Collegiate">
+                <values>
+                    <make>Holton</make>
+                    <model>Collegiate</model>
+                    <bore>.484"</bore>
+                    <bell>7 1/2", lacquered yellow brass</bell>
+                    <key>Eb</key>
+                    <slide>8/10</slide>
+                    <cost>
+                        30 books of <a prefix=" " href="http://en.wikipedia.org/wiki/S%26H_Green_Stamps">green stamps</a>
+                    </cost>
+                    <year>circa 1966</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            This was the first trombone I ever played. It was my father's horn when he was a student. It was my only horn for
+                            several years. It became secondary to my Conn Director when I received the latter sometime around 2001.
+                        </p>
+                    </text>
+                </with-image>
+            </section>
+            <section id="Selman Eb Alto">
+                <values>
+                    <make>Selman</make>
+                    <model>Alto Trombone</model>
+                    <bore>.476"</bore>
+                    <bell>6 1/2", silver</bell>
+                    <key>Eb</key>
+                    <slide>9/10</slide>
+                    <cost>$230</cost>
+                    <year>2005</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            I bought this horn out of sheer curiosity. I had been dying to get my hands on an alto trombone, but
+                            most models were for professionals and had huge price tags. I saw this horn and couldn't resist. Its
+                            made by "Selman"--a knock off of "Selmer"--which is most likely an overseas manufacturer. All in all this horn
+                            is junk, along with all the other knock-off overseas brands like "Durand" and "Mendid". The silver
+                            plating is full of pits. The tuning is not quite Eb--to get to Eb you have to have the tuning slide
+                            all the way out, and even then the intonation across the horn is terrible. It plays like it has a hole in it, as if
+                            the water key were being held open. Bottom line: you get what you pay for.
+                        </p>
+                    </text>
+                </with-image>
+            </section>
+            <section id="pBone">
+                <values>
+                    <make>Jiggs</make>
+                    <model>pBone</model>
+                    <bore>.500"</bore>
+                    <bell>8", fiberglass (red)</bell>
+                    <key>Bb</key>
+                    <slide>10/10</slide>
+                    <cost>$150</cost>
+                    <year>2011</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            This horn seriously looks like a toy. It is made almost entirely out of fiberglass, save the brass slide stockings.
+                            It will never get too cold to touch, and it will never dent. The sound is very much like a brass trombone, but not
+                            perfect. There is a significant lack of projection and resonance. The sound feels "dead", and you have to push much
+                            harder to get an equivalent amount of sound as you would on a metal horn.
+                        </p>
+                    </text>
+                </with-image>
+            </section>
+        </sections>
+    </sidebar>
+</page>

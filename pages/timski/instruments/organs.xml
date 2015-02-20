@@ -1,0 +1,84 @@
+<page parent="instruments">
+    <title>Instruments - Organs</title>
+    <header>
+        <p>
+            If trombone is my principal instrument, then the keyboard is my secondary instrument. I began playing
+            organ for <a href="../bands.html#The Runaround Sound">The Runaround</a>, and have been playing since.
+        </p>
+    </header>
+    <sidebar heading="Other Instruments">
+        <sections>
+            <section id="Hammond RT-2">
+                <values>
+                    <make>Hammond</make>
+                    <model>RT-2</model>
+                    <keys>two manuals, 61 keys each</keys>
+                    <cost>~$900</cost>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            I bought this organ from a guy in Connecticut (I forget his name). Drove there in my
+                            1995 Saturn SW1 wagon with a trailer attached. At the time it was the farthest I had
+                            ever driven.
+                        </p>
+                        <p>
+                            This thing is a beast. I have since built a new case for her, and I intend to build another, even
+                            better case in the future.
+                        </p>
+                        <p>
+                            The RT series features 32 foot pedals (as opposed to 25 on the B series), as well as
+                            a "pedal solo" assembly. I couldn't quite figure out the pedal solo portion because it
+                            didn't really work, but from what I can guess, it was basically a component which would
+                            add 16', 8', 4', 2', and other harmonics on top of the normal pedal stop (which is either a 16'
+                            or 32' stop, I'm not sure). At any rate, I removed the pedal solo amplifier and the entire foot
+                            pedal assembly from the organ to reduce the overall weight. It never worked correctly anyway.
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/rt2.jpg</src>
+                    </image>
+                </with-image>
+            </section>
+            <section id="Margaret">
+                <values>
+                    <make>Nord</make>
+                    <model>Electro 2</model>
+                    <keys>61</keys>
+                    <cost>$975</cost>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            I bought this keyboard in the early days of <l space-after="false" href="/pages/timski/bands.html#The Runaround Sound">The Runaround</l>.
+                            At the time, we had no keyboard player but decided that we needed one, and so I jumped at the idea of
+                            diversifying my talents. I bought the Electro 2 because that was what Julian O'Brien played with Mile 21,
+                            and I have not once regretted this decision. The Nord Electro 2
+                            models the Hammond A100, as well as several other electromechanical keyboards from the vintage era.
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/margaret.jpg</src>
+                    </image>
+                </with-image>
+            </section>
+            <section id="Electro 2 Rack">
+                <values>
+                    <make>Nord</make>
+                    <model>Electro 2 Rack Module</model>
+                    <keys>None</keys>
+                    <cost>$300</cost>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            This is the Electro 2 without the keyboard--it is just a rack-mountable sound module.
+                            I bought this on a whim thinking I could use it side-by-side with <l href="#Margaret">Margaret</l> to
+                            create a piano/organ combination, or dual organ combination. I haven't found a good MIDI controller to go with it yet.
+                        </p>
+                    </text>
+                </with-image>
+            </section>
+        </sections>
+    </sidebar>
+</page>

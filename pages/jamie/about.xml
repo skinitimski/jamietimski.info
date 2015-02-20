@@ -1,0 +1,50 @@
+<page parent="jamie">
+    <title>About Jamie</title>
+    <sections>
+        <section id="In Numbers">
+            <values>
+                <age>29</age>
+                <height>~5'7"</height>
+                <pets>3</pets>
+                <spouses>1</spouses>
+                <siblings>1</siblings>
+                <timesMoved>18</timesMoved>
+                <statesVisited>39</statesVisited>
+                <countriesVisited>9</countriesVisited>
+                <planetsVisited>1</planetsVisited>
+            </values>
+        </section>
+        <section id="In Words">
+            <p>
+                Jamie was raised in Wisconsin, but at age 12 she was abducted by aliens and spent the better part of her teenage years trying to escape 
+                captivity in order to return to Earth. No, but seriously, Jamie did have a difficult childhood, but she covered up her troubles by being 
+                overly involved in school, church, extra-curriculars, and work. At church, she was a member and leader of Sunday School, Youth Group, 
+                and Choirs. In school, Jamie joined French Club, Math Team, the high school newspaper, Quiz Bowl and National Honor Society. Music was 
+                also a huge part of her childhood. She played clarinet, bass clarinet, contra alto clarinet, bassoon, tenor saxophone, oboe and English
+                horn in band and pit orchestras for Oklahoma, Annie, and Joseph and the Amazing Technicolor Dreamcoat. Jamie also enjoyed acting--her 
+                star role was playing Scrooge in the "Kids Fun and Drama" performance of The Christmas Carol.
+            </p>
+            <p>
+                Despite a few setbacks in High School, Jamie graduated at the top of her class with a 4.0 GPA and headed off to Northwestern University in 
+                Evanston, IL. During her college years, Jamie played Tenor Sax in Marching Band and Jazz Bands, Bassoon in Concert Band and Woodwind 
+                Ensemble, and was Vice President of Membership of Sigma Alpha Iota, International Music Fraternity for Women. In 2006, she
+                graduated cum laude with a B.A. in Religion and Jewish Studies.
+            </p>
+            <p>
+                After graduation, Jamie moved to Massachusetts to attend Harvard Divinity School, where she studied youth ministry and interned at churches
+                in Cape Cod and Groton, MA, and as Chaplin at Massachusetts General Hospital. She graduated with a Master's of Divinity in June, 2009 and 
+                was ordained in November, 2009. She now considers herself finally in the "real world" with her first full time job at Congregational Church
+                of Needham as Youth Minister, working with Sunday School, Youth Group, and an after school program she created called "The Center" 
+                (<link no-space-before="true" no-space-after="true">www.myyouthcenter.org</link>).
+            </p>
+            <p>
+                Jamie loves beer (drinking beer, making beer, talking about beer) and has a dream of one day starting her own brewery. Check out her
+                beer blog at <link no-space-after="true">www.agapebeer.org</link>. 
+            </p>
+            <p>
+                Jamie has one younger brother, Jeff, who is married to Gabriele and lives just outside of New York City. Coming from a small family,
+                Jamie is excited to join Tim's huge extended family.
+            </p>
+        </section>
+    </sections>
+</page>

@@ -1,0 +1,5 @@
+5	9:30 PM	Harbor House	The Harbor House	Gloucester, MA	Mile 21
+8	10:00 PM	Soma	Soma Restaurant	Beverly, MA	Mile 21
+11	9:00 PM	Lat 43	Latitude 43	Gloucester, MA	The Runaround
+23	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround
+31	9:00 PM	Lat 43	Latitude 43	Gloucester, MA	Mile 21	New Year's Eve Party

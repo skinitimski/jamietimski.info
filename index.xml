@@ -1,0 +1,50 @@
+<page suppressParentLink='true' suppressHomeLink='true'>
+    <title center='true'>Jamie &amp; Timski</title>
+    <cellTable>
+        <tr>
+            <td width="50%" border="0" cellpadding="0" valign="middle">
+                <h3>Married</h3>
+                September 1, 2013
+                <br />Gloucester, MA
+                <br />
+                <br />
+                <br />
+                <h3>Contact</h3>
+                jamietimski@gmail.com
+                <br />
+                <br />
+                <br />
+                <h3>Pages</h3>
+                <l spaces='false' href="/pages/aboutUs.html">About Us</l>
+                <br /><l spaces='false' href="/pages/log.html">About This Site</l>
+                <br />
+                <br /><l spaces='false' href="/pages/timski.html">Timski's Space</l>
+                <br /><l spaces='false' href="/pages/jamie.html">Jamie's Space</l>
+                <br /><l spaces='false' href="/pages/us.html">Our Space</l>
+                <br />
+                <br /><l spaces='false' href="gallery/gallery.html">The Gallery</l>
+                <br />
+                <br /><a href="http://www.agapebeer.org">Agape Brewing Community</a>                
+            </td>
+            <td width="50%" border="0" cellpadding="0" valign="middle">
+                <image>
+                    <src>profile.jpg</src>
+                    <caption>Jamie and Timski on their wedding day, September 1, 2013</caption>
+                </image>
+            </td>
+        </tr>
+    </cellTable>
+    <footer center='true'>
+        <p style="text-align: center">
+            Welcome to our website. We regenerate this web site from scratch using a set 
+            of tools Timski wrote using <a prefix=' ' suffix=' ' href="http://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29">C#</a> 
+            and <a prefix=' ' href="http://en.wikipedia.org/wiki/XSLT">XSLT</a>. Content is updated whenever necessary.
+            Feel free to look around. Please note that while the Information Superhighway is constantly 
+            being updated and seems like it is always running in realtime, our updates are far less frequent and this 
+            website does not in fact exactly mirror our knowledge nor our real life--it is only a snapshot and a window into itself.
+        </p>
+        <p style="text-align: center">
+            Cheers!
+        </p>
+    </footer>
+</page>

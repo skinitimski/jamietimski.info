@@ -1,0 +1,5 @@
+3	6:00 PM	Parade	Fishtown Horribles' Parade	Gloucester, MA	Boston Fireman's Band
+#the first annual was by accident!
+3	8:00 PM (ish)	Boulevard	Stacy Boulevard	Gloucester, MA	The Runaround	2nd Annual Fireworks Extravaganzaa
+4	9:00 AM	Parade	4th of July Parade	Needham, MA	Boston Fireman's Band
+4	6:00 PM	Parade	4th of July Parade	Rockport, MA	Boston Fireman's Band

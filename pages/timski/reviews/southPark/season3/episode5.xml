@@ -1,0 +1,101 @@
+<page parent="season3">
+    <title>Tweek vs. Craig</title>
+    <values>
+        <episode>5</episode>
+        <season>3</season>
+        <rating>9</rating>
+    </values>
+    <sections>
+        <section id="Synopsis">
+            <p>
+                Stan, Kyle, and Cartman attend their first day of Shop Class with the rest of the boys, where their new
+                teacher Mr. Adler asks them all who is the biggest troublemaker. Stan and Kyle reply "Tweek", but Cartman
+                swears that it's Craig. As they saw through pieces of scrap wood, the three boys enter a heated argument
+                over who is tougher, Tweek or Craig. They decide that the only way to settle the dispute is to get
+                Tweek and Craig to fight. Stan and Kyle convince Tweek that Craig wants to fight, and Cartman tells Craig
+                a bunch of lies about Tweek to get him riled up. A fight is scheduled for that afternoon.
+            </p>
+            <p>
+                Kenny, meanwhile, is sitting in his first day of Home Ec. with the girls of Mr. Garrison's class, where
+                his teacher declares they "will be learning how to bake, sew, and make things that are lacy and pretty".
+            </p>
+            <p>
+                After the first fight is called off because both Tweek and Craig went home to watch TV, the boys reschedule the fight
+                for the next day. But, they have to postpone the fight again because neither Tweek nor Craig has ever been in
+                a fight and they don't know what to do. Stan and Kyle proceed to have Jimbo teach Tweek boxing, while Cartman has
+                Craig learn the art of Sumo wrestling. Eventually, the two end up fighting in the schoolyard. Meanwhile, Kenny gets transferred to shop
+                class because his teacher "do[esn't] think the odds of [him] marrying a nice rich man in the future are very, well, good."
+                The fight continues and casually migrates into the shop classroom, where Kenny is sawing through wood. The fight ends in Kenny being
+                massacred by shop equipment.
+            </p>
+            <p>
+                All the while, we find Mr. Adler experiencing vivid flashbacks (so vivid, in fact, that they are depicted in live action)
+                about his wife who died in a plane crash while she was skywriting a message to him.
+            </p>
+        </section>
+        <section id="How Does Kenny Die?">
+            <p>
+                Kenny is killed when he gets caught in the mitre saw, spun around at high velocity, and thrown into a box of old, rusty nails.
+            </p>
+        </section>
+        <section id="Review">
+            <p>
+                This one one of the first episodes that I noticed I really liked for a particular reason other than satire. In the later seasons,
+                fewer and fewer episodes have had plots that revolve entirely around the children and their activities in and around school, without
+                any hint of pop culture or satire creeping in.
+                This episode is an early example of an episode with such a format, whereas The List is a good example of later episode. Whenever
+                the plot focuses on the children, a subtle hilarity takes over where the show looks like a really indecent version of Peanuts.
+            </p>
+            <p>
+                The best part about this episode is the press conference in the cafeteria. The boys are laying out the details of the fight
+                and answering questions, when Kyle and Cartman start to get heated. They start fighting, and Stan and Kyle join in. Then
+                Clyde declares, "Wow. Tweek and Craig really hate each other, huh? This should be a good fight." It reeks of irony! After all,
+                no one gets excited when the four boys fight, and no one realizes that Tweek vs. Craig is just a disagreement fueled by a
+                bet between the four boys.
+            </p>
+            <p>
+                If I weren't so weirded out by the live action scenes, this episode would be rated a 10. It's not that they're bad, or even
+                too over the top. They're just <i>weird!</i>
+            </p>
+        </section>
+        <section id="Best Lines">
+            <dialogue>
+                <line>
+                    <player>Clyde</player>
+                    <text>Hey, what's going on?</text>
+                </line>
+                <line>
+                    <player>Kyle</player>
+                    <text>Tweek and Craig are gonna fight.</text>
+                </line>
+                <line>
+                    <player>Clyde</player>
+                    <text>
+                        Really? Cool! <i>(pause)</i> It's funny because Tweek and Craig both went home about fifteen minutes ago.
+                    </text>
+                </line>
+            </dialogue>
+            <dialogue>
+                <line>
+                    <player>Mr. Adler</player>
+                    <text>Now, does anybody know WHY you're in shop class? Yes?</text>
+                </line>
+                <line>
+                    <player>Stan</player>
+                    <text>Because we had to choose between this and Home Ec and we didn't wanna be sissies?</text>
+                </line>
+                <line>
+                    <player>Mr. Adler</player>
+                    <text>
+                        Wrong! You are here because you are America's future! You may someday be doctors, or lawyers, or scientists. Most of you,
+                        however, will be pumping gas, or cutting sheet metal, and that's why we have...shop class.
+                    </text>
+                </line>
+                <line>
+                    <player>Cartman</player>
+                    <text>Oooooh!</text>
+                </line>
+            </dialogue>
+        </section>
+    </sections>
+</page>

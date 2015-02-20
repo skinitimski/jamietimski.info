@@ -1,0 +1,4 @@
+15	Event	Meet Jamie	
+19	Event	First Date w Jamie @ CABP	
+23	Event	Second Date w Jamie @ Watch City	
+27-29	Event	Third Date w Jamie @ Everywhere	

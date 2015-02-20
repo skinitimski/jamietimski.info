@@ -1,0 +1,20 @@
+<page parent="southPark">
+    <title>South Park - Season 1</title>
+    <header>
+        <p>
+            I am not as familiar as I would like to be with Season 1. When the show first came on TV, I was young and
+            not really allowed to watch it. As a result, I went years before watching some of the episodes in Season 1.
+        </p>
+        <p>
+            Season 1 is quite different from the other seasons, which is to be expected of a long-running show in its infancy.
+            I like how different a character Cartman is at this point in the series--he's still very na&#xEF;ve and lacks the
+            manipulative capacities to be as malicious as he is later in the series.
+        </p>
+        <p>
+            It's amazing how early on some of the most famous and recognizable South Park elements were introduced, such as Kenny dying,
+            "screw you guys--I'm going home", Mr. Hankey, and the vicious parodies of celebrities. After catching up on Season 1 for the
+            first time a few years ago, I was left wondering, so what happened in the rest of the series?
+        </p>
+    </header>
+    <index subfolder="season1" heading="List of Episodes" />
+</page>

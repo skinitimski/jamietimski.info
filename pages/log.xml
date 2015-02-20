@@ -1,0 +1,216 @@
+<page parent="index" suppressParentLink='true'>
+    <title>About This Site</title>
+    <header>
+        <p>
+            Woo. Info on the site and my progress in developing the tools and the content that generate it. Updated sporatically.
+        </p>
+    </header>
+    <sections>
+        <entry id="9/5/2013">
+            <p>
+                Reorganizing the whole site to make space for Jamie!
+            </p>
+            <p>
+                No longer generating the homepage using a special utility. Transform it like all the other pages.
+            </p>
+        </entry>
+        <entry id="3/19/2012">
+            <p>
+                I've reorganized the pages into a true hierarchy. This allows each page to have a link to its parent.
+            </p>
+            <p>
+                I've also restored the gallery.
+            </p>
+        </entry>
+        <entry id="2/23/2012">
+            <p>
+                I've added some new pages under 'instruments'. I also updated the 'quotes' page.
+            </p>
+        </entry>
+        <entry id="11/28/2011">
+            <p>
+                Major changes:
+            </p>
+            <ul>
+                <li>
+                    TransformPages.exe
+                    <ul>
+                        <li>the one-to-one correspondence between page source (xml) and xslt file has been broken</li>
+                        <li>some templates have been consolidated (lists, etc)</li>
+                        <li>allow for a page index based off the entries in a specified subfolder (no page content)</li>
+                    </ul>
+                </li>
+                <li>
+                    GenerateIndex.exe
+                    <ul>
+                        <li>read entire page index from lookup</li>
+                    </ul>
+                </li>
+                <li>
+                    New Pages
+                    <ul>
+                        <li>lists\movies.html</li>
+                        <li>lists\music.html</li>
+                        <li>lists\tV.html</li>
+                        <li>lists\videoGames.html</li>
+                    </ul>
+                </li>
+                <li>
+                    Updated Pages
+                    <ul>
+                        <li>blog.html</li>
+                        <li>calendars.html</li>
+                        <li>siteLog.html (duh)</li>
+                        <li>lists\projects.html</li>
+                    </ul>
+                </li>
+            </ul>
+        </entry>
+        <entry id="11/2/2011">
+            <p>
+                Been working on the TransformPages executable. I'm thinking of starting to review South Park episodes
+                in the same manner as our dream to one day review all the Simpsons episodes. That being the case, I'm looking
+                into more extensible methods for mass-transforming pages. Right now I use a one-to-one correspondence between
+                an xml file and an xslt file to create a single html page. I'm going to loosen this requirement, first of all.
+                Second, I'm going to try and restructure the site into a generic hierarchy, and attempt to make the already
+                in place gallery and calendars pages fit into this hierarchy scheme.
+            </p>
+            <p>
+                I also found it necessary (out of boredom?) to remove all usage of 'font' elements from the site and
+                increase stylesheet usage. This required a lot more work than I had anticipated, and it has left me feeling that even
+                a well managed site (like I thought mine was) is very unmanagable. How the internet ever scaled up, I have
+                no idea. It just sucks that we'll never be fully away from HTML 1.0.
+            </p>
+            <p>
+                Anyhow, I've updated some other stuffs too.
+            </p>
+        </entry>
+        <entry id="10/17/2011">
+            <p>
+                Updated the following items:
+            </p>
+            <ul>
+                <li>'Links' page</li>
+                <li>'Facts' page</li>
+                <li>
+                    GenerateIndex.exe
+                    <ul>
+                        <li>slight change to the linking mechanism</li>
+                    </ul>
+                </li>
+            </ul>
+        </entry>
+        <entry id="5/31/2011">
+            <p>
+                Updated some stuff, including summer gigs.
+            </p>
+        </entry>
+        <entry id="5/23/2011">
+            <p>
+                This update marks a huge step in this website's presence on the web. I now own the domain <span prefix=" " class="serif">timski.info</span>! I registered this domain through
+                GoDaddy.com and got separate hosting through FatCow. I had to do some work on my end to get this all to work, mostly through updating my automated host script.
+                Pretty soon I will host my brother's website, <i space-after="false">Sweet Movie Reviews</i>, on the same host as Timski. We still have a lot of work to do before that goes out though.
+                Look for <a prefix=' ' suffix=' ' href="http://www.sweetreviews.net">sweetreviews.net</a> to be up and running in the [near] future.
+            </p>
+        </entry>
+        <entry id="4/26/2011">
+            <p>
+                Overhaul of 'projects' page
+            </p>
+        </entry>
+        <entry id="4/25/2011">
+            <p>
+                Corrected Brian's name on bands page!
+            </p>
+        </entry>
+        <entry id="4/21/2011">
+            <p>
+                Updated the following items:
+            </p>
+            <ul>
+                <li>show dates</li>
+                <li>'Facts' page</li>
+                <li>'Bands' page</li>
+                <li>'Lists' page</li>
+                <li>site log (duh)</li>
+            </ul>
+        </entry>
+        <entry id="3/15/2011">
+            <p>
+                Added timestamp to all pages. Also updated the following items:
+            </p>
+            <ul>
+                <li>show dates</li>
+                <li>'Facts' page</li>
+                <li>'Bands' page</li>
+                <li>site log (duh)</li>
+            </ul>
+        </entry>
+        <entry id="12/7/2010">
+            <p>
+                Retroactively added my parades for the last two Boston Firemans&apos; Band seasons.
+            </p>
+        </entry>
+        <entry id="12/6/2010">
+            <p>
+                A few weeks ago I was working on another site, the upcoming <b space-after="false">badsimpsons.com</b>.
+                I copied many of the materials from this site over to that one, mainly the C# web tools that I wrote.
+                As part of the badsimpsons effort, I did an overhaul of webtools, removing many dependencies and making
+                them more portable (primarily removing the DataManager component). I then rolled those changes back into
+                this site's source.
+            </p>
+        </entry>
+        <entry id="9/14/2010">
+            <p>
+                A few updates. The gallery will be down until I move to a different server. Gigs updated.
+            </p>
+        </entry>
+        <entry id="01/27/2010">
+            <p>
+                Added pictures of the kitties!!!
+            </p>
+        </entry>
+        <entry id="01/15/2010">
+            <p>
+                Finally bothered to add logging to the site. This is the simplest mechanism I have found so far to 
+                keep records of updates. Someday I'll have a git repository for that, but I'm waiting for the right
+                operating system to come my way.
+            </p>
+            <p>
+                DataManager component and WebTools suite are well integrated.
+            </p>
+            <p>
+                The suite currently consists of the following tools:
+            </p>
+            <ul>
+                <li>BatchCopy</li>
+                <ul>
+                    <li>uses a string->list lookup to copy files in batches to managed locations</li>
+                </ul>
+                <li>GenerateCalendars</li>
+                <ul>
+                    <li>generates calendar month web pages from scratch based on data files and lookups</li>
+                    <li>events get added to the calendar based on event list files</li>
+                </ul>
+                <li>GenerateGallery</li>
+                <ul>
+                    <li>generates the image gallery web pages</li>
+                </ul>
+                <li>GenerateIndex</li>
+                <ul>
+                    <li>generates the homepage and links it to all the other pages</li>
+                </ul>
+                <li>TransformPages</li>
+                <ul>
+                    <li>transforms xml content into web pages</li>
+                    <li>configured by DataManager</li>
+                </ul>
+                <li>WebTools</li>
+                <ul>
+                    <li>utility library for normalizing all the web content</li>
+                </ul>
+            </ul>
+        </entry>
+    </sections>
+
+</page>

@@ -1,0 +1,183 @@
+
+
+
+table
+{
+    border: 0; 
+    border-spacing: 0;
+    width: 100%; 
+    padding: 20; 
+    vertical-align: middle; 
+    text-align: left; 
+    margin-left: auto; 
+    margin-right: auto;    
+    font-size: 10pt; 
+    font-family: Verdana;
+    color: #000000
+}
+th
+{
+    vertical-align: middle;
+    text-align: center;
+    background-color: #000000;
+    font-family: Verdana;
+    color: #ffffff;
+}
+tr
+{
+    width: 100%;
+    height: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+
+table.section
+{
+    border-spacing: 0;
+    border: 0; 
+    width: 100%; 
+    padding: 0; 
+    vertical-align: top; 
+    text-align: left; 
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+table.calendar 
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.bullet 
+{
+    margin-left: auto; 
+    margin-right: auto; 
+    border: 0
+}
+
+table.cell
+{
+    border: 0; 
+    border-spacing: 0;
+    width: 80%; 
+    padding: 20; 
+    vertical-align: middle; 
+    text-align: center; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+tr.cell
+{ 
+    width: 100%; 
+    height: 100%;
+}
+td.cell
+{
+    height: 100%
+}
+
+table.sidebar
+{
+    border: 0;
+    border-spacing: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0; 
+    vertical-align: top; 
+    text-align: left;
+}
+tr.sidebar
+{
+    width: 100%;
+    height: 100%;
+}
+td.sidebar
+{
+    height: 100%
+}
+
+
+
+
+
+span { font-size: 10pt; font-family: Verdana; color: #000000 }
+
+span.serif { font-size: 10pt; font-family: Courier New; color: #000000 }
+
+span.red    { font-size: inherit; font-family: inherit; color: #f00000; font-weight: inherit }
+span.redder { font-size: inherit; font-family: inherit; color: #f00000; font-weight: bolder }
+
+span.green   { font-size: inherit; font-family: inherit; color: #00b000; font-weight: inherit }
+span.greener { font-size: inherit; font-family: inherit; color: #00b000; font-weight: bolder }
+
+span.blue  { font-size: inherit; font-family: inherit; color: #0000f0; font-weight: inherit }
+span.bluer { font-size: inherit; font-family: inherit; color: #0000f0; font-weight: bolder }
+
+span.transparent { font-size: 10pt; font-family: Verdana; color: #999999 }
+span.weak { font-size: 10pt; font-family: Verdana; color: #999999 }
+
+span.gig { font-size: 10pt; font-family: Verdana; color: #0044ff }
+
+
+p { font-size: 10pt; font-family: Verdana; color: #000000 }
+
+p.serif { font-size: 10pt; font-family: Courier New; color: #000000 }
+
+p.red { font-size: 10pt; font-family: Verdana; color: #f00000; font-weight: bolder }
+
+p.transparent { font-size: 10pt; font-family: Verdana; color: #999999 }
+
+
+blockquote { font-size: 10pt; font-family: Verdana; color: #000000; font-style: italic }
+
+q { font-size: 10pt; font-family: Verdana; color: #000000; font-style: italic }
+
+
+ul { font-size: 10pt; font-family: Verdana; color: #000000 }
+
+ol { font-size: 10pt; font-family: Verdana; color: #000000 }
+
+
+ul.nolabel, li.nolabel
+{
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+    list-style-type: none;
+    line-height: normal;
+}
+
+
+
+
+
+a { font-size: 10pt; font-family: Verdana }
+
+a.small { font-size: 10pt; font-family: Verdana }
+
+a.large { font-size: 12pt; font-family: Verdana }
+
+
+h1 { font-size: 20pt; font-family: Verdana; color: #000080 }
+
+h2 { font-size: 14pt; font-family: Verdana; color: #000080 }
+
+h3 { font-size: 10pt; font-family: Verdana; color: #000080; font-weight: bold }
+
+
+
+
+
+iframe
+{
+    width: 100%;
+    height: 100%;
+    border: 0;    
+}

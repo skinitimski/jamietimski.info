@@ -1,0 +1,147 @@
+<page parent="index" suppressHomeLink="true" suppressParentLink="true" sortOrder="40">
+    <title center="true">Wedding Party</title>
+    <sidebar>
+        <p>
+            If the phrase "wedding party" doesn't sound redundant to you, then you don't know how to wedding!
+        </p>
+        <br />
+        <br />
+        <sections suppressHomeLink="true" suppressParentLink="true">
+            <section id="Jamie's Side">
+                <with-image>
+                    <text>
+                        <a name="Jackie"></a>
+                        <h3>Jacqueline Michelle Gunnell</h3>
+                        <p>
+                            Jackie will be Jamie's maid of honor, and will be paired with <l space-after="false" href="#Robbie">Robbie</l>.
+                        </p>
+                        <p>
+                            In middle school, Jamie referred to Jackie as her friend David's "annoying red-headed little sister." But as Jamie spent more and more time 
+                            hanging out with David (with Jackie often tagging along), Jamie and Jackie eventually grew to become inseparable. Their antics, inside jokes,
+                            and adventures (including road trips to New York, college dances, and fun times at Walmart and Arby's in Beloit, WI) put their friendship on 
+                            par with Lucy and Ethel (<a href="http://en.wikipedia.org/wiki/I_Love_Lucy">I Love Lucy</a>) or Cher and Deon 
+                            (<a href="http://en.wikipedia.org/wiki/Clueless_(film)">Clueless</a>). Even though they now live over 1,000 miles apart, thanks to smartphones,
+                            Facebook, and Words with Friends, their friendship continues to blossom. Jamie did double duty at Jackie's wedding in September, 2010 as 
+                            officiant and maid of honor, and she couldn't be more excited to have Jackie return the favor...or at least half of it!
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/jackie.jpg</src>
+                        <caption>Jackie with her husband Jake</caption>
+                    </image>
+                </with-image>
+                <with-image>
+                    <text>
+                        <a name="Phil"></a>
+                        <h3>Philip Aaron Siegel</h3>
+                        <p>
+                            Phil will be Jamie's only bridesman. What an honor! He will be paired with <l space-after="false" href="#CousinPhil">Cousin Phil</l>.
+                        </p>
+                        <p>
+                            Phil was one of the first people Jamie met during her freshman year at Northwestern University. They both lived in the Communications Residential 
+                            College (CRC) and bonded over their love of <a prefix=" " href="http://en.wikipedia.org/wiki/Dawson%27s_Creek">Dawson's Creek</a>,
+                            <a prefix=" " href="http://en.wikipedia.org/wiki/Clueless_(film)">Clueless</a>, and
+                            <a prefix=" " href="http://en.wikipedia.org/wiki/Will_and_grace">Will and Grace</a>. During college, Phil was Jamie's lunch and shopping companion,
+                            dance marathon partner, and date to Chi Omega and Sigma Alpha Iota formals. In the years since, even though distance has often separated them, 
+                            Jamie and Phil's friendship has strengthened during Thanksgiving meals in England and New York, spring break vacations in Barcelona and Florida, 
+                            Halloween and New Year's adventures in California, annual Columbus Day apple picking in Massachusetts, and homecomings in Chicago.
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/phil.jpg</src>
+                        <caption>Phil (right) with his partner Mike</caption>
+                    </image>
+                </with-image>
+                <with-image>
+                    <text>
+                        <a name="Jes"></a>
+                        <h3>Jessica Legendre</h3>
+                        <p>
+                            Jes will round out Jamie's side, and will be paired with her fianc&#233; <l space-after="false" href="#Al">Al</l>.
+                        </p>
+                        <p>
+                            On one of Jamie and Timski's first dates, Timski brought her to Jes and <l href="#Al">Al's</l> house to hang out. As soon as Jamie met Jes,
+                            she knew they would quickly become friends. Jamie enjoys spending time with Jes (and Al!) kayaking,
+                            dancing at <a prefix=" " suffix=" " href="http://www.timski.info/pages/bands.html#The Runaround Sound">Runaround</a> gigs,
+                            bowling,
+                            trying new beers,
+                            attending <a prefix=" " suffix=" " href="http://www.timski.info/pages/bands.html#Cape Ann Big Band">CABB</a> concerts,
+                            planning double dates,
+                            hosting dinner parties,
+                            and playing <a prefix=" " href="http://en.wikipedia.org/wiki/The_Settlers_of_Catan">Settlers of Catan</a>. 
+                            Especially when she is homesick and misses her Midwestern friends, Jamie is very thankful to have Jes in her life, and of course in the bridal party!
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/jes.jpg</src>
+                        <caption>
+                            Jamie, Timski, and Jes
+                        </caption>
+                    </image>
+                </with-image>
+            </section>
+            <section id="Timski's Side">
+                <with-image>
+                    <text>
+                        <a name="Robbie"></a>
+                        <h3>Robert Andrew Klopotoski, Jr.</h3>
+                        <p>
+                            Robbie will be Timski's best man, and will be paired with <l space-after="false" href="#Jackie">Jackie</l>.
+                        </p>
+                        <p>
+                            Robbie is Timski's oldest brother. Timski has been following Rob's lead since he was little (or perhaps riding his coattails), first by taking up the trumpet in elementary school 
+                            (though Timski would go on to taking up the trombone instead), and later by attending Northeastern University in the College of Computer and Information Science.
+                            Rob's unbiased advice and superior knowledge of the world have helped to guide Timski into adulthood.
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/robbie.jpg</src>
+                        <caption>Robbie and his wife Jenn</caption>
+                    </image>
+                </with-image>
+                <with-image>
+                    <text>
+                        <a name="CousinPhil"></a>
+                        <h3>Phillip Allan Jenkins, Jr.</h3>
+                        <p>
+                            Phil will be one of Timski's groomsmen, and will be paired with...<l space-before="false" space-after="false" href="#Phil">Phil</l>!
+                        </p>
+                        <p>
+                            Phil is Timski's first cousin on his mother's side. He proudly goes by "Cousin Phil", even in non-family contexts. Phil began his life
+                            in Gloucester but moved to Medford, MA as a child. He and Timski have spent a lot of time together, but the real debauchery started
+                            the day Phil turned 21 with an epic bar crawl in downtown Gloucester. As Jenkinses, Phil and Timski share a passion for the ocean, classic 
+                            rock, and a really good party.
+                        </p>
+                        <p>
+                            Phil was present the day that Jamie and Timski met. Timski's decision to get Jamie's contact information was partly due to Phil egging him on.
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/cousinPhil.jpg</src>
+                        <caption>Phil donning his best t-shirt</caption>
+                    </image>
+                </with-image>
+                <with-image>
+                    <text>
+                        <a name="Al"></a>
+                        <h3>Alessandro Delisi</h3>
+                        <p>
+                            Al will round out Timski's groomsmen, and will be paired with his fianc&#233; <l space-after="false" href="#Jes">Jes</l>.
+                        </p>
+                        <p>
+                            Al and Timski have known each other since middle school through the school band, but they really started to get to know each other 
+                            through the high school stage band The Docksiders. These days, Al and Timski play together in the 
+                            <a prefix=" " href="http://www.timski.info/pages/bands.html#Cape Ann Big Band">Cape Ann Big Band</a>.
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/al.jpg</src>
+                        <caption>
+                            Al with <l space-after="false" href="#Jes">Jes</l>
+                        </caption>
+                    </image>
+                </with-image>
+            </section>
+        </sections>
+    </sidebar>
+</page>

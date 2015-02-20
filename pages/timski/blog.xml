@@ -1,0 +1,442 @@
+<page parent="timski">
+    <title>Blog</title>
+    <header>
+        <p>Well, I don't really need a blog, but here it is.</p>
+    </header>
+    <sections>
+        <entry id="Baby It's Freaking Cold Outside" date="1/24/2013">
+            <p>
+                BRRRRRRRRRR.
+            </p>
+        </entry>
+        <entry id='Hoodies' date='1/14/2013'>
+            <p>
+                I never used to worry that wearing my hoodie in the office would make me look like a <a prefix=' ' href='http://www.urbandictionary.com/define.php?term=hoodlum'>hoodlum</a>.
+            </p>
+            <p>
+                Nowadays I worry that wearing my hoodie in the office will make me look like a <a prefix=' ' href='http://en.wikipedia.org/wiki/Shooting_of_Trayvon_Martin#Public_response'>protestor</a>. 
+            </p>
+        </entry>
+        <entry id='Poor Margaret' date='6/22/2012'>
+            <p>
+                Last week I noticed that <l href='/pages/timski/instruments/organs.html#Margaret'>Margaret's</l> B4 key wasn't working. It would work if you hit it just right,
+                meaning that it was most likely an issue with dirt. This isn't the first time a single key has gone dead, so I just did what I normally have done:
+                take her apart and clean the key.
+            </p>
+            <p>
+                So, I took the controls and covers off and got down to the keys. I took the B4 key off and found a TON of lint, dust, and otherwise mucky stuff covering the
+                underside of the key. From that, I decided it was time to give Margaret a full-fledged cleaning. I detailed the circuit board and the entire manual. It
+                was really, really dirty! Put her all back together, plugged her in, turned her on, and bam! B4 key works again! But...the Bb2 key stopped working. DAMMIT!
+                I'll just have to re-lay that key one more time--pretty sure she'll work like new again.
+            </p>
+            <p>
+                But this has all gotten me thinking about what will happen when Margaret eventually does have a flagrant problem that prevents me from
+                playing her out. That will be a sad day. I bought Margaret and learned to play her for the <l space-after='false' href='/pages/timski/bands.html#The Runaround Sound'>Runaround</l>.
+                I'm not ready to give her up just yet. Plus, when I bought her, I knowingly went for the best. More than 4 years later, I still would rather a Nord
+                Electro 2 over <i space-after='false'>anything</i>, except maybe the Nord Electro 3.
+            </p>
+        </entry>
+        <entry id='General Failure' date='5/25/2012'>
+            <p>
+                So I've been working on creating templates for MS Visual Studio projects, and I've come across a
+                <a prefix=" " href="http://social.msdn.microsoft.com/Forums/pl-PL/vsx/thread/ff5e300b-41c1-4d19-bb7f-68dc135f315e">well-known bug</a>.
+                Whatever, bugs happen, and I have to do something else as a workaround and wait for a fix.
+                Wait, what's that, Microsoft? You
+                <a prefix=" " href="http://connect.microsoft.com/VisualStudio/feedback/details/585519/targetfilename-attribute-on-project-element-of-vstemplate-file-is-ignored">
+                    don't plan on ever fixing it
+                </a>? It's true. This is how Microsoft replied in 2010 to a bug that has been in Visual Studio since at least
+                2005:
+                <blockquote>
+                    Thanks for the feedback. Unfortunately, with so many other competing priorities, this issue will not rise to the level
+                    where we would fix it. Please continue to send us feedback though.
+                </blockquote>
+            </p>
+            <p>
+                You've gotta be @#$%ing kidding me.
+            </p>
+            <p>
+                I had a similar issue about a year ago. I was writing a class which would monitor a directory on the local filesystem
+                and read from any files that get created/copied there. This component was going to be part of a service which would run 24/7.
+                So I browsed through the MSDN library and voila, I found the perfect class to help me out: the
+                <a  prefix=' ' suffix=' ' href="http://msdn.microsoft.com/en-us/library/system.io.filesystemwatcher.aspx">FileSystemWatcher</a>
+                class. Its purpose: <i>"Listens to the file system change notifications and raises events when a directory, or file in a directory, changes."</i>
+                Sounds great! The problem? The FileSystemWatcher class has a <a  prefix=' ' suffix=' ' href="http://connect.microsoft.com/VisualStudio/feedback/details/565720/memory-leak-in-system-io-filesystemwatcher">
+                    <b>severe</b> memory leak
+                </a> which will run your system out of memory overnight.
+                <a  prefix=' ' suffix=' ' href="http://support.microsoft.com/kb/2628838">This</a> is a
+                <a  prefix=' ' suffix=' ' href="http://blogs.msdn.com/b/calvin_hsia/archive/2008/04/11/8381838.aspx">very</a>
+                well-known
+                <a  prefix=' ' suffix=' ' href="http://objectmix.com/dotnet/105479-memory-leak-net-services-windows-2000-a.html">issue</a>
+                that has been documented since about 2004/5. MS has even claimed to have released a hotfix. I downloaded/installed that hotfix package,
+                and it didn't make any difference. Maybe they've fixed it by now, who knows.
+            </p>
+            <p>
+                Now, you might say, "give them a break, they've got a lot of bugs to get through!" (HA) Well, better coding and testing would
+                have helped to prevent the bug in the first place. But even still, as a developer I understand that bugs happen. What pisses me off
+                is that I can't get into the code and fix it myself, nor can anyone else in the public. Instead, we all have to wait for MS
+                to reprioritize these bugs as something worth fixing. Ah, the world of proprietary software.
+            </p>
+            <p>
+                <strong>At the very least</strong>, MS should change the <a  prefix=' ' suffix=' ' href="http://msdn.microsoft.com/en-us/library/ms171401">MSDN page</a> which describes the
+                functionality of the <span prefix=" " suffix=" " class="serif">TargetFileName</span> attribute from <q prefix=" " suffix=" ">Specifies the name of the project file when a project is created from the template</q>
+                to <q prefix=" ">Doesn't do a damn thing</q>. At least then developers would not be counting on that functionality and beating their heads
+                against the wall for days when it doesn't work, only to do a quick Google search and find that it will not work as documented no matter
+                how badly you want it to. The <a  prefix=' ' suffix=' ' href="http://msdn.microsoft.com/en-us/library/system.io.filesystemwatcher.aspx">FileSystemWatcher</a> page
+                has never had any mention of a memory leak.
+            </p>
+        </entry>
+        <entry id='"Higher" Education' date='3/14/2012'>
+            <p>
+                I personally think the skyrocketing cost of private post-secondary education is out of control and unfounded. I have many reasons, but let's just examine some tuition costs a little before getting into it.
+                <a  prefix=' ' suffix=' ' href="http://www.northeastern.edu/admissions/costs/tuition.html">Tuition at Northeastern University</a> in 2012 is $18,920. <i space-after="false">Per semester</i>. 
+                That's $37,840 <i>per year</i> for <i space-after="false">tuition alone</i>. Add in room, board, and fees, and you're
+                over 50k easy. Tuition at NEU when I started was roughly $14k per semester. That means <i>tuition alone</i> has increased by about %30 over the last five years
+                (or, very roughly 6.5% per year, which is more than double the annual inflation over the period from 2007 to 2010). That's <i space-after="false">insane</i>. A single course at NEU
+                is now $4730. If the course is 3 days a week, that's roughly $135 <i>per lecture</i> (~$240 for 2 days a week). I remember calculating that with some of my
+                fellow classmates one day when our professor failed to show up to class and didn't tell anyone--$135 out the window.
+            </p>
+            <p>
+                Of course, I know that my tuition did not just go toward my lectures. Hell, my freshman year the university inaugurated a new president, and proceeded to buy him a $9 million
+                home. I wonder how many tuition payments that is? Oh wait, I'm using a computer. $9m would be ~625 semesters worth of tuition at the 2007 rate of ~$14,400. Money well spent.
+            </p>
+            <p>
+                Was it money well spent? To me, the most important thing about college going in was the education I would receive. While I was there, the importance of my education was
+                on par with having a positive overall experience, but the lectures were still my intellectual focus. What I found was that certain classes were very, very good and continue
+                to influence me today, while others were just plain abysmal. Some courses had very little to offer, but the professor was a star, and made the course worthwhile. Some were just the
+                opposite; there was a lot to be learned, but the professor couldn't teach it. That's a little unnerving when you're paying so much to be there. I feel that the university
+                should focus more on what happens in each lecture at a granular level, and less on landscaping and luxury homes for the executives.
+            </p>
+            <p>
+                I'm also very frustrated by many major universities (including NEU) insisting on mucking up their Bachelor of Science degrees with liberal arts requirements (to foster  what they like to
+                call a more "rounded" education). Professor Swain (Quantum Mechanics, Spring 2010) once quipped, "You know, when I was a physics major in the 80s, I took <i>physics</i> classes.
+                What's with all this basket-weaving?" He found it strange (as I did) that such a low percentage of the credits required for a physics degree actually have something to do with physics.
+                In order to counter my frustrations I made sure every one of my general electives was a math course. I felt the B.S. degree I was working to earn should reflect a speciality in the sciences,
+                not in the arts. I think "rounding" my education in fact made it <i>less</i> worth the money, though I would agree that the degree I earned still makes me a qualified professional.
+            </p>
+            <p>
+                Professor Swain also asked a very good question which is difficult to answer, and I won't try to answer it now: "Does a psychology degree <i>really</i> cost the same as a physics degree?"
+                What he meant was, why is tuition the same across all degree programs? Why does, or should, an arts degree cost the same as a scientific one? It's weird when you think about it.
+                Can you imagine going to the local deli and finding that every product was the same price--turkey, ham, roast beef--doesn't matter? I assume they level the playing field in terms
+                of cost so that no degree program stands out to prospective students except because of its content. That works out well for prospective students who don't know what they want to do
+                with their life--they don't get stuck in a given degree program, having only chosen it because it was cheaper. It's weird on the other end, though, for graduating students weighing the
+                cost of their degree against the cost of their peers'.
+            </p>
+            <p>
+                To me, my NEU education was worth every penny, simply because I now have a job that I can easily pay back what I took out to get my education. But that's not to say I don't have
+                reserves about my education. What it comes down to is I had the
+                <a prefix=" " href="http://en.wikipedia.org/wiki/Northeastern_University_(Boston,_Massachusetts)#Co-op.2FInternship_Program">co-op program</a>, which is an unparalleled advantage. I could have gone to BU right down the
+                street and paid about the same amount of money for a similar quality education, but I think I would have much less to show for it. And I don't even like thinking about what
+                would have happened if I had chosen a different career path. I'm pretty confident that if I had I would currently be <i>nowhere</i> with a huge pile of debt on my shoulders.
+            </p>
+        </entry>
+        <entry id="Success" date="3/14/2012">
+            <p>
+                Ever since I was in kindergarten I dreamed of going to college and getting a degree. At the time, I had no idea what that really entailed, I just knew
+                it was what I wanted to do. College was a goal. More than that, college was an end goal. It represented the culmination of the education I had just begun:
+                kindergarten, grade school, college. And so it was; each year was preparation for the year to come, and each year I strove to do well, because my end goal
+                required a strong academic standing.
+            </p>
+            <p>
+                College came and went, and I did very well indeed. And in the end I landed a well-paying job in a field that I enjoy. I did what I set out to do all those
+                years ago: I've <i space-after="false">succeeded</i>. I'm a "success". All that homework, all those responsibilities, the countless hours in classrooms, the papers, the projects, the presentations...it
+                was all worth it because now I'm an adult with a comfortable job that gives me the freedom to do pretty much whatever I want, which is certainly within the context of
+                where I wanted to end up.
+            </p>
+            <p>
+                I'm speaking as if I were a wise man, as if I knew as a child how important the future was and what it would hold. The reality is, growing up, I was
+                encouraged/pressured (depending on how you look at it) into an understanding that doing well academically in grade school and in college was the <i>right</i> path--that
+                anything less would constitute a sub-par performance. It made sense as a teenager: "I have to go to college so I can get a good job". So what of all my friends who did
+                what I did--do well in school, graduate from college--that don't have a career to show for it? It's not because they didn't work hard enough; they worked just as hard if not
+                harder than I did. So what happened? What of all those people who took out tens of thousands of dollars in student loans because they were told college was the be-all-end-all
+                of professional development, but can't get a job to save their lives, and now are facing serious debt issues? What happened? For them, the damage was done long before the economy
+                crashed. They had a reasonable belief that they were on the right path, so they put their time and credit on the line. And now they're screwed. I can't help but feel lucky, which
+                is not what I expected to feel while working up to my current position. I always thought I'd be nothing but proud. Instead I feel like I fell ass backwards into a
+                pretty comfortable middle class life by chance, after seeing all the people who are striving to be where I am but are getting nowhere.
+            </p>
+            <hidden>
+                In high school, I slowly realized that there was going to be life after college. That made me pretty nervous, since college was still my end goal. What lie
+                beyond was a huge unknown. For my future I had no plan and no direction. So, I began toying with the idea of grad school to calm my fears about the unknown.
+            </hidden>
+            <hidden>
+                Of course, in kindergarten I also wanted to get married and have a large family with lots of kids. That is no longer on my radar. Instead, at this point in my life,
+                I want nothing to do with kids. I want live as an adult and not have any responsibility for the life of another person (especially a dependent). A lot of my friends are
+                getting married and I find myself wanting nothing to do with that either. Of course, things may be different if I were in a serious relationship. But I'm not, so they're not.
+                Who knows where I'm going from here. I don't know; I don't even pretend to know.
+            </hidden>
+        </entry>
+        <entry id="Five Iron Frenzy" date="3/7/2012">
+            <p>
+                I was first introduced to ska music in 2001 when I was asked by a fellow school jazz band member to play in an outside-of-school ska band. In no
+                time I was exposed to Reel Big Fish, Less Than Jake, Catch 22, the Bosstones (though I had previously heard <a prefix=" " href="http://en.wikipedia.org/wiki/Let's_Face_It">Let's Face It</a>),
+                Mad Caddies, Save Ferris, and more. These groups and the music they produced brightened my life and gave me a unique sense of belonging. But they all paled in comparison
+                to my favorite group of the genre, <a prefix=" " href="http://en.wikipedia.org/wiki/Five_Iron_Frenzy">Five Iron Frenzy</a>.
+            </p>
+            <p>
+                Five Iron was born in Denver, CO and featured 8 of the funniest, craziest, most loving musicians ever to hit the stage. They were heavily influenced by Christianity, most prevalently
+                evidenced by Reese Roper's lyrics and the band's attitude, but also by the fact that they were marketed as such. As a Christian teenager in high school, I was entertained by the music,
+                guided by the lyrics, and inspired by the band's persona. Unfortunately, the band broke up in 2003, before I got a chance to actually see them perform live. Even still,
+                Five Iron's music continued to top my playlists, even as I transitioned from the stalwart Catholic I was in my teens to the non-Christian I identify as today.
+                The music and the genuine nature of the band far outweighed its Christian influences.
+            </p>
+            <p>
+                For years I dreamed of their return, even though Reese swore that if the band ever got back together he'd eat a handful of mayonaise. And sure enough,
+                in the fall of 2011, the band announced their comeback--the most exciting news I had ever heard in my life. The band was back for reals, backed by a
+                <a prefix=' ' suffix=' ' href="http://www.kickstarter.com/projects/fiveironfrenzy/new-five-iron-frenzy-album">Kickstarter</a> project that within an hour was
+                funded in full by die-hard fans. The project eventually was overfunded by almost 600%. I became a FIF backer, and in return I get to see the band live
+                at an exclusive show in Denver--their first in over 8 years. Needless to say April can't come soon enough.
+            </p>
+            <p>
+                And lo and behold, Reese <a prefix=" " href="http://www.youtube.com/watch?v=AOYccp4T8Zo">kept his word</a>.
+            </p>
+        </entry>
+        <entry id="NDAA" date="1/3/2011">
+            <p>
+                I'm <a prefix=" " href="http://www.patheos.com/blogs/muslimahnextdoor/2011/12/the-scary-potential-of-the-national-defense-authorization-act/">scared</a>.
+            </p>
+        </entry>
+        <entry id="Melee" date="11/28/2011">
+            <p>
+                I used to play <a prefix=' ' suffix=' ' href="http://en.wikipedia.org/wiki/Super_Smash_Bros._Melee">Super Smash Bros. Melee</a> in the first couple years
+                of college, but I wasn't very good at it. If I wasn't the first one eliminated from a Survival round it was due either to a miracle on my part or to a vendetta on someone
+                else's. I always failed to ever deliver serious damage. The problem? Sheer lack of practice. I never owned the game and I was playing it exclusively
+                with people who knew what they were doing. You'd think I would've learned something from them, but instead I just got my ass kicked.
+                And then <a prefix=' ' suffix=' ' href="http://en.wikipedia.org/wiki/Super_Smash_Bros._Brawl">Brawl</a> came out, and soon everyone was playing that. Skills learned
+                in Melee translated very well into Brawl, but I <i>had</i> no Melee skills, so I was left in the dust.
+            </p>
+            <p>
+                Although I did think the game was a lot of fun (especially when watching experts play), I had passed it off as something I wouldn't
+                get the chance to experience in full, since I didn't own the game and there were plenty more games out there for me to play.
+                This all changed recently when I received a copy of my own from my friend Jesse. I have been playing it
+                religiously since. As I predicted, with only a few hours practice while playing solo, my skills have improved considerably. I have now had the chance to
+                learn exactly what each control does, and to put different moves together to create attack patterns. Long story short, I can actually compete now.
+            </p>
+            <p>
+                Luckily, my memory card (which I also received in "used" condition) already had saved data for Melee. Every character,
+                save one, has already been unlocked. And, my trophy collection is <strong prefix=" ">massive</strong>.
+            </p>
+        </entry>
+        <entry id="Inverted" date="11/14/2011">
+            <p>
+                Anyone who knows me knows that I enjoy a good video game. At the same time, I don't play a lot of
+                <i>different</i> video games, and these days I don't play all that often. As a result,
+                I'm not the most versatile player out there. There are certain aspects of gameplay that I will
+                probably never master. One of those is non-inverted analog camera controls.
+            </p>
+            <p>
+                When game designers work out how their game is to be controlled (that is, how the user is to interact with the game),
+                they have to take into account at least the intuition of the player, the control interface offered by the game,
+                and the versatility of the controller itself. The designer must be sure to make the user's controls as intuitive and comfortable
+                as possible without handicapping the effectiveness of the game's control interface. But what do I mean by 'intuitive'? Controls that are
+                comfortable to one player might be a hassle for another. In reality, the designers of the game controller have done most of the
+                difficult work in this area to make sure that the controller is both comfortable for the user to handle and generic enough to interact with
+                most, if not all of the games that will be hosted on the corresponding console.
+            </p>
+            <p>
+                Most controllers (from the same era) share common features. The controllers for <a prefix=" " href="http://en.wikipedia.org/wiki/Ps2">PS2</a>,
+                <a prefix=" " href="http://en.wikipedia.org/wiki/Nintendo_GameCube">GameCube</a>, and <a prefix=' ' suffix=' ' href="http://en.wikipedia.org/wiki/Xbox">Xbox</a> all
+                have two <a prefix=" " href="http://en.wikipedia.org/wiki/Analog_stick">analog thumb sticks</a>. Now, in the spirit of <i space-after="false">intuition</i>,
+                one would expect that a game from a given genre (i.e., a first-person shooter), will have similar controls regardless of whether that
+                game is for PS2 or for XBox. In a typical first-person shooter, such as <a prefix=' ' suffix=' ' href="http://en.wikipedia.org/wiki/Halo_(series)">Halo</a> (for XBox),
+                the movement of the player is controlled with the two analog thumb sticks. The left stick controls the player's movement along the ground,
+                and the right stick controls the direction he/she is facing. Most gamers are aware of this convention and are able to use it to adapt
+                their skills on one game for use on another. Whereas other more game-specific controls may differ between games, this abstract convention should
+                at least hold true. If this convention were to be discarded when designing a given game, its users
+                would be thrown off. If the makers of the Halo series, for example, suddenly switched the behavior of the two analog sticks when making the
+                next Halo game, the game's users would be very frustrated by the counterintuitive shift in the game controls, and may even give up on playing.
+            </p>
+            <p>
+                Of course, typically that would never happen. In fact, game designers are in general pretty good at designing controls to be
+                similar to the controls of other games. It is as much to their advantage to make the game fun to play as it is to make
+                comfortable to play. It is also important to make the player want to <i>return</i> to playing the game. If a gamer plays a lot
+                of different games, switching between them is easier and more enjoyable if control skills from one game translate to the others.
+                De facto standards (like the left analog stick always controls movement) have naturally arisen in the game design community as a result.
+                A gamer gets to know these standards and conventions as he/she gets more involved in gaming culture.
+            </p>
+            <p>
+                Now, I've been playing games for most of my life. I started on PC, using arrow keys for motion and text boxes for, well, everything else.
+                Nintendo came next, and I found it even easier to control than the PC--arrow keys were replaced by a D-Pad, and the rest of the keyboard
+                was replaced by two simple buttons, "A" and "B" (which meant no spelling--very important to a five-year old). Later I got
+                really into a series of PC games called <a prefix=" " href="http://en.wikipedia.org/wiki/MechWarrior_(video_game_series)">Mechwarrior</a>, which uses
+                a joystick to control what are essentially giant robot killing machines. I also had a few flight simulators for which I used
+                the same joystick. I also played a heck of a lot of first person shooters, starting with
+                classics like
+                <a prefix=" " href="http://en.wikipedia.org/wiki/Wolfenstein_3D">Wolfenstein 3D</a>,
+                <a prefix=" " href="http://en.wikipedia.org/wiki/Spear_of_Destiny_(video_game)">Spear of Destiny</a>,
+                <a prefix=" " href="http://en.wikipedia.org/wiki/Doom_(series)">Doom</a>,
+                <a prefix=" " href="http://en.wikipedia.org/wiki/Quake_(series)">Quake</a>,
+                and <a prefix=" " href="http://en.wikipedia.org/wiki/Heretic_(video_game)">Heretic</a>,
+                then moving on to the <a prefix=' ' suffix=' ' href="http://en.wikipedia.org/wiki/Half-Life_(series)">Half-Life</a> series. I've played a whole mess of different
+                games, but these were the ones that really helped to define my childhood. For a [more] complete list, see <l space-after="false" href="/pages/timski/lists/videoGames.html">this page</l>.
+            </p>
+            <p>
+                In all of the games listed in the previous paragraph, I used an inverted camera control system. In Mechwarrior, the joystick controls the
+                viewing angle of the giant robot you are piloting, and the keyboard and joystick buttons control everything else (like firing weapons,
+                accelerating, etc). So, I held the joystick in my right hand, and the keyboard under my left. If I wanted to look upward,
+                I would pull the joystick backward (toward me), and if I wanted to look downward, I would push the joystick foward. The thought process is simple:
+                imagine you are holding the giant robot by the head, and you want it to look upward--you pull its head back, right? And if you want him to look
+                down, push his head forward. The same scheme is used in flight controls. If you want to pitch an aircraft upward, pull the joystick back, and
+                vice versa. When I started playing first person shooters, my primitive coordination skills forced me to use the same method to control my
+                perspective vector. I use my right hand on the mouse (instead of the joystick), and keep my left hand on the keyboard. The keyboard controls
+                movement forward/backward and strafe, and the mouse controls my viewing angle. To look down, I push the mouse forward, as if I were pushing a
+                joystick forward. To look up, I pull the mouse back, as if I were pulling a joystick back.
+            </p>
+            <p>
+                Below are some tables that sum up all of this confusing information. Differences are colored.
+            </p>
+            <h3>Control Scheme with Inversion</h3>
+            <table style="width: 75%">
+                <tbody>
+                    <tr>
+                        <th>Action</th>
+                        <th>PC control</th>
+                        <th>Xbox control</th>
+                    </tr>
+                    <tr>
+                        <td>Strafe Leftward</td>
+                        <td>'Left' arrow key</td>
+                        <td>Left analog stick, -X axis</td>
+                    </tr>
+                    <tr>
+                        <td>Strafe Rightward</td>
+                        <td>'Right' arrow key</td>
+                        <td>Left analog stick, +X axis</td>
+                    </tr>
+                    <tr>
+                        <td>Move Forward</td>
+                        <td>'Up' arrow key</td>
+                        <td>Right analog stick, +Y axis</td>
+                    </tr>
+                    <tr>
+                        <td>Move Backward</td>
+                        <td>'Down' arrow key</td>
+                        <td>Left analog stick, -Y axis</td>
+                    </tr>
+                    <tr>
+                        <td>Look Leftward</td>
+                        <td>move mouse leftward</td>
+                        <td>Right analog stick, -X axis</td>
+                    </tr>
+                    <tr>
+                        <td>Look Rightward</td>
+                        <td>move mouse rightward</td>
+                        <td>Right analog stick, +X axis</td>
+                    </tr>
+                    <tr>
+                        <td>Look Upward</td>
+                        <td>
+                            move mouse <span prefix=" " class="bluer">BACKWARD</span>
+                        </td>
+                        <td>
+                            Right analog stick, <span prefix=" " class="bluer">-</span>Y axis
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Look Downward</td>
+                        <td>
+                            move mouse <span prefix=" " class="bluer">FORWARD</span>
+                        </td>
+                        <td>
+                            Right analog stick, <span prefix=" " class="bluer">+</span>Y axis
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <h3>Control Scheme without Inversion</h3>
+            <table style="width: 75%">
+                <tbody>
+                    <tr>
+                        <th>Action</th>
+                        <th>PC control</th>
+                        <th>Xbox control</th>
+                    </tr>
+                    <tr>
+                        <td>Strafe Leftward</td>
+                        <td>'Left' arrow key</td>
+                        <td>Left analog stick, -X axis</td>
+                    </tr>
+                    <tr>
+                        <td>Strafe Rightward</td>
+                        <td>'Right' arrow key</td>
+                        <td>Left analog stick, +X axis</td>
+                    </tr>
+                    <tr>
+                        <td>Move Forward</td>
+                        <td>'Up' arrow key</td>
+                        <td>Right analog stick, +Y axis</td>
+                    </tr>
+                    <tr>
+                        <td>Move Backward</td>
+                        <td>'Down' arrow key</td>
+                        <td>Left analog stick, -Y axis</td>
+                    </tr>
+                    <tr>
+                        <td>Look Leftward</td>
+                        <td>move mouse leftward</td>
+                        <td>Right analog stick, -X axis</td>
+                    </tr>
+                    <tr>
+                        <td>Look Rightward</td>
+                        <td>move mouse rightward</td>
+                        <td>Right analog stick, +X axis</td>
+                    </tr>
+                    <tr>
+                        <td>Look Upward</td>
+                        <td>
+                            move mouse <span prefix=" " class="greener">FORWARD</span>
+                        </td>
+                        <td>
+                            Right analog stick, <span prefix=" " class="greener">+</span>Y axis
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Look Downward</td>
+                        <td>
+                            move mouse <span prefix=" " class="greener">BACKWARD</span>
+                        </td>
+                        <td>
+                            Right analog stick, <span prefix=" " class="greener">-</span>Y axis
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>
+                So, now, getting back to my original point...I have only ever really played these games on my own computer, so I always used my
+                controls and never had to get used to any other scheme. I have <i>not</i> played a lot of first-person shooters on video game consoles.
+                I only rarely get the chance to play Halo or <a prefix=' ' suffix=' ' href="http://en.wikipedia.org/wiki/Call_of_Duty">Call of Duty</a>
+                when I play at a friend's house, and so I have never really gotten the chance to get used to the two-analog-stick control method.
+                Nevertheless, since the console controls are abstract and similar to the PC (the arrow keys are almost identical to a D-Pad or analog stick,
+                and a mouse's axes are likewise), you would think I should be able to use my PC skills as a jumpstart and hide the fact that I am
+                a total newbie to the game, right? <span prefix=" " suffix=" " style="color: #880088; font-size: 12pt;">WRONG!!</span> Because most console first-person shooters,
+                and consequently most gamers, do not use <b space-after="false">inverted perspective</b>.
+            </p>
+            <p>
+                The default behavior in Halo when you move the right analog stick forward, or "up", or in the +Y direction (hopefully at least one of those will
+                give you the correct mental picture), is that the player will look upward. I suppose this is because the desire is to correlate "up" on the D-pad
+                with the notion of "upward". It may sound reasonable, but I am telling you, to my thumbs, hands, and brain, this correlation is not just
+                unreasonable, it is <b space-after="false">just plain wrong</b>! It makes it nearly impossible for me to play a game like Halo with any skill at all, since I
+                cannot simply tell my brain to think backwards, or counter-intuitively. Instead, I have to go to the game options and switch to inverted controls
+                (that is, if this
+                is even available as an option), which invariably leads to jeers and disapproval from other players, especially in a multiplayer context.
+            </p>
+            <p>
+                I am immensely frustrated at this relatively simple discrepancy between two schools of thought. And it's not because my side isn't winning.
+                On the contrary, if non-inverted controls were to be found in a game controlling an aircraft, for example, the designer of said game would
+                without a doubt be fired. Both control schemes have their advantages and disadvantages, and both hold definitive spots in the gaming world where
+                utilizing the other just wouldn't make sense. Instead, I am frustrated at being made an outsider at parties just because I am used to
+                different controls than (seemingly) everyone else, which causes me to suck at and dislike games that I would otherwise excel at and probably
+                even enjoy. At one point I had played Modern Warefare enough that I could switch inversion on and off so quickly that it wouldn't bother
+                anyone, but unlike the actual gameplay controls, game menus and menu controls never seem to be very intuitive. Seems there's never a way
+                to avoid a learning curve...
+            </p>
+        </entry>
+        <entry id="First Blog Entry" date="11/2/2011">
+            <p>
+                I've set up a blog for myself.
+            </p>
+            <p>
+                It's not flashy, it's not complicated, and it's not even that visible on the
+                internet. But it's here.
+            </p>
+        </entry>
+    </sections>
+</page>

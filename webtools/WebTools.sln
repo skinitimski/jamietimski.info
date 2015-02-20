@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateCalendars", "GenerateCalendars\GenerateCalendars.csproj", "{2A67E20A-7057-4CF1-9857-E242EE11B560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTools", "WebTools\WebTools.csproj", "{8B1EE9CF-372D-4C4A-8477-09AC1A953E7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchCopy", "BatchCopy\BatchCopy.csproj", "{C9B917D4-3DDC-4857-B7AA-C7B64C77F349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformPages", "TransformPages\TransformPages.csproj", "{C5AF53BD-4674-46E9-9DF7-74D322162F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateGallery", "GenerateGallery\GenerateGallery.csproj", "{23EF9643-9FCB-4B68-8239-932C8E848841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateHostScripts", "GenerateHostScripts\GenerateHostScripts.csproj", "{69B55F61-DB76-4D32-8599-86B1F5E53D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A67E20A-7057-4CF1-9857-E242EE11B560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A67E20A-7057-4CF1-9857-E242EE11B560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A67E20A-7057-4CF1-9857-E242EE11B560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A67E20A-7057-4CF1-9857-E242EE11B560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1EE9CF-372D-4C4A-8477-09AC1A953E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1EE9CF-372D-4C4A-8477-09AC1A953E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1EE9CF-372D-4C4A-8477-09AC1A953E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1EE9CF-372D-4C4A-8477-09AC1A953E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B917D4-3DDC-4857-B7AA-C7B64C77F349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B917D4-3DDC-4857-B7AA-C7B64C77F349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B917D4-3DDC-4857-B7AA-C7B64C77F349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B917D4-3DDC-4857-B7AA-C7B64C77F349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AF53BD-4674-46E9-9DF7-74D322162F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AF53BD-4674-46E9-9DF7-74D322162F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AF53BD-4674-46E9-9DF7-74D322162F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AF53BD-4674-46E9-9DF7-74D322162F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23EF9643-9FCB-4B68-8239-932C8E848841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23EF9643-9FCB-4B68-8239-932C8E848841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23EF9643-9FCB-4B68-8239-932C8E848841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23EF9643-9FCB-4B68-8239-932C8E848841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69B55F61-DB76-4D32-8599-86B1F5E53D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B55F61-DB76-4D32-8599-86B1F5E53D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B55F61-DB76-4D32-8599-86B1F5E53D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B55F61-DB76-4D32-8599-86B1F5E53D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		version = 0.1
+		StartupItem = GenerateCalendars\GenerateCalendars.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.StandardHeader = $2
+		$2.Text = 
+		$2.inheritsSet = MITX11License
+	EndGlobalSection
+EndGlobal

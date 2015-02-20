@@ -1,0 +1,4 @@
+5	9:30 PM	Rhumb Line	The Rhumb Line	Glocuester, MA	The Runaround Sound
+11	7:00 PM	Endicott	Endicott College	Beverly, MA	Cape Ann Big Band	Fifth Annual Intercollegiate Jazz Fest
+20	9:15 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	The Runaround Sound
+26	9:00 PM	Capt Carlo's	Captain Carlo's Restaurant	Gloucester, MA	The Runaround Sound	Inside

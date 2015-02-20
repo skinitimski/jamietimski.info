@@ -1,0 +1,115 @@
+<page parent="instruments">
+    <title>Instruments - Guitars</title>
+    <header>
+        <p>
+            I own some guitars and guitar-like instruments.
+        </p>
+    </header>
+    <sidebar heading="Other Instruments">
+        <sections>
+            <section id="Lisa">
+                <values>
+                    <make>Martin</make>
+                    <model>?</model>
+                    <cost>$1000</cost>
+                    <year>circa 2010</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            This guitar is so light, but it has a vibrant sound. She's a cutaway
+                            acoustic-electric with built-in tuner and 2-band EQ.
+                        </p>
+                    </text>
+                </with-image>
+            </section>
+            <section id="Pinkie">
+                <values>
+                    <make>Custom</make>
+                    <model>Stratocaster copy</model>
+                    <pickups>3 single-coil Lace Sensor Gold</pickups>
+                    <cost>~$300</cost>
+                    <year>N/A</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            I bought this guitar off the side of the road. A woman was selling it; her son had owned and
+                            played it but had moved out or whatever and it wasn't being used. I came over, tried it out,
+                            and took it home.
+                        </p>
+                        <p>
+                            Originally this guitar was a Stratocaster copy made by Kramer. The body and headstock were
+                            entirely covered in tiger fur. That's right, tiger fur. I don't know whether that's the way it
+                            came or whether that was a custom job. The paint underneath was black. At any rate, I stripped
+                            off the shag and painted the body a nice pink color. I still have to go back and lacquer this
+                            paint job...someday.
+                        </p>
+                        <p>
+                            I replaced all of the electronics with a standard Stratocaster setup from the 90s, with Lace Sensor
+                            Gold pickups and Ernie Ball trim pots (I think). All I need is a new neck and it will be a pretty
+                            decent custom Strat copy.
+                        </p>
+                    </text>
+                </with-image>
+            </section>
+            <section id="Uke">
+                <values>
+                    <make>Cordoba</make>
+                    <model>20TM-CE</model>
+                    <tuning>G4 C4 E4 A4</tuning>
+                    <cost>$200</cost>
+                    <year>2011</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            This ukulele is fun to play. Not only does it have a cutaway, but it is also
+                            acoustic-electric, with a GREAT amplified sound.
+                        </p>
+                    </text>
+                </with-image>
+            </section>
+            <section id="Rogue">
+                <values>
+                    <make>Rogue</make>
+                    <model>RA-100</model>
+                    <cost>$100 (gift)</cost>
+                    <year>2007</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            I got this guitar for my birthday many years back. It was the first guitar I could
+                            call my own. It has a great sound, but miserable action--the strings are too high
+                            and no neck adjustment is possible.
+                        </p>
+                    </text>
+                </with-image>
+            </section>
+            <hidden reason="gave to Bill">
+            <section id="Derp">
+                <values>
+                    <make>Yamaha</make>
+                    <model>FD01</model>
+                    <tuning>open D</tuning>
+                    <cost>free</cost>
+                    <year>circa 2000s</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            My buddy was throwing this guitar out. I didn't figure out why it was so worthless until I got
+                            it home. The strings are a bitch to change because the bridge and pins are so cheap. The
+                            entire neck is twisted or warped in such a way that the strings touch the fretboard when
+                            they're depressed (which results in buzzing). I decided to open-tune this guitar and keep
+                            it around for experimenting with <a href="http://en.wikipedia.org/wiki/Slide_guitar">slide</a>
+                            technique.
+                        </p>
+                    </text>
+                </with-image>
+            </section>
+            </hidden>
+        </sections>
+    </sidebar>
+</page>

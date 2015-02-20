@@ -1,0 +1,185 @@
+<page parent="timski">
+    <title>Smilies</title>
+    <header>
+        <p>
+            Smilies is a half-game, half-story concept I developed while doodling in my notebooks. I'm not
+            sure when I drew my first Smiley, nor am I sure that I knew it was a Smiley at the time.
+            The Smiley concept has grown over time in the back of my mind, but has not been officially
+            drafted until now.
+        </p>
+    </header>
+    <sections>
+        <section id="Concept">
+            <p>
+                Smilies are a race of two-dimensional lifeforms. They take the shape of smiley faces, with some
+                variants that will be discussed later. They reproduce, age, and interact with their environment like most lifeforms.
+                They reproduce asexually, and have no gender. They do not die from old age.
+            </p>
+            <p>
+                While Smileys may look friendly and happy, they are constantly at war. The sworn enemy of
+                the Smiley is the Figure. Figures and Smileys have been at war for almost their entire history.
+            </p>
+            <p>
+                Smileys fight off Figures with their eyes, which emit Figure-melting lasers. 
+                A Figure need only to touch a Smiley to kill it.
+            </p>
+        </section>
+        <section id="Lifespan">
+            <p>
+                The lifespan of a Smiley runs through the following consecutive stages: infancy, adolescence, adulthood.
+            </p>
+            <h3>Infancy</h3>
+            <with-image image-align="left">
+                <text>
+                    <p>
+                        Smileys are born out of a special kind of Smiley called "Breeders". New Smileys, 
+                        called "Blinkers", emerge from Breeders as very small beings. They have 
+                        one-dimensional dot-like eyes and a small, upturned smile. Blinkers' eyes
+                        are not fully developed at birth, and cannot perform their intended function.
+                    </p>
+                </text>
+                <image>
+                    <src>/gallery/heap/blinker.png</src>
+                    <caption><i>Blinker</i></caption>
+                </image>
+            </with-image>
+            <h3>Adolescence</h3>
+            <with-image image-align="left">
+                <text>
+                    <p>
+                        After a short period of time, a Blinker's eyes will fully develop. 
+                    </p>
+                    <p>
+                        Young Smileys that can use their eyes are called Boomers. Boomers mature by 
+                        exercising their eyes. The more they use their eyes, the faster they mature. 
+                    </p>
+                </text>
+                <image>
+                    <src>/gallery/heap/boomer.png</src>
+                    <caption><i>Boomer</i></caption>
+                </image>
+            </with-image>
+            <h3>Adulthood</h3>
+            <with-image image-align="left">
+                <text>
+                    <p>
+                        When a Boomer has exercised its eyes enough, its eyes gain a dimension and 
+                        become lines. Its mouth also grows. The result is a mature Smiley that is visually distinct
+                        from what it was before. Mature Smileys are called "Adults", "Beamers", or sometimes just "Smileys".
+                    </p>
+                    <p>
+                        Adult Smileys are not so different from Boomers. They are larger, with more effective eyes,
+                        but otherwise they serve the same role in society.
+                    </p>
+                </text>
+                <image>
+                    <src>/gallery/heap/beamer.png</src>
+                    <caption><i>Beamer</i></caption>
+                </image>
+            </with-image>
+        </section>
+        <section id="Abilities">
+            <p>
+                There are several variations in the Smiley society.
+            </p>
+            <h3>Eyebrows</h3>
+            <with-image image-align="left">
+                <text>
+                    <p>
+                        Eyebrows are an added ability developed by some Boomers and Beamers. Eyebrows
+                        are a mark of increased intelligence, strength, speed, and vitality.
+                    </p>
+                    <p>
+                        The ratio of Browed Smileys to normal Smileys in a given society is determined by the
+                        overall health of the society. When a society is fewer in number, more Smileys
+                        will become browed in order to increase the chances of the society's survival.
+                        In other words, the ratio changes as necessary in order to promote the overall health of 
+                        the society.
+                    </p>
+                    <p>
+                        Smileys with eyebrows are referred to as "Browed", as in "Browed Beamer".
+                    </p>
+                    <p>
+                        Browed Beamers can also become Breeders. This would only happen in very dire situations,
+                        where the life of a whole society is threatened.
+                    </p>
+                </text>
+                <image>
+                    <src>/gallery/heap/beamerBrowed.png</src>
+                    <caption><i>Browed Beamer</i></caption>
+                </image>
+            </with-image>
+            <h3>2D Eyes</h3>
+            <with-image image-align="left">
+                <text>
+                    <p>
+                        Some Boomers use their eyes almost constantly from the time they are able. 
+                        Rapid maturation leads to a different kind of adult eye than normal. Instead
+                        of gaining one dimension, they gain two. 
+                    </p>
+                    <p>
+                        Smileys with two-dimensional eyes, called "Lookers", have 5x the offensive
+                        strength of normal adults at the time of maturation.
+                    </p>
+                </text>
+                <image>
+                    <src>/gallery/heap/looker.png</src>
+                    <caption><i>Looker</i></caption>
+                </image>
+            </with-image>
+            <h3>Dimples</h3>
+            <with-image image-align="left">
+                <text>
+                    <p>
+                        Some Beamers are born leaders. As they age they cultivate understanding
+                        of strategic warfare, effective planning, and resourceful management. Other
+                        Smileys are drawn to their leadership, and they develop Dimples. Smileys that
+                        weren't otherwise attracted to leadership qualities instinctively 
+                        acknowledge the authority of Dimpled Smileys, also called "Leaders".
+                    </p>
+                    <p>
+                        Browed Leaders are an extraordinary asset to a Smiley society, as their
+                        heightened abilities include their leadership qualities. This also makes
+                        them a priority target of Figures.
+                    </p>
+                    <p>
+                        Lookers cannot become Leaders, nor can Breeders.
+                    </p>
+                </text>
+                <image>
+                    <src>/gallery/heap/leader.png</src>
+                    <caption><i>Leader</i></caption>
+                </image>
+            </with-image>
+            <h3>Open Mouth</h3>
+            <with-image image-align="left">
+                <text>
+                    <p>
+                        Some Smileys just aren't cut out to kill Figures.
+                    </p>
+                    <p>
+                        In a given society of Smileys, adult individuals can naturally be
+                        selected to become Breeders whenever the Breeder population is low. As necessary, a
+                        given adult Smiley will undergo a native transformation through
+                        which its mouth will open wide, its size will greatly increase, 
+                        and its eyes will cease to function (the sole exception being Browed
+                        Breeders).
+                    </p>
+                    <p>
+                        Breeders will immediately start ejecting new Blinkers once their transformation
+                        is complete.
+                    </p>
+                    <p>
+                        Leaders cannot become Breeders. A Leader's role is far too
+                        important to be sacrificed. Also, Lookers cannot become Breeders for
+                        a smiliar reason.
+                    </p>
+                </text>
+                <image>
+                    <src>/gallery/heap/breeder.png</src>
+                    <caption><i>Breeder</i></caption>
+                </image>
+            </with-image>
+        </section>
+    </sections>
+</page>

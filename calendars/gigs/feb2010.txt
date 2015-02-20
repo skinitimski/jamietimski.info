@@ -1,0 +1,3 @@
+#Day	Time	Vnu	Venue	Town, ST	Band
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band
+26	8:30	Elliot's	Elliot's at the Blackburn	Gloucester, MA	The Runaround

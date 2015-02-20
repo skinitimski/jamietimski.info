@@ -1,0 +1,7 @@
+1	3:00 PM	Parade	Santa Claus Parade	Gloucester, MA	Boston Fireman's Band
+7	1:00 PM	Parade	Santa Claus Parade	Hampton, NH	Boston Fireman's Band
+13	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround Sound
+14	12:00 PM	City Hall	City Hall	Gloucester, MA	Cape Ann Big Band	Downtown Middle Street Walk
+14	7:30 PM	Chevalier Theatre	The Chevalier Theatre	Medford, MA	The Runaround Sound
+20	7:00 PM	Rhumb Line	The Rhumb Line Upstairs	Gloucester, MA	The Runaround Sound and Cape Ann Big Band	2nd Annual Christmas Extravaganza
+31	6:00 PM	Shalin Liu	Shalin Liu Performance Center	Rockport, MA	Cape Ann Big Band	First Night

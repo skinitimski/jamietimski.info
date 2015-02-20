@@ -1,0 +1,4 @@
+cd /scratch/timski
+tar -xf www.tar 
+rm -f www.tar
+mv .www ~/

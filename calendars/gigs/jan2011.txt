@@ -1,0 +1,5 @@
+8	9:15 PM	Dog Bar	Dog Bar	Gloucester, MA	The Runaround Sound
+14	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	100 Proof
+22	9:30 PM	Fibber's	Fibber McGee's	Beverly, MA	100 Proof
+
+

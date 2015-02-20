@@ -1,0 +1,47 @@
+<page parent="index" suppressParentLink='true'>
+    <title center='true'>Jamie Green Klopotoski</title>
+    <cellTable>
+        <tr>
+            <td width="50%" border="0" cellpadding="0" valign="middle">
+                <br /><b spaces='false'>Contact</b>
+                <br />revjamiegreen@gmail.com
+                <br />
+                <br />
+                <br /><b spaces='false'>B.A., Religion</b>
+                <br /><i spaces='false'>cum laude</i>
+                <br /><a href="http://www.neu.edu/">Northwestern University</a>
+                <br />Evanston, IL
+                <br />Class of 2006
+                <br />
+                <br />
+                <br /><b spaces='false'>Master of Divinity</b>
+                <br /><a href="http://www.harvard.edu/">Harvard University</a>
+                <br />Cambridge, MA
+                <br />Class of 2009
+                <br />
+                <br />
+                <br /><b spaces='false'>Associate Minister of Youth and Children</b>
+                <br /><a href="http://needhamucc.org/">Congregational Church of Needham</a>
+                <br />Needham, MA
+                <br />
+            </td>
+            <td width="50%" border="0" cellpadding="0" valign="middle">
+                <cellTable>
+                    <tr>
+                        <td>
+                            <image>
+                                <src>/gallery/heap/jamie.jpg</src>
+                                <caption>The beautiful and wonderful Jamie</caption>
+                            </image>  
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <index subfolder="jamie" heading="Pages" />
+                        </td>
+                    </tr>
+                </cellTable>
+            </td>
+        </tr>
+    </cellTable>
+</page>

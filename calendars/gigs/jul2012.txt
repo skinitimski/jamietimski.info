@@ -1,0 +1,12 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+1	11:30 AM	Fiesta Parade	St. Peter's Fiesta Parade	Gloucester, MA	Boston Fireman's Band
+3	7:30 PM	Boulevard	Stacy Boulevard	Glocuester, MA	Cape Ann Big Band	5th Annual Fireworks Extravaganzaa
+3	8:30 PM	Boulevard	Stacy Boulevard	Glocuester, MA	The Runaround Sound	5th Annual Fireworks Extravaganzaa
+4	9:00 AM	4th of July Parade	Burlington 4th of July Parade	Burlington, MA	Boston Fireman's Band
+4	6:00 PM	4th of July Parade	Rockport 4th of July Parade	Rockport, MA	Boston Fireman's Band
+6	9:00 PM	Dog Bar	The Dog Bar	Gloucester, MA	The Runaround Sound
+13	9:00 PM	Capt Carlo's	Captain Carlo's Restaurant	Gloucester, MA	The Runaround Sound	Outside
+14	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround Sound
+27	9:15 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	The Runaround Sound
+27	7:00 PM	Shalin Liu	Shalin Liu Performance Center	Rockport, MA	Cape Ann Big Band
+28	8:00 PM	Shalin Liu	Shalin Liu Performance Center	Rockport, MA	Cape Ann Big Band

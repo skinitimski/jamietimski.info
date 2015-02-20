@@ -1,0 +1,63 @@
+<page parent="index" suppressParentLink='true'>
+    <title center='true'>Timothy Klopotoski</title>
+    <cellTable>
+        <tr>
+            <td width="50%" border="0" cellpadding="0" valign="middle">
+                <i spaces='false'>a.k.a. Timski</i>
+                <br />
+                <br /><b spaces='false'>Contact</b>
+                <br />skinitimski@gmail.com
+                <br />
+                <br />
+                <br /><b spaces='false'>B.S., Computer Science and Physics</b>
+                <br /><i spaces='false'>magna cum laude</i>
+                <br /><a href="http://www.neu.edu/" target="_blank">Northeastern University</a>
+                <br />Boston, MA
+                <br />Class of 2011
+                <br />
+                <br />
+                <br /><b spaces='false'>Software Developer</b>
+                <br />Infrastructure Services
+                <br /><a href="http://www.ebscohost.com/">EBSCO Information Services</a>
+                <br />Ipswich, MA
+                <br />as of November 1, 2010
+                <hidden>
+                    <i space-after='false'>(full-time employee)</i>                
+                    <br /><w spaces='false'>July-October, 2010 <i space-after='false'>(co-op/internship)</i></w>
+                    <br /><w spaces='false'>July-December, 2009 <i space-after='false'>(co-op/internship)</i></w>
+                    <br /><w spaces='false'>June-December, 2008 <i space-after='false'>(co-op/internship)</i></w>
+                </hidden>
+                <br />
+                <br />
+                <br /><b spaces='false'>Eagle Scout</b>
+                <br /><i spaces='false'>Boy Scouts of America</i>
+                <br />Troop 60
+                <br />Gloucester, MA
+                <br />
+                <br />
+                <br /><strong>Musician</strong>
+                <br />
+                <br /><l href="/pages/timski/bands.html">Bands</l>
+                <br /><l href="/calendars/gigs.html">Show Dates</l>
+                <br />
+            </td>
+            <td width="50%" border="0" cellpadding="0" valign="middle">
+                <cellTable>
+                    <tr>
+                        <td>
+                            <image>
+                                <src>/gallery/heap/timski.jpg</src>
+                                <caption>Timski staring down a pig he would soon eat</caption>
+                            </image>  
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <index subfolder="timski" heading="Pages" />
+                        </td>
+                    </tr>
+                </cellTable>
+            </td>
+        </tr>
+    </cellTable>
+</page>

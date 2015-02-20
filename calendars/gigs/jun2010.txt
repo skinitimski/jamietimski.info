@@ -1,0 +1,9 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+# Red's first gig
+4	9:15 PM	Dog Bar	Dog Bar	Gloucester, MA	The Runaround
+5	9:00 PM	Lat 43	Latitude 43	Gloucester, MA	The Runaround
+14	6:00 PM	Parade	Flag Day Parade	Dedham, MA	Boston Fireman's Band
+20	12:00 PM	Parade	Brookline Flag Day Parade	Brookline, MA	Boston Fireman's Band
+25	9:30 PM	Rhumb Line	Rhumb Line	Gloucester, MA	The Runaround	Fiesta Friday Show
+26	9:00 PMish	Lat 43	Latitude 43 Parking Lot Tent	Gloucester, MA	Mile 21	Fiesta Reunion Show
+27	11:30 AM	Parade	St. Peter's Fiesta Parade	Gloucester, MA	Boston Fireman's Band

@@ -1,0 +1,8 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+6	9:15 PM	Minglewood	Minglewood (Latitude 43)	Gloucester, MA	Mile 21
+7	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround Sound	Tim's Graduation Bash
+14	9:15 PM	Minglewood	Minglewood (Latitude 43)	Gloucester, MA	100 Proof
+19	8:00 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	The Runaround Sound	Horrible's Parade Fundraiser
+22	1:00 PM	Parade	Memorial Day Parade	Wellesley, MA	Boston Fireman's Band
+29	1:00 PM	Parade	Memorial Day Parade	Somerville, MA	Boston Fireman's Band
+30	9:00 AM	Parade	Memorial Day Parade	Winchester, MA	Boston Fireman's Band

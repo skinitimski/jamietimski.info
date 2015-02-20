@@ -1,0 +1,8 @@
+3	7:30 PM	Boulevard	Stacy Boulevard	Glocuester, MA	Cape Ann Big Band	6th Annual Fireworks Extravaganzaa
+3	8:30 PM	Boulevard	Stacy Boulevard	Glocuester, MA	The Runaround Sound	6th Annual Fireworks Extravaganzaa
+4	9:00 AM	4th of July Parade	Burlington 4th of July Parade	Burlington, MA	Boston Fireman's Band
+4	6:00 PM	4th of July Parade	Rockport 4th of July Parade	Rockport, MA	Boston Fireman's Band
+6	8:00 PM	Booze Cruise	On the Hurricane II	Gloucester, MA	The Runaround Sound	Booze Cruise
+19	9:30 PM	Rhumb Line	The Rhumb Line	Glocuester, MA	The Runaround Sound
+20	9:00 PM	Capt Carlo's	Captain Carlo's Restaurant	Gloucester, MA	The Runaround Sound	Outside
+26	9:00 PM	Mile Marker	Mile Marker One at the Cape Ann Marina	Gloucester, MA	The Runaround Sound

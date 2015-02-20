@@ -1,0 +1,6 @@
+16	9:00 PM	Lat 43	Latitude 43	Gloucester, MA	The Runaround
+18	9:00 PM	Capt Carlo's	Captain Carlo's Restaurant	Gloucester, MA	The Runaround
+24	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround
+27	10:00 PM	Soma	Soma Restaurant	Beverly, MA	Mile 21
+29	8:30 PM	Middle East	The Middle East Upstairs	Cambridge, MA	Mile 21
+30	9:00 PM	Lat 43	Latitude 43	Gloucester, MA	The Runaround

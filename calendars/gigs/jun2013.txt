@@ -1,0 +1,7 @@
+1	?:00 PM	Wedding	Sheraton Ferncroft	Danvers, MA	The Runaround Sound	Al+Jes Wedding
+8	9:00 PM	Capt Carlo's	Captain Carlo's Restaurant	Gloucester, MA	The Runaround Sound	Outside
+# I don't remember the next one...was that the Bridge thing?
+#15	?:?? ?M	Fesival	Festival	Glocuester, MA	Mile 21
+21	9:00 PM	Minglewood	Minglewood Tavern	Gloucester, MA	The Runaround Sound
+29	9:15 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	The Runaround Sound
+30	11:30 AM	Fiesta Parade	St. Peter's Fiesta Parade	Gloucester, MA	Boston Fireman's Band

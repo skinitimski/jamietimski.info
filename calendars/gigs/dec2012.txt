@@ -1,0 +1,10 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+1	9:00 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	The Runaround Sound
+2	1:00 PM	Parade	Santa Claus Parade	Hampton, NH	Boston Fireman's Band
+5	7:00 PM	Jalapeno's	Jalapeno's Restaurant	Gloucester, MA	The Runaround Sound	Alicia Burns Suicide Prevention Fundraiser
+7	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround Sound
+8	12:00 PM	City Hall	City Hall	Gloucester, MA	Cape Ann Big Band	Downtown Middle Street Walk
+8	7:00 PM	ME Regional	Manchester Essex Regional High School Auditorium	Manchester, MA	Cape Ann Big Band	Holiday Performance
+21	7:00 PM	Rhumb Line	The Rhumb Line Upstairs	Gloucester, MA	The Runaround Sound and Cape Ann Big Band	2nd Annual Christmas Extravaganza
+31	6:00 PM	Shalin Liu	Shalin Liu Performance Center	Rockport, MA	Cape Ann Big Band	First Night
+

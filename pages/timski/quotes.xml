@@ -1,0 +1,216 @@
+<page parent="timski">
+    <title>Quotes</title>
+    <header>
+        <p>
+            Here's <l href="/pages/timski/lists.html">another</l> place where I can create and manipulate data.
+        </p>
+        <p>Humor is at the top because I love funny things, plain and simple.</p>
+    </header>
+    <sections>
+        <section id="Humor">
+            <quote id="ironDick">
+                <text>We are not establishing a democracy in this house! This is a dictatorship, and I rule with an iron dick!</text>
+                <credit>
+                    <name>Master Shake</name>
+                    <title>Aqua Teen Hunger Force</title>
+                </credit>
+            </quote>
+            <quote id="generalFailure">
+                <text>Who is General Failure and why is he reading my hard disk?</text>
+                <credit>
+                    <name>Anonymous</name>
+                </credit>
+                <comments>
+                    Ah, <a prefix=" " href="http://en.wikipedia.org/wiki/MS-DOS">DOS</a>. Childhood memories.
+                </comments>
+            </quote>
+            <quote id="eightDollars">
+                <text>Stan, don't you know the first law of physics? Anything that's fun costs at least eight dollars.</text>
+                <credit>
+                    <name>Eric Cartman</name>
+                    <title>South Park</title>
+                </credit>
+                <comments />
+            </quote>
+            <quote id="mantel">
+                <text>If my parents had a mantel, I might be a completely different person.</text>
+                <credit>
+                    <name>George Castanza</name>
+                    <title>Seinfeld</title>
+                </credit>
+                <comments/>
+            </quote>
+            <quote id="connie">
+                <text>
+                    Connie, I think I have a theory about why you're such a bitch. You see, Connie,
+                    you're popular because you developed early and started putting out when you were 12,
+                    but now, you can't stand to look at yourself in the mirror because all you see is a
+                    whore. So you pick on Meg to avoid the inevitable realization that once your body
+                    is used up by age 19, you're gonna be a worn-out, chalky skinned, burlap sack that
+                    even your stepdad won't want. How's that? Am I in the ball park?
+                </text>
+                <credit>
+                    <name>Brian Griffin</name>
+                </credit>
+                <comments>
+                    My favorite Brian quote.
+                </comments>
+            </quote>
+            <quote id="enron">
+                <text>You don't want another Enron? Here's your law: If a company, can't explain, in ONE SENTENCE....what it does....it's illegal.</text>
+                <credit>
+                    <name>Lewis Black</name>
+                    <title>Comedian</title>
+                </credit>
+                <comments></comments>
+            </quote>
+            <dialogue id="dolphins">
+                <line>
+                    <text>Dude, dolphins are intelligent and friendly!</text>
+                    <player>Wendy Testaburger</player>
+                </line>
+                <line>
+                    <text>Intelligent and friendly on rye bread, with some mayonaise.</text>
+                    <player>Eric Cartman</player>
+                </line>
+                <credit>South Park</credit>
+                <comments>
+                    I didn't really understand the term <a prefix=" " suffix=" " href="http://en.wikipedia.org/wiki/Non-sequiter">non-sequiter</a> (in the sense that I couldn't
+                    produce or attribute one, despite having the definition close at hand) until I read this. A little light bulb went off in my head. Not to mention the fact that it's hilarious.
+                </comments>
+            </dialogue>
+            <quote id="plants">
+                <text>
+                    I saw a commercial on TV that said, you can water your hard to reach plants with this product. Now who would make their
+                    plants hard to reach? That seems so very mean. &quot;I know you need water, but I'm going to make you hard to reach.&quot; I
+                    will throw water at you. Hopefully they will invent a product before you shrivel and die.
+                </text>
+                <credit>
+                    <name>Mitch Hedberg</name>
+                    <title>Comedian</title>
+                </credit>
+                <comments>I was only introduced to this guy after he died.</comments>
+            </quote>
+            <dialogue id="80s">
+                <line>
+                    <text>I want to see what happens in the 70's and 80's!</text>
+                    <player>Felicity</player>
+                </line>
+                <line>
+                    <text>I checked into the 80's this morning. All there was was a gas shortage and a flock of seagulls. That's about it.</text>
+                    <player>Austin Powers</player>
+                </line>
+                <credit>Austin Powers: The Spy Who Shagged Me</credit>
+                <comments>
+                    I was born in the 80's, but I'm still pretty sure nothing noteworthy happened in that decade.
+                </comments>
+            </dialogue>
+        </section>
+        <section id="Music">
+            <dialogue id="singing">
+                <line>
+                    <text>I don't think you have a very good voice. But you're a singer. How do you do that?</text>
+                    <player>David Byrne, interviewing himself</player>
+                </line>
+                <line>
+                    <text>The better a singer's voice, the harder it is to believe what they're saying. So I use my faults to an advantage.</text>
+                    <player>David Byrne</player>
+                </line>
+                <credit>
+                    From a promotional interview for <span prefix=" " class="serif">
+                        <a href="http://en.wikipedia.org/wiki/Stop_Making_Sense">Stop Making Sense</a>
+                    </span>, in which yes, Byrne takes on various roles and interviews himself
+                </credit>
+            </dialogue>
+            <quote>
+                <text>If you can live without music for two or three days, then don't write – it might be better to spend the time with a girl or with a beer.</text>
+                <credit>
+                    <name>Henryk Górecki</name>
+                    <birth>1933</birth>
+                    <death>2010</death>
+                    <title>Contemporary composer</title>
+                </credit>
+            </quote>
+        </section>
+        <section id="Life">
+            <quote id="tolerance">
+                <text>
+                    Laws alone can not secure freedom of expression; in order that every man present his views without
+                    penalty there must be spirit of tolerance in the entire population.
+                </text>
+                <credit>
+                    <name>Albert Einstein</name>
+                    <title>Physicist</title>
+                </credit>
+                <comments>
+                    This is true.
+                </comments>
+            </quote>
+            <quote id="rightThingPoorly">
+                <text>
+                    You have to go and do the right thing poorly before you can do it well. Whether it's
+                    learning derivatives, or learning to be a leader, a manager, a parent, learning mathematics,
+                    learning to ride a bicycle. You have to do it poorly first.
+                </text>
+                <credit>
+                    <name>Tom DeLong</name>
+                    <title>Professor, Harvard Business</title>
+                </credit>
+                <comments>
+                    Very hard for me to do sometimes.
+                </comments>
+            </quote>
+            <quote id="change">
+                <text>It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change.</text>
+                <credit>
+                    <name>Leon C. Megginson</name>
+                    <title>Professor, LSU</title>
+                </credit>
+                <comments>
+                    This quote is typically <a prefix=" " suffix=" " href="http://www.darwinproject.ac.uk/one-thing-darwin-didnt-say">misattributed</a> to Charles Darwin.
+                </comments>
+            </quote>
+        </section>
+        <section id="Love">
+            <quote id="journeysEnd">
+                <text>
+                    Journeys end in lovers meeting,<br />Every wise man's son doth know.
+                </text>
+                <credit>
+                    <name>William Shakespeare</name>
+                </credit>
+                <comments></comments>
+            </quote>
+            <quote id="humanAffection">
+                <text>We can live without religion and meditation, but we cannot survive without human affection.</text>
+                <credit>
+                    <name>Dalai Lama</name>
+                </credit>
+                <comments></comments>
+            </quote>
+        </section>
+        <section id="Religion">
+            <quote id="religionAsOpinion">
+                <text>Truth, in matters of religion, is simply the opinion that has survived.</text>
+                <credit>
+                    <name>Oscar Wilde</name>
+                    <title>Playwright</title>
+                </credit>
+                <comments></comments>
+            </quote>
+            <quote id="einsteinsReligion">
+                <text>
+                    Every one who is seriously involved in the pursuit of science becomes convinced that a spirit is manifest
+                    in the laws of the Universe--a spirit vastly superior to that of man, and one in the face of which we with our
+                    modest powers must feel humble. In this way the pursuit of science leads to a religious feeling of a special sort,
+                    which is indeed quite different from the religiosity of someone more na&#xEF;ve.
+                </text>
+                <credit>
+                    <name>Albert Einstein</name>
+                    <title>the man</title>
+                </credit>
+                <comments></comments>
+            </quote>
+        </section>
+    </sections>
+</page>

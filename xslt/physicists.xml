@@ -1,0 +1,143 @@
+<page>
+    <header>
+        <title>Phamous Physicists</title>
+        <prose>
+            I was in the lab with Drew one day and we were looking at Google images of physicists. What we noticed was that almost every physicist we saw had a picture of himself or herself in front of a blackboard.
+        </prose>
+    </header>
+    <content>
+        <group id="B">
+            <physicist>
+                <name>Louis de Broglie</name>
+                <born>15 August 1892</born>
+                <died>19 March 1987</died>
+                <aged>94</aged>
+                <country>France</country>
+                <img>ldebroglie.jpg</img>
+                <prose>
+                    After the ingenious suggestion by Einstein that light comes in discrete packets (photons) 
+                    that behave like particles, which was in great contrast to the canonical view that light 
+                    is a wave phenomenon, de Broglie daringly proposed the opposite in his 1924 Ph.D. thesis: 
+                    entities commonly understood to be particles (like electrons) exhibit wavelike properties 
+                    as well.
+                </prose>
+            </physicist>
+        </group>
+        <group id="E">
+            <physicist>
+                <name>Albert Einstein</name>
+                <born>14 March 1879</born>
+                <died>18 April 1955</died>
+                <aged>76</aged>
+                <country>Germany</country>
+                <img>aeinstein.jpg</img>
+                <prose>
+                    The father of modern physics. 'Nuff said.
+                </prose>
+            </physicist>
+        </group>
+        <group id="F">
+            <physicist>
+                <name>Richard Feynman</name>
+                <born>11 May 1918</born>
+                <died>15 February 1988</died>
+                <aged>69</aged>
+                <country>United States</country>
+                <img>rfeynman.jpg</img>
+                <prose>
+                    Genius.
+                </prose>
+            </physicist>
+        </group>
+        <group id="H">
+            <physicist>
+                <name>Werner Heisenberg</name>
+                <born>5 December 1901</born>
+                <died>1 February 1976</died>
+                <aged>74</aged>
+                <country>Germany</country>
+                <img>wheisenberg.jpg</img>
+                <prose>
+                    The man after which the Heisenberg uncertainty principle is named.
+                </prose>
+            </physicist>
+        </group>
+        <group id="L">
+            <physicist>
+                <name>Hendrik Lorentz</name>
+                <born>18 July 1853</born>
+                <died>4 February 1928</died>
+                <aged>74</aged>
+                <country>Netherlands</country>
+                <img>hlorentz.jpg</img>
+                <prose>
+                    The man who developed the transformations essential to the special theory of relativity.
+                </prose>
+            </physicist>
+        </group>
+        <group id="M">
+            <physicist>
+                <name>Ernst Mach</name>
+                <born>18 February 1838</born>
+                <died>19 February 1916</died>
+                <aged>78</aged>
+                <country>Austria</country>
+                <img>emach.jpg</img>
+                <prose>
+                    A brilliant man for whom "Mach's Prinicple" and Mach numbers are named.
+                </prose>
+            </physicist>
+        </group>
+        <group id="P">
+            <physicist>
+                <name>Max Planck</name>
+                <born>23 April 1858</born>
+                <died>4 October 1947</died>
+                <aged>89</aged>
+                <country>Duchy of Holstein</country>
+                <img>mplanck.jpg</img>
+                <prose>
+                    The man after which the Planck constant is named.
+                </prose>
+            </physicist>
+            <physicist>
+                <name>Wolfgang Pauli</name>
+                <born>25 April 1900</born>
+                <died>15 December 1958</died>
+                <aged>58</aged>
+                <country>Austria-Hungary</country>
+                <img>wpauli.jpg</img>
+                <prose>
+                    The man after which the Pauli exclusion principle in quantum mechanics is named.
+                </prose>
+            </physicist>
+        </group>
+        <group id="S">
+            <physicist>
+                <name>Erwin Schrodinger</name>
+                <born>12 August 1887</born>
+                <died>4 January 1961</died>
+                <aged>73</aged>
+                <country>Austria</country>
+                <img>eschrodinger.jpg</img>
+                <prose>
+                    One of the fathers of Quantum Mechanics.
+                </prose>
+            </physicist>
+        </group>
+        <!--
+        
+            <physicist>
+                <name></name>
+                <born></born>
+                <died></died>
+                <aged></aged>
+                <country></country>
+                <img>.jpg</img>
+                <prose>
+                </prose>
+            </physicist>
+        
+        -->
+    </content>
+</page>

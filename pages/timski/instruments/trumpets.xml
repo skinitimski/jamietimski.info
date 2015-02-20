@@ -1,0 +1,178 @@
+<page parent="instruments">
+    <title>Instruments - Trumpets</title>
+    <header>
+        <p>
+            I own a few trumpets and trumpet-like instruments. I'd love to get my hands on a nice flugelhorn.
+        </p>
+        <p>
+            I play using a 
+        </p>
+    </header>
+    <sidebar heading="Other Instruments">
+        <sections>
+            <section id="Beatrice">
+                <values>
+                    <make>Shires</make>
+                    <model>B</model>
+                    <bore>.459"</bore>
+                    <bell>5", brass</bell>
+                    <key>Bb</key>
+                    <valves>9/10</valves>
+                    <cost>$1400</cost>
+                    <year>circa 2010?</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            I bought this horn so that I would never have to think about buying another trumpet. I've been happily playing my <l href="#Beacon">Beacon</l> for years,
+                            but in fall 2011 I decided I wanted to "get serious" about trumpet and play it like I play trombone, and so I needed
+                            to get myself a well-playing horn. I couldn't afford a Monette (nor did I want to get on their waiting list), so I
+                            decided to start looking for a Shires.
+                        </p>
+                        <p>
+                            This horn and several others were sold on eBay by a dealer from MA (I assume Austin Custom Brass) who decided to liquidate
+                            his stock of Shires instrumets. A whole bunch of Model A's, B's, some C trumpets, and even a Destino III all went up for
+                            auction at the same time. Each model sold was a like-new demo model, and each one sold for well under what it was worth.
+                        </p>
+                        <p>
+                            I love this horn. With a Monette mouthpiece in the receiver, there is absolutely no drawback to its playability. The only
+                            limiting factor now in my trumpet playing is my trumpet playing--I'm not handicapped by my equipment in any way. Not having
+                            to concern myself with getting a better horn has made me want to play more and has helped me get better more quickly. This is how
+                            I feel about <l space-after="false" href="trombones.html#Darcie">Darcie</l>. My only wish is that the valves had lighter action.
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/beatrice.jpg</src>
+                    </image>
+                </with-image>
+            </section>
+            <section id="Lily">
+                <values>
+                    <make>Conn</make>
+                    <model>16A</model>
+                    <bore>??</bore>
+                    <bell>4", silver</bell>
+                    <key>Bb</key>
+                    <slide>7/10</slide>
+                    <cost>$1000</cost>
+                    <year>circa 1921</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            Never in my life did I expect to own one of these. This item has extremely high levels of both rareness and coolness.
+                            You might call her a soprano trombone, or perhaps a slide cornet. I just call her Lily. At over 90 years old, she's the
+                            oldest working instrument I own.
+                        </p>
+                        <p>
+                            Lily, like <l space-after="false" href="#Darcie">Darcie</l>, has her tuning slide built into the handslide. This allows the bell to be conical,
+                            which is traditionally the mark of a cornet versus a trumpet (which would be more cylindrical). Her finish is an
+                            old-style silver which is unpolished with a matte appearance. The inside of the bell has a gold wash which is in almost
+                            perfect condition.
+                        </p>
+                        <p>
+                            Lily is <i>tiny</i>. I really didn't expect her to be so small.
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/lily.jpg</src>
+                    </image>
+                </with-image>
+            </section>
+            <section id="Beacon">
+                <values>
+                    <make>Beacon</make>
+                    <model>??</model>
+                    <bore>??</bore>
+                    <bell>4 1/2", brass</bell>
+                    <key>Bb</key>
+                    <valves>10/10</valves>
+                    <cost>inherited</cost>
+                    <year>circa 1960s</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            This cornet is somewhat of a diamond in the rough. I can't believe how fun this horn is to play,
+                            given its make and appearance. The valves are impressive for an unknown brand--very
+                            fast and light. The brass is worn pretty much all over. Some of the brass is showing ugly pitting, while
+                            the rest is sporting a beautiful raw patina.
+                        </p>
+                        <p>
+                            I've <a prefix=" " suffix=" " href="http://www.trumpetherald.com/forum/viewtopic.php?p=1037976">read</a> that Beacon horns
+                            were made by Getzen up until 1975. That would explain why the valve cluster is so fantastic.
+                        </p>
+                    </text>
+                </with-image>
+            </section>
+            <section id="Alpha">
+                <values>
+                    <make>Bach</make>
+                    <model>Omega</model>
+                    <bore>??</bore>
+                    <bell>4 13/16", brass</bell>
+                    <key>Bb</key>
+                    <valves>8/10</valves>
+                    <cost>trade for Monette B6S1</cost>
+                    <year>??</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            I recently received this horn in exchange for my Monette B6S1 mouthpiece. The
+                            valves are much lighter than <l space-after="false" href="#Beatrice">Beatrice's</l>. There is also
+                            no tuning slide brace, which is a feature I only first noticed when I saw a Shires Destino III.
+                        </p>
+                    </text>
+                </with-image>
+            </section>
+            <section id="Blessing Scholastic">
+                <values>
+                    <make>Blessing</make>
+                    <model>B125 Scholastic</model>
+                    <bore>.460"</bore>
+                    <bell>5", brass</bell>
+                    <key>Bb</key>
+                    <valves>5/10</valves>
+                    <cost>inherited</cost>
+                    <year>early 1990s</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            This horn was my brother Robbie's trumpet when he was in grade school. It's a student horn, but it's
+                            well put together. This was the first horn I played in school, before switching to trombone on the
+                            second week. This horn suffers from a twisted second valve, which consistently sticks, making the horn
+                            virtually unplayable in its current state.
+                        </p>
+                        <p>
+                            For the longest time I assumed this horn was a Yamaha. Took a closer look one day and...whaddaya know!
+                        </p>
+                    </text>
+                </with-image>
+            </section>
+            <section id="Selman">
+                <values>
+                    <make>Selman</make>
+                    <model>??</model>
+                    <bore>??</bore>
+                    <bell>5", sandblasted silver</bell>
+                    <key>Bb</key>
+                    <valves>7/10</valves>
+                    <cost>$200</cost>
+                    <year>circa 2006</year>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            I bought this horn in high school so that I could have a nice looking trumpet. Looks nice, plays terrible. 'Nuff said.
+                        </p>
+                        <p>
+                            This horn is currently on loan to a buddy of mine.
+                        </p>
+                    </text>
+                </with-image>
+            </section>
+        </sections>
+    </sidebar>
+</page>

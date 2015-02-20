@@ -1,0 +1,6 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+12	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround Sound
+19	9:00 PM	Minglewood	Minglewood Tavern	Gloucester, MA	The Runaround Sound
+26	9:00 PM	Capt Carlo's	Captain Carlo's Restaurant	Gloucester, MA	The Runaround Sound	Halloween Celebration
+#27	9:00 PM	Mile Marker	Mile Marker One at the Cape Ann Marina	Gloucester, MA	The Runaround Sound
+27	7:00 PM	Bass Rocks	Bass Rocks	Gloucester, MA	Cape Ann Big Band	seARTS Fundraiser

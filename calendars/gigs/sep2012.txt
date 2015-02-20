@@ -1,0 +1,8 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+7	7:00 PM	Fundraiser	Under the Tent at the Boston Equestrian Classic	Hamilton, MA	The Runaround Sound	ECTA Fundraiser
+14	9:00 PM	Capt Carlo's	Captain Carlo's Restaurant	Gloucester, MA	The Runaround Sound	Inside
+15	7:15 PM	Block Party	Downtown Gloucester Block Party	Gloucester, MA	Cape Ann Big Band
+15	9:00 PM	Mile Marker	Mile Marker One at the Cape Ann Marina	Gloucester, MA	The Runaround Sound
+21	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround Sound
+22	12:00 PM	Parade	Everett Homecoming Parade	Everett, MA	Boston Fireman's Band
+29	9:15 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	The Runaround Sound

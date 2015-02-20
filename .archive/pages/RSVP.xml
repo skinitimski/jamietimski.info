@@ -1,0 +1,63 @@
+<page parent="index" suppressHomeLink="true" suppressParentLink="true" sortOrder="70">
+    <title center="true">RSVP</title>
+
+    <sidebar>        
+        <p>
+            To RSVP, please click the link below and fill out the form that appears. You can RSVP at any time.
+            You can RSVP multiple times. You can RSVP for yourself and/or for other people. Relax! You cannot break
+            anything or do anything wrong while submitting an RSVP. 
+        </p>
+        <h3>Instructions</h3>
+        <ol>
+            <li>For each attendee in your party (including yourself), click the "Add Attendee" button and fill out the appropriate fields
+            <ul>
+                <li>
+                    <b>First Name:</b> enter the first name of the attendee
+                </li>
+                <li>
+                    <b>Last Name:</b> enter the last name of the attendee
+                </li>
+                <li>
+                    <b>Child/Adult:</b> select "Child" if the attendee is age 12 or under; otherwise, select "Adult"
+                </li>
+                <li>
+                    To remove an attendee entirely, click the "Remove Attendee" button alow that attendee
+                </li>
+            </ul>
+        </li>
+            <li>
+                <b>Attending?</b>
+                <ul>
+                    <li>select "Yes" if you will be attending the most awesome wedding of 2013!</li>
+                    <li>select "No" if you will not be attending</li>
+                </ul>
+            </li>
+            <li>
+                <b>Primary contact email address:</b> enter an email address that may be used to contact all of the attendees
+            </li>
+            <li>
+                <b>Password:</b> enter the password, found in the Christmas card you should have received from Timski and Jamie
+                <ul>
+                    <li>if you have lost the password, contact Timski or Jamie to get it</li>
+                </ul>
+            </li>
+            <li>
+                <b>Comments/Requests:</b> enter any comments/requests/questions you may have
+            </li>
+            <li>
+                Click "Submit RSVP" to submit the form. If any errors occur, this page will reload with the errors displayed in red. If
+                no errors occur, you should be redirected to another page.
+            </li>
+        </ol>
+        <br />
+        <a href="rsvp.php">Click here for RSVP form</a>
+        <br />
+        <br />
+        <hidden>
+            <image>
+                <src>/gallery/heap/catOnKeyboard.jpg</src>
+                <caption>The RSVP form will be up in due time. We are currently experiencing problems with our working environment.</caption>
+            </image>
+        </hidden>
+    </sidebar>
+</page>

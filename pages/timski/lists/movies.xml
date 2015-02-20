@@ -1,0 +1,57 @@
+<page parent="lists">
+    <title>Lists - Movies</title>
+    <header>
+        <p>
+            Here are some <l href="../lists.html">lists</l> pertaining to movies.
+        </p>
+    </header>
+    <sidebar heading="Other Lists">
+        <sections>
+            <list id="Favorite Films">
+                <description>
+                    <p>
+                        These are some of my favorite movies. Some are good to watch over and over, while others I cherish the memory of the first viewing.
+                    </p>
+                </description>
+                <columns>
+                    <column width="20%">Film Title</column>
+                    <column width="20%">Music By</column>
+                    <column width="60%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem index="1">
+                        <columnValue>Gettysburg</columnValue>>
+                        <columnValue>Randy Edelman</columnValue>
+                        <columnValue>Easily the most incredible production I've ever seen. The acting, the writing, the music, the historical significance and fidelity...simply amazing.</columnValue>
+                    </listItem>
+                    <listItem index="2">
+                        <columnValue>Close Encounters of the Third Kind</columnValue>>
+                        <columnValue>John Williams</columnValue>
+                        <columnValue>This movie is enthralling; I really get sucked into the story and its circumstances. What I like most about the movie, aside from Richard Dreyfuss, is that the circumstances seem very real to me. If there were going to be an alien encounter in real life, it very well could go just like in the movie.</columnValue>
+                    </listItem>
+                    <listItem index="3">
+                        <columnValue>Star Trek: First Contact</columnValue>>
+                        <columnValue>Jerry Goldsmith</columnValue>
+                        <columnValue>Can't go wrong. The ideal Star Trek movie. Music by Jerry Goldsmith, the TNG cast, main antagonist: the Borg.</columnValue>
+                    </listItem>
+                    <listItem index="4">
+                        <columnValue>Big Fish</columnValue>>
+                        <columnValue>Danny Elfman</columnValue>
+                        <columnValue>Now here's one crazy movie. I've seen this movie a bunch of times and discussed it with lots of different people. There's something for everyone in it, from surface lightheartedness to very deep symbolisms.</columnValue>
+                    </listItem>
+                    <listItem index="5">
+                        <columnValue>The Mummy</columnValue>>
+                        <columnValue>Jerry Goldsmith</columnValue>
+                        <columnValue>I just love this movie. I think it's hilarious.</columnValue>
+                    </listItem>
+                    <listItem index="6">
+                        <columnValue>The Majestic</columnValue>>
+                        <columnValue>Mark Isham, et alii</columnValue>
+                        <columnValue>There's something so beautiful about this movie. And I really like Jim Carrey.</columnValue>
+                    </listItem>
+                </listItems>
+            </list>
+
+        </sections>
+    </sidebar>
+</page>

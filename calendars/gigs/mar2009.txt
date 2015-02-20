@@ -1,0 +1,3 @@
+7	9:00 PM	Lat 43	Latitude 43	Gloucester, MA	The Runaround
+13	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround
+28	9:00 PM	Cameron's	Cameron's Restaurant	Gloucester, MA	The Runaround

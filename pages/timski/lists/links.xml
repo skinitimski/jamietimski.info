@@ -1,0 +1,196 @@
+<page parent="lists">
+    <title>Lists - Links</title>
+    <header>
+        <p>
+            You are currently viewing the Internet, a.k.a. <i space-after="false">The Information Superhighway</i>. Here's some youtube videos, articles, etc. that I keep close by because they're somehow really awesome.
+        </p>
+    </header>
+    <sidebar heading="Other Lists">
+        <sections>
+
+            <list id="Musicians">
+                <description>
+                    <p>
+                        Musicians <i>owning</i> instruments!
+                    </p>
+                </description>
+                <columns>
+                    <column width="40%">Link</column>
+                    <column width="60%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>
+                            <a href="http://www.youtube.com/watch?v=CR6t47pV8Qc">Victor Wooten</a>
+                        </columnValue>
+                        <columnValue/>
+                    </listItem>
+                    <listItem>
+                        <columnValue>
+                            <link url="http://www.youtube.com/watch?v=VsfYuOIoZdk">
+                                <wic>Arturo Sandoval</wic>, et al
+                            </link>
+                        </columnValue>
+                        <columnValue>Sensational.</columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>
+                            <a href="http://www.youtube.com/watch?v=15eu7ar5EKM">Eric Johnson</a>
+                        </columnValue>
+                        <columnValue/>
+                    </listItem>
+                    <listItem>
+                        <columnValue>
+                            <a href="http://www.youtube.com/watch?v=5uZ-cdqR5LM">Ezra Bufford</a>
+                        </columnValue>
+                        <columnValue/>
+                    </listItem>
+                    <listItem>
+                        <columnValue>
+                            <a href="http://www.youtube.com/watch?v=LYP7Mxss3_U">Barbara Dennerlein</a>
+                        </columnValue>
+                        <columnValue/>
+                    </listItem>
+                    <listItem>
+                        <columnValue>
+                            <link url="http://www.youtube.com/watch?v=yqpm4Bes9Vs">
+                                <wic>Mile 21</wic> @ the middle East
+                            </link>
+                        </columnValue>
+                        <columnValue>I'm in this one!</columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>
+                            <a href="http://www.youtube.com/watch?v=-LVEOxTBPlk">Ricky Draper</a>
+                        </columnValue>
+                        <columnValue>
+                            As I get better at the organ, I'm increasingly amazed at the things my fingers can do. It must feel <i>so awesome</i> to be able to play like that.
+                        </columnValue>
+                    </listItem>
+                </listItems>
+            </list>
+
+            <list id="Science">
+                <description>
+                    <p>
+                        Science sctuff.
+                    </p>
+                </description>
+                <columns>
+                    <column width="40%">Link</column>
+                    <column width="60%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>
+                            <link url="http://kisd.de/~krystian/starmap/">
+                                3D <wic>map</wic> of stars "near" Sol
+                            </link>
+                        </columnValue>
+                        <columnValue />
+                    </listItem>
+                    <listItem>
+                        <columnValue>
+                            <link url="http://en.wikipedia.org/wiki/Coriolis_effect">
+                                why hurricanes <wic>rotate</wic> the way they do
+                            </link>
+                        </columnValue>
+                        <columnValue />
+                    </listItem>
+                    <listItem>
+                        <columnValue>
+                            <link url="http://www.youtube.com/watch?v=4XpnKHJAok8">
+                                the author of Linux talks about his toy <wic>git</wic>
+                            </link>
+                        </columnValue>
+                        <columnValue />
+                    </listItem>
+                </listItems>
+            </list>
+
+            <list id="Information">
+                <description>
+                    <p>
+                        Here's some of that aforementioned information.
+                    </p>
+                </description>
+                <columns>
+                    <column width="40%">Link</column>
+                    <column width="60%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>
+                            <link url="http://salsa.democracyinaction.org/o/2215/t/8036/petition.jsp?petition_KEY=1410">
+                                Drink tap water, not <wic>bottled water</wic>
+                            </link>
+                        </columnValue>
+                        <columnValue></columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>
+                            <link url="http://stallman.org/harry-potter.html">
+                                It's not Harry's fault, but don't <wic>buy</wic> his books
+                            </link>
+                        </columnValue>
+                        <columnValue></columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>
+                            <link url="http://www.popularmechanics.com/home_journal/how_your_house_works/4291566.html?page=2">
+                                <wic space-after="false">Recycling</wic>, despite what people may tell you that they heard somewhere, IS worth it
+                            </link>
+                        </columnValue>
+                        <columnValue></columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>
+                            <link url="http://www.gnu.org/philosophy/philosophy.html">
+                                Support <wic>free software</wic>
+                            </link>
+                        </columnValue>
+                        <columnValue>
+                            <link url="http://en.wikipedia.org/wiki/Gratis_versus_Libre#.22Free_as_in_beer.22_vs_.22Free_as_in_speech.22">
+                                I'm talking about <wic>free</wic> as in speech, not <wic>free</wic> as in beer
+                            </link>
+                        </columnValue>
+                    </listItem>
+                </listItems>
+            </list>
+
+            <list id="Etc">
+                <description>
+                    <p>
+                        Here's some...uh, other stuff.
+                    </p>
+                </description>
+                <columns>
+                    <column width="40%">Link</column>
+                    <column width="60%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>
+                            <link url="http://www.gnu.org/philosophy/words-to-avoid.html#Hacker">
+                                I am a <wic>hacker</wic> and I'm not afraid to say so
+                            </link>
+                        </columnValue>
+                        <columnValue>
+                            I always think it's a shame when bad connotations prevail.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>
+                            <link url="http://www.youtube.com/watch?v=WA6zTRqKuRM">
+                                Musical <wic>perfection</wic>
+                            </link>
+                        </columnValue>
+                        <columnValue>
+                            I have to get a new link every so often because YouTube keeps taking these down.
+                        </columnValue>
+                    </listItem>
+                </listItems>
+            </list>
+        </sections>
+    </sidebar>
+</page>

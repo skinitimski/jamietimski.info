@@ -1,0 +1,6 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+7	8:00 PM	Middle East	The Middle East Club Downstairs	Cambridge, MA	The Runaround Sound	Westbound Train Reunion Show
+13	9:15 PM	Dog Bar	The Dog Bar	Gloucester, MA	The Runaround Sound
+20	9:30 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	The Runaround Sound
+27	9:30 PM	Rhumb Line	The Rhumb Line	Glocuester, MA	The Runaround Sound
+28	9:00 PM	Birthday Party	The Rhumb Line Upstairs	Gloucester, MA	The Runaround Sound	Robbie Cuomo's 30th Birthday

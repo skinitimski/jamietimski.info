@@ -1,0 +1,28 @@
+<page parent="seasonX">
+    <header>
+        <title></title>
+        <meta>
+            <episode></episode>
+            <season></season>
+            <rating></rating>
+        </meta>
+    </header>
+    <content>
+        <section id="Synopsis">
+            <p>
+            </p>
+        </section>
+        <section id="Review">
+            <p>
+            </p>
+        </section>
+        <section id="Best Lines">
+            <dialogue>
+                <line>
+                    <player></player>
+                    <text></text>
+                </line>
+            </dialogue>
+        </section>
+    </content>
+</page>

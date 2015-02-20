@@ -1,0 +1,4 @@
+17	5:00 PM	Private Party	Somewhere	Waltham, MA	The Runaround Sound	Papa Cheeks's Birthday Party
+17	9:15 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	The Runaround Sound	St. Patrick's Day Celebration
+23	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround Sound
+30	9:00 PM	Minglewood	Minglewood Tavern	Gloucester, MA	The Runaround Sound

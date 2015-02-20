@@ -1,0 +1,6 @@
+6	9:15 PM	Dog Bar	The Dog Bar	Gloucester, MA	The Runaround Sound
+7	9:15 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	The Runaround Sound
+13	8:00 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	Cape Ann Big Band
+20	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround Sound
+21	9:00 PM	Capt Carlo's	Captain Carlo's Restaurant	Gloucester, MA	The Runaround Sound	Inside
+#22	5:00 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	The Dubtones

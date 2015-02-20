@@ -1,0 +1,11 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+3	1:00 PM	Parade	Santa Claus Parade	Hampton, NH	Boston Fireman's Band
+4	7:00 PM	Supino's	Supino's Restaurant	Danvers, MA	Cape Ann Big Band
+7	6:00 PM	Private Event	Gloucester Fraternity	Gloucester, MA	Cape Ann Big Band	Private Event
+8	7:00 PM	Private Party	Harvard Club	Boston, MA	Cape Ann Big Band	Private Party
+9	9:30 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	The Runaround Sound
+#10	6:00 PM	City Hall	City Hall	Gloucester, MA  Cape Ann Big Band	Holiday Ball
+11	1:00 PM	Parade	Santa Claus Parade	Boston, MA	Boston Fireman's Band
+16	9:30 PM	Rhumb Line	The Rhumb Line	Glocuester, MA	The Runaround Sound
+23	9:30 PM	Rhumb Line	The Rhumb Line Upstairs	Gloucester, MA	The Runaround Sound	Christmas Extravaganza
+31	8:00 PM	Shalin Liu	Shalin Liu Performance Center	Rockport, MA	Cape Ann Big Band	New Year's Eve Concert

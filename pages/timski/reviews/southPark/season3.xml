@@ -1,0 +1,10 @@
+<page parent="southPark">
+    <title>South Park - Season 3</title>
+    <header>
+        <p>
+            This season contains some of my favorite "classic" episodes. It opens up with an episode of the "other side of the story" genre (Rainforest Schmainforest), and then immediately delves into
+            some of my favorite episodes of all time, including the Meteor Trilogy, Chinpokomon, The Red Badge of Gayness, and others.
+        </p>
+    </header>
+    <index subfolder="season3" heading="List of Episodes" />
+</page>

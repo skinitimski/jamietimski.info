@@ -1,0 +1,10 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+# Matt's first gig
+3	8:00 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	The Runaround Sound
+#4	5:00 PM	Private Party	Jenkins Labor Day Bash 2011	Backyard, MA	The Runaround Sound
+9	9:30 PM	Rhumb Line	The Rhumb Line	Glocuester, MA	The Runaround Sound
+10	8:00 PM	Black Lobster	The Black Lobster	Salem, MA	Mile 21
+17	7:45 PM	Block Party	Main St. Block Party	Gloucester, MA	Cape Ann Big Band
+17	8:45 PM	Block Party	Main St. Block Party	Gloucester, MA	The Runaround Sound
+18	4:00 PM	Peace Fest	Peace Fest	Rockport, MA	Cape Ann Big Band
+30	9:00 PM	Pickled Onion	The Pickled Onion	Beverly, MA	Mile 21

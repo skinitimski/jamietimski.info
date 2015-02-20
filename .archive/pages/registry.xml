@@ -1,0 +1,22 @@
+<page parent="index" suppressHomeLink="true" suppressParentLink="true" sortOrder="80">
+    <title center="true">Registry</title>
+    <sidebar>
+        <p>
+            Jamie and Timski have two wedding registries--one at <b space-after='false'>Bed Bath and Beyond</b>, and
+            another with <b space-after='false'>Amazon.com</b>.
+        </p>
+        <ul style="line-height: 150%">
+            <li>
+                Click <a prefix=' ' suffix=' ' href="http://www.bedbathandbeyond.com/regGiftRegistry.asp?wrn=-1085857626&amp;">here</a>
+                for Jamie and Timski's wedding registry at <b space-after='false'><a href="http://www.bedbathandbeyond.com">Bed Bath &amp; Beyond</a></b>.
+                <ul>
+                    <li>You can also go to any Bed Bath &amp; Beyond location and request a registry listing</li>
+                </ul>
+            </li>
+            <li>
+                Click <a prefix=' ' suffix=' ' href="http://www.amazon.com/registry/wedding/33WMYCH3QR8G9">here</a>
+                for Jamie and Timski's wedding registry at <b space-after='false'><a href="http://www.amazon.com">Amazon.com</a></b>
+            </li>
+        </ul>
+    </sidebar>
+</page>

@@ -1,0 +1,19 @@
+<page parent="timski">
+    <title>Memoirs</title>
+    <header>
+        <p>
+            I really hate it when I forget things that happened in my life. I've always hung on to old notebooks, files, and other
+            artifacts of my life so that I can go back someday and reflect. I've done a fair amount of reflecting already--one of my favorite things
+            to do is pull out old notebooks and read what I was thinking about at the time.
+        </p>
+        <p>
+            Some people keep a journal. I think keeping a journal is a wonderful way of keeping records for reflection, but I've never
+            been able to habitually keep a consistent journal. Whenever I feel like something is important or relevant, I write it down
+            somewhere. Sometimes things are important enough that I compile a memoir.
+        </p>
+        <p>
+            So here is an incomplete collection of notes and writings that I feel like opening to the public.
+        </p>
+    </header>
+    <index subfolder="memoirs" />
+</page>

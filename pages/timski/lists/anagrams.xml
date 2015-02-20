@@ -1,0 +1,142 @@
+<page parent="lists">
+    <title>Lists - Anagrams</title>
+    <header>
+        <p>
+            So one night, Jamie and I sat in bed and did anagrams of our names...
+        </p>
+    </header>
+    <sidebar heading="Other Lists">
+        <sections>
+
+            <list id="Timski">
+                <description />
+                <columns>
+                    <column width="25%">Anagram</column>
+                    <column width="25%">Author</column>
+                    <column width="50%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>skim it</columnValue>
+                        <columnValue>Timski</columnValue>
+                        <columnValue />
+                    </listItem>
+                </listItems>
+            </list>
+
+            <list id="Timothy">
+                <description />
+                <columns>
+                    <column width="25%">Anagram</column>
+                    <column width="25%">Author</column>
+                    <column width="50%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>omit thy</columnValue>
+                        <columnValue>Timski</columnValue>
+                        <columnValue />
+                    </listItem>
+                    <listItem>
+                        <columnValue>Oh my tit!</columnValue>
+                        <columnValue>Timski</columnValue>
+                        <columnValue />
+                    </listItem>
+                </listItems>
+            </list>
+
+            <list id="Klopotoski">
+                <description />
+                <columns>
+                    <column width="25%">Anagram</column>
+                    <column width="25%">Author</column>
+                    <column width="50%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>took ol' skip</columnValue>
+                        <columnValue>Timski</columnValue>
+                        <columnValue />
+                    </listItem>
+                    <listItem>
+                        <columnValue>look to skip</columnValue>
+                        <columnValue>Timski</columnValue>
+                        <columnValue />
+                    </listItem>
+                </listItems>
+            </list>
+
+            <list id="Timothy Klopotoski">
+                <description />
+                <columns>
+                    <column width="25%">Anagram</column>
+                    <column width="25%">Author</column>
+                    <column width="50%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>hook kit to my pistol</columnValue>
+                        <columnValue>
+                            <link>http://wordsmith.org/anagram/</link>
+                        </columnValue>
+                        <columnValue />
+                    </listItem>
+                </listItems>
+            </list>
+
+            <list id="Timothy Patrick Klopotoski">
+                <description />
+                <columns>
+                    <column width="25%">Anagram</column>
+                    <column width="25%">Author</column>
+                    <column width="50%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>Pry: I took lop chastity kit, OK?</columnValue>
+                        <columnValue>Timski</columnValue>
+                        <columnValue />
+                    </listItem>
+                    <listItem>
+                        <columnValue>OK, OK, my top ticklish patriot!</columnValue>
+                        <columnValue>
+                            Timski with help from <link>http://wordsmith.org/anagram/</link>
+                        </columnValue>
+                        <columnValue />
+                    </listItem>
+                    <listItem>
+                        <columnValue>a ticklish kitty took mr poop</columnValue>
+                        <columnValue>
+                            <link>http://wordsmith.org/anagram/</link>
+                        </columnValue>
+                        <columnValue>
+                            <p>
+                                This is one of the funniest damn things I've ever heard!
+                            </p>
+                            <p>
+                                Also: "Mr. Kitty took a ticklish poop!"
+                            </p>
+                        </columnValue>
+                    </listItem>
+                </listItems>
+            </list>
+
+            <list id="Jamie Green">
+                <description />
+                <columns>
+                    <column width="25%">Anagram</column>
+                    <column width="25%">Author</column>
+                    <column width="50%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>in-game jeer</columnValue>
+                        <columnValue>Timski</columnValue>
+                        <columnValue />
+                    </listItem>
+                </listItems>
+            </list>
+
+        </sections>
+    </sidebar>
+</page>

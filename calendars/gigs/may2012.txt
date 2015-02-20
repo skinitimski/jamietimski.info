@@ -1,0 +1,6 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+20	1:00 PM	Parade	Wellesley Memorial Day Parade	Wellesley, MA	Boston Fireman's Band
+26	9:00 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	Dmus Sound Project
+27	1:00 PM	Parade	Somerville Memorial Day Parade	Somerville, MA	Boston Fireman's Band
+28	9:00 AM	Parade	Winchester Memorial Day Parade	Winchester, MA	Boston Fireman's Band
+28	2:00 PM	Parade	Winthrop Memorial Day Parade	Winthrop, MA	Boston Fireman's Band

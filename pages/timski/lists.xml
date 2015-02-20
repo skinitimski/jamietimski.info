@@ -1,0 +1,12 @@
+<page parent="timski">
+    <title>Lists</title>
+    <header>
+        <p>
+            I have a thing for data. I like good data and I like manipulating good data.
+            After all, it's my job. Lists are a form of data, and I have prepared some
+            good examples of lists and transformed them here. I can always use more data,
+            but compiling good data takes time, and I'm lazy about such unimportant things.
+        </p>
+    </header>
+    <index subfolder="lists" />
+</page>

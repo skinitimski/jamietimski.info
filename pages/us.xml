@@ -1,0 +1,12 @@
+<page parent="index" suppressParentLink='true'>
+    <title center='true'>Jamie &amp; Timski</title>
+    <cellTable>
+        <tr>
+            <td width="50%" border="0" cellpadding="0" valign="middle">
+                <p>
+                    Nothing here yet!
+                </p>
+            </td>
+        </tr>
+    </cellTable>
+</page>

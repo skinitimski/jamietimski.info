@@ -1,0 +1,10 @@
+13	8:00 PM	Cruise	Beauport Princess Cruise Ship	Gloucester, MA	Mile 21	Ska on the Harbor Concert Cruise
+19	9:00 PM	Minglewood	Minglewood Tavern	Gloucester, MA	The Runaround Sound
+20	9:30 PM	Rhumb Line	The Rhumb Line	Glocuester, MA	The Runaround Sound
+21	7:00 PM	Fundraiser	Groton House Farm	Hamilton, MA	The Runaround Sound	ECTA Summer Solstice Festival
+21	10:00 AM	Parade	Flag Day Parade	Lynnfield, MA	Boston Fireman's Band
+22	6:00 PM	Cruise	Beauport Princess Cruise Ship	Gloucester, MA	The Runaround Sound
+26	7:00 PM	Fiesta	St. Peter's Fiesta Main Stage	Gloucester, MA	The Runaround Sound
+27	9:00 PM	Capt Carlo's	Captain Carlo's Restaurant	Gloucester, MA	The Runaround Sound	Outside
+28	9:15 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	The Runaround Sound
+29	11:30 AM	Fiesta Parade	St. Peter's Fiesta Parade	Gloucester, MA	Boston Fireman's Band

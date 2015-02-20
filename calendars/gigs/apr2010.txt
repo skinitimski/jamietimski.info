@@ -1,0 +1,4 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+9	8:00 PM	GHS	GHS Auditorium	Gloucester, MA	The Runaround	Newell Stadium Fundraiser
+16	8:30 PM	Elliot's	Elliot's at the Blackburn	Gloucester, MA	The Runaround
+24	9:00 PM	Capt Carlo's	Captain Carlo's Restaurant	Gloucester, MA	The Runaround

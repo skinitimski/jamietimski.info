@@ -1,0 +1,12 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+1	9:30 PM	Rhumb Line	The Rhumb Line	Glocuester, MA	The Runaround Sound	Horrible's Parade Warm-up Night
+3	6:00 PM	Parade	Fishtown Horribles' Parade	Gloucester, MA	The Runaround Sound	On the Rhumb Line Float
+3	8:30 PM	Boulevard	Stacy Boulevard	Glocuester, MA	The Runaround Sound	4th Annual Fireworks Extravaganzaa
+4	9:00 AM	Parade	4th of July Parade	Needham, MA	Boston Fireman's Band
+4	6:00 PM	Parade	4th of July Parade	Rockport, MA	Boston Fireman's Band
+8	9:00 PM	Madfish	The Madfish Grille	Gloucester, MA	Mile 21
+9	8:00 PM	Black Lobster	The Black Lobster	Salem, MA	The Runaround Sound
+16	6:00 PM	Wedding	Private Wedding	Wouldn't You Like To Know, MA	The Runaround Sound
+#22	9:00 PM	Dog Bar	The Dog Bar	Gloucester, MA	Mile 21
+23	9:00 PM	Capt Carlo's	Captain Carlo's Outside	Gloucester, MA	The Runaround Sound
+29	9:30 PM	Rhumb Line	The Rhumb Line	Glocuester, MA	The Runaround Sound

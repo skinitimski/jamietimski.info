@@ -1,0 +1,7 @@
+3	7:30 PM	Larcom	Larcom Theatre	Beverly, MA	Cape Ann Big Band
+9	9:30 PM	Rhumb Line	The Rhumb Line	Glocuester, MA	The Runaround Sound
+10	8:00 PM	Mile Marker	Mile Marker One at the Cape Ann Marina	Gloucester, MA	The Runaround Sound
+16	9:00 PM	Dog Bar	The Dog Bar Restaurant	Glocuester, MA	The Runaround Sound
+25	1:00 PM	Parade	Somerville Memorial Day Parade	Somerville, MA	Boston Fireman's Band
+26	9:00 AM	Parade	Winchester Memorial Day Parade	Winchester, MA	Boston Fireman's Band
+26	2:00 PM	Parade	Winthrop Memorial Day Parade	Winthrop, MA	Boston Fireman's Band

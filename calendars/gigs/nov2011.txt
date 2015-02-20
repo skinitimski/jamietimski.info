@@ -1,0 +1,7 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+11	9:30 AM	Parade	Veteran's Day Parade	Winchester, MA	Boston Fireman's Band
+# MTD's first gig (drums)
+11	9:30 PM	Rhumb Line	The Rhumb Line	Glocuester, MA	The Runaround Sound
+# frat party - cancelled
+#12	10:00 PM	Private Party	Dartmouth College	Hanover, NH	The Runaround Sound
+27	3:00 PM	Parade	Santa Claus Parade	Gloucester, MA	Boston Fireman's Band

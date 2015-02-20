@@ -1,0 +1,10 @@
+3	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround
+4	1:00 PM	Parade	Roslindale Days Parade	Roslindale, MA	Boston Fireman's Band
+8	9:00 PM	Lat 43	Latitude 43	Gloucester, MA	The Runaround
+10	12:00 PM	Parade	Homecoming Parade	Everett, MA	Boston Fireman's Band
+11	1:00 PM	Parade	Columbus Day Parade	Boston, MA	Boston Fireman's Band
+16	8:00 PM	Elliot's	Elliot's at the Blackburn	Gloucester, MA	The Runaround
+22	9:00 PM	Lat 43	Latitude 43	Gloucester, MA	The Runaround
+23	9:00 PM	Farm	The Farm	Essex, MA	The Runaround
+24	9:30 PM	Capt Carlo's	Captain Carlo's	Gloucester, MA	The Runaround
+30	9:00 PM	Gull	The Gull	West Gloucester, MA	The Runaround

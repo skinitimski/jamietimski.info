@@ -1,0 +1,37 @@
+<page parent="instruments">
+    <title>Instruments - Woodwinds</title>
+    <header>
+        <p>
+            I have some woodwinds in the collection too. I don't really play any of these well, but
+            I can play notes and simple songs.
+        </p>
+    </header>
+    <sidebar heading="Other Instruments">
+        <sections>
+            <section id="Allie">
+                <values>
+                    <make>Conn</make>
+                    <model>??</model>
+                    <bell>5", brass</bell>
+                    <key>Eb</key>
+                    <cost>$750</cost>
+                    <year>circa ?</year>
+                    <lowA label="Low A?">No</lowA>
+                </values>
+                <with-image>
+                    <text>
+                        <p>
+                            Jamie and I bought this horn from Ted. Isn't she sexy?
+                        </p>
+                        <p>
+                            She needs some work (corks, pads, etc), but overall she's a playable horn.
+                        </p>
+                    </text>
+                    <image>
+                        <src>/gallery/heap/allie.jpg</src>
+                    </image>
+                </with-image>
+            </section>
+        </sections>
+    </sidebar>
+</page>

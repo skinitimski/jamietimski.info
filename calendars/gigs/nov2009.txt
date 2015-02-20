@@ -1,0 +1,8 @@
+6	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround
+7	11:00 AM	Parade	Veterans Day Parade	Topsfield, MA	Boston Fireman's Band
+7	9:15 PM	Elliot's	Elliot's at the Blackburn	Gloucester, MA	The Runaround
+13	9:00 PM	Gull	The Gull	Gloucester, MA	The Runaround
+20	9:00 PM	Dog Bar	The Dog Bar	Gloucester, MA	The Runaround
+25	9:00 PM	Camerons	Camerons Restaurant	Gloucester, MA	The Runaround
+28	9:00 PM	Lat 43	Latitude 43	Gloucester, MA	The Runaround
+29	3:00 PM	Parade	Santa Claus Parade	Gloucester, MA	Boston Fireman's Band

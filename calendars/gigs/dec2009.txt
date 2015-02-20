@@ -1,0 +1,6 @@
+#3	TBA	TBA	To Be Announced	To Be Determined, TBD	The Runaround
+5	9:00	Elliot's	Elliot's at the Blackburn	Gloucester, MA	The Runaround
+11	9:30	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround
+13	1:00 PM	Parade	North End Santa Claus Parade	Boston, MA	Boston Fireman's Band
+#18	TBA	TBA	To Be Announced	To Be Determined, TBD	The Runaround
+26	9:00 PM	Lat 43	Latitude 43	Gloucester, MA	The Runaround

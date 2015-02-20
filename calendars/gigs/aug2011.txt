@@ -1,0 +1,12 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+4	6:00 PM	Rocky Neck	Rocky Neck 	Gloucester, MA	Cape Ann Big Band	Night on the Neck
+6	2:00 PM	Private Party	Eastern Point	Glocuester, MA	Mile 21	Private Party
+6	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	Mile 21
+19	7:00 PM	Gloucester House	The Gloucester House Restaurant	Gloucester, MA	Cape Ann Big Band	Troop Fundraiser
+19	9:00 PM	Capt Carlo's	Captain Carlo's Restaurant	Gloucester, MA	The Runaround Sound	Outside
+20	4:00 PM	Private Party	James's Grandparents' House	Gloucester, MA	The Runaround Sound	James & Alyssa's Engagement Party
+21	2:00 PM	Private Party	Private Party	Manchester, MA	Cape Ann Big Band Rick's Mother's Birthday Party
+# Rained out..
+#25	7:00 PM	Harbor Loop	Harbor Loop	Gloucester, MA	The Runaround Sound	Free Concert
+26	9:00 PM	Madfish	The Madfish Grille	Gloucester, MA	The Runaround Sound
+29	7:00 PM	Stage Fort	The Bandstand at Stage Fort Park	Gloucester, MA	Cape Ann Community Band	Annual Community Band Concert

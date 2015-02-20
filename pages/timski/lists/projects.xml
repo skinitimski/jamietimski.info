@@ -1,0 +1,108 @@
+<page parent="lists">
+    <title>Lists - Projects</title>
+    <header>
+        <p>
+            Here are some things I've been working on, as well as some stuff on the backburner.
+        </p>
+    </header>
+    <sidebar heading="Other Lists">
+        <sections>
+            <list id="Computer Related">
+                <description>
+                    <p>
+                        The typical hacker will always be working on <i space-after="false">something</i>, even if they haven't actually put any work into
+                        that something for years. Software projects are <b>never</b> complete.
+                    </p>
+                </description>
+                <columns>
+                    <column width="20%">Project</column>
+                    <column width="20%">Status</column>
+                    <column width="60%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>timski.info</columnValue>
+                        <columnValue>In Progress (permanently)</columnValue>
+                        <columnValue>No hacker's page would be complete without a quip about self-reference!</columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>FFVII Battle Simulator</columnValue>
+                        <columnValue>On Hold</columnValue>
+                        <columnValue>
+                            Written entirely in C# and Lua using GTK#, I've designed this simulator to be as extensible and scriptable as possible.
+                            No graphics support -- backend only. I haven't worked much on this recently; still a lot of work that can be done though.
+                        </columnValue>
+                    </listItem>
+                </listItems>
+            </list>
+            <list id="Home Related">
+                <description>
+                    <p>
+                        I currently live with my parents in a house that my father built. I've put a lot of work into this house over the years,
+                        along with my brothers, and of course my father.
+                    </p>
+                </description>
+                <columns>
+                    <column width="20%">Project</column>
+                    <column width="20%">Status</column>
+                    <column width="60%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>Basement Bedroom/Bathroom</columnValue>
+                        <columnValue>Completed</columnValue>
+                        <columnValue>
+                            I built a bedroom and bathroom in my parents' basement back in 2008 with
+                            the help of my father. This is what I call my living space, along with the "den"--the "living room" of the basement.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Loft Conversion</columnValue>
+                        <columnValue>Completed (mostly)</columnValue>
+                        <columnValue>
+                            The house needed a new roof. The old roof was over 20 years old, and leaked in a few places because of destructive ice
+                            dams throughout every winter. We replaced the worse half of the roof in fall 2011, and we finished the other half in spring
+                            2012. We also raised the peak by about a foot, and continued the roof at a constant angle out to the soffet (unlike the previous
+                            design which used two different pitches, like a barn). This effectively removed the dormers from the bedrooms on the top floor of
+                            the house, adding a foot and a half to their outer footprint. We even have some attic space now, whereas there
+                            was barely room to crawl before.
+                        </columnValue>
+                    </listItem>
+                </listItems>
+            </list>
+            <list id="Music Related">
+                <description>
+                    <p>
+
+                    </p>
+                </description>
+                <columns>
+                    <column width="20%">Project</column>
+                    <column width="20%">Status</column>
+                    <column width="60%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>My Hammond Organ</columnValue>
+                        <columnValue>On Hold</columnValue>
+                        <columnValue>
+                            My Hammond is a model RT-2. I stripped the pedal mechanisms and dismantled them, since they hardly worked, were needlessly heavy, and
+                            unnecessary. I built a custom cabinet for the guts of the organ (not pictured) and burned the old one. Someday I'll build another, prettier, lighter cabinet, because the
+                            aforementioned custom cabinet was put together in haste. I would like to rewire the tonewheels so the organ can be more portable, but that would be a massive undertaking.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Pinkie</columnValue>
+                        <columnValue>Completed</columnValue>
+                        <columnValue>
+                            When I bought this guitar, it looked like <l space-after="false" href="/gallery/heap/tiger.jpg">this</l>. I stripped off the tiger fur and
+                            painted it pink so that now it looks something like <l space-after="false" href="/gallery/heap/pinkie.jpg">this</l>. I more recently rebuilt the electronics
+                            using Lace Sensor Gold pickups, and replaced the black pickguard with a white one. I want to repaint it once more and lacquer it. Someday I will
+                            replace the neck with a Fender Strat neck, then Pinkie will be a full-fledged strat.
+                        </columnValue>
+                    </listItem>
+                </listItems>
+            </list>
+        </sections>
+    </sidebar>
+</page>

@@ -1,0 +1,7 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+22	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround
+23	1:00 PM	Parade	Memorial Day Parade	Wellesley, MA	Boston Fireman's Band
+29	9:00 PM	Capt Carlo's	Captain Carlo's Restaurant	Gloucester, MA	The Runaround	Outside
+30	1:00 PM	Parade	Memorial Day Parade	Somerville, MA	Boston Fireman's Band
+31	9:00 AM	Parade	Memorial Day Parade	Winchester, MA	Boston Fireman's Band
+31	2:00 PM	Parade	Memorial Day Parade	Winthrop, MA	Boston Fireman's Band

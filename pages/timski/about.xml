@@ -1,0 +1,99 @@
+<page parent="timski">
+    <title>About Timski</title>
+    <sections>
+        <section id="In Numbers">
+            <values>
+                <age>26</age>
+                <height>~6'</height>
+                <weight>~160 lbs</weight>
+                <eyes>2</eyes>
+                <hair>1</hair>
+                <friends>
+                    <a href="http://en.wikipedia.org/wiki/You_Have_0_Friends">0</a>
+                </friends>
+                <emotions>6,121</emotions>
+                <pets>3</pets>
+                <children>0</children>
+                <spouses>1</spouses>
+                <siblings>4</siblings>
+                <trombones>9 1/2</trombones>
+            </values>
+        </section>
+        <section id="In Words">
+            <p>
+                I'm a self-declared nerd. I love to study astronomy, physics, calculi, combinatorics,
+                computation theory, and computer science. I also am very intrigued by biology, religious
+                history, human psychology, and the history of language. I ponder these subjects quite often.
+            </p>
+            <p>
+                I love music. I am a self-taught musician who mainly plays trombone and organ. I picked up the
+                organ in May 2008 for my (then) new band <l space-after="false" href="/pages/timski/bands.html#The Runaround Sound">The Runaround</l>.
+                I have been playing trombone since 4th grade. I play sousaphone with the Boston
+                Fireman's Band. I've also been known to bring my flute down to the church
+                choir. I dabble on trumpet, guitar, bass guitar, didgeridoo, ocarina, ukulele, and other things. If it makes a tone, I like it.
+                I refuse to study music academically.
+            </p>
+            <p>
+                There is music for all times, all emotions, all people. While I'm driving I listen to 99.5 all classical, or one of about five cd's,
+                depending on whether I want to get pumped out, mellow out, or sing along to something familiar. While I'm at work
+                I listen to Renaissance vocal music. There's nothing like 6 part vocal polyphony.
+                At home, it's rock. When I play piano I play mostly music from video games, but I know a little Beethoven.
+                When I play with a group, it's almost always ska/reggae based. It's what I know, it's what I love. Playing with the
+                <l href="/pages/timski/bands.html#Cape Ann Big Band">Big Band</l> gives me the chance to play some swing. Before I go
+                out with people I listen to something like the Rx Bandits&apos; <em>...And the Battle Begun</em>, which is analogous to either
+                doing cocaine or having a heart attack. <a prefix=" " suffix=" " href="http://www.pandora.com">Pandora.com</a> is
+                my best friend. I'm also pretty enamored with the Public Radio app.
+            </p>
+            <p>
+                I think about stuff. A lot. And a lot of stuff. It's just the way I am. I enjoy many aspects of this fact, the most
+                important being that I am becoming ever more aware of my own mind and how it works, which helps me live better and
+                more easily. I learn best by example. I'm way more likely to remember a given number than a given word or name.
+                I'm way more likely to remember an image than a given word or name. I'm also way more likely to remember mistakes over
+                successes; mistakes evolve into rules.
+            </p>
+            <p>
+                I have absolutely no concept of what other people are thinking.
+            </p>
+            <p>
+                I like to think in the abstract and to generalize because it helps me to understand, or at least to remember. Working
+                with computers so much has especially helped in this area, because in many ways I work like a computer. Classifications,
+                especially hierarchies, help me to remember.
+            </p>
+            <p>
+                Artistic creativity has always eluded me, the exception being music. I excel at things that are formulaic:
+                mathematics, sciences, problem solving, and the like.
+            </p>
+            <p>
+                I love beer. I hope to someday brew beer for a living with Jamie.
+            </p>
+            <p>
+                I like to ride my bicycle. I wouldn't be seen in any kind of biking apparel, just gym shorts and a comfy t-shirt.
+                I have a mountain bike that I bought at a yard sale for $20.
+                I also have a pretty sweet old road bike that I bought for $100 off of Craigslist.
+                I love riding this bike. It is an exhilarating feeling. I went by a police radar thing that tells you your speed and I
+                was cruising at 19/20 mph; my top speed is well over that then, especially going down hills n such. Pretty cool I think!
+            </p>
+            <p>
+                I love peanut butter and jelly sandwiches and buffalo chicken (not in the same meal).
+            </p>
+            <p>
+                I am an uncle to five beautiful nieces (Katy, Kassidy, Megan, and <a prefix=" " href="/gallery/heap/karsyn.jpg">Karsyn</a>, Heather) and one nephew (Zacharry). I am part
+                of an enormous and loving extended family. They have shaped and always will shape my life. It's tough for me to be away from them.
+            </p>
+            <p>
+                I work full time as a software developer for <a prefix=" " suffix=" " href="http://www.ebscohost.com">EBSCO Publishing</a> in Ipswich, MA.
+                In May 2011 I completed undergraduate studies at <a prefix=" " href="http://www.neu.edu">Northeastern University</a>.
+            </p>
+            <p>
+                I am married to the Reverend Jamie Green Klopotoski. We live together at our house in Gloucester, MA. 
+                Jamie runs a <a prefix=" " href="http://www.agapebeer.org/">beer blog</a>--check it out!
+            </p>
+            <p>
+                Jamie and I have three cats. We adopted Bernie Worrell from a coworker of mine in August 2012.
+                He looks like an oversized version of the 9 Lives cat (he's a big cat). We adopted two kittens from a shelter in Waltham,
+                MA in February 2013. Turo Barley (the girl) is still with us, but Fuggles N. Tetnang (the boy) died on October 5, 2013. 
+                We adopted a kitten from Cape Ann Animal Aid on September 26, 2014. 
+            </p>
+        </section>
+    </sections>
+</page>

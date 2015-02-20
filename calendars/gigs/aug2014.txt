@@ -1,0 +1,5 @@
+1	9:30 PM	Rhumb Line	The Rhumb Line	Glocuester, MA	The Runaround Sound
+17	7:00 PM	Stage Fort	The Bandstand at Stage Fort Park	Gloucester, MA	Cape Ann Community Band	Annual Community Band Concert
+# didn't happen--double booked
+#21	9:00 PM	Minglewood	Minglewood Tavern	Gloucester, MA	The Runaround Sound
+22	8:00 PM	Mile Marker	Mile Marker One at the Cape Ann Marina	Gloucester, MA	The Runaround Sound

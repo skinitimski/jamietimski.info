@@ -1,0 +1,5 @@
+4	9:00 PM	Fibber's	Fibber McGee's	Beverly, MA	100 Proof
+11	1:00 PM	Middle Street Walk	Middle Street Walk	Gloucester, MA	Cape Ann Big Band
+11	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround Sound
+12	1:00 PM	Parade	North End Santa Claus Parade	Boston, MA	Boston Fireman's Band
+

@@ -1,0 +1,9 @@
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band[<>Name]
+1	8:00 PM	Private Party	Private Party	Gloucester, MA	The Runaround Sound	John & Marja's Going Away Party
+12	7:00 PM	Retirement Party	GHS Cafeteria	Gloucester, MA	Cape Ann Big Band	Dave Benjamin's Retirement Party
+15	9:15 PM	Dog Bar	The Dog Bar	Gloucester, MA	The Runaround Sound
+16	7:00 PM	Parade	Flag Day Parade	Quincy, MA	Boston Fireman's Band
+17	12:00 PM	Parade	Flag Day Parade	Brookline, MA	Boston Fireman's Band
+23	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround Sound
+29	8:00 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	Dmus Sound Project	Fiesta Friday
+30	8:00 PM	Brew Pub	Cape Ann Brewing Company	Gloucester, MA	The Runaround Sound	Fiesta Saturday

@@ -1,0 +1,4 @@
+#Day	Time	Vnu	Venue	Town, ST	Band
+#Day<>Time<>Vnu<>Venue<>Town, ST<>Band
+5	9:30	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround
+

@@ -1,0 +1,5 @@
+7	1:00 PM	Parade	Santa Claus Parade	Hampton, NH	Boston Fireman's Band
+13	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround Sound
+14	1:00 PM	Parade	Santa Claus Parade	Boston's North End	Boston Fireman's Band
+19	7:00 PM	Rhumb Line	The Rhumb Line Upstairs	Gloucester, MA	The Runaround Sound	3rd Annual Christmas Extravaganza
+20	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	Poppa Cigar

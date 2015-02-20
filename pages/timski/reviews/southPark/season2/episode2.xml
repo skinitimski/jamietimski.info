@@ -1,0 +1,55 @@
+<page parent="seasonX">
+    <title>Cartman's Mom is Still a Dirty Slut</title>
+    <values>
+        <episode>2</episode>
+        <season>2</season>
+        <rating>8</rating>
+    </values>
+    <sections>
+        <section id="Synopsis">
+            <p>
+                Stuff happens!
+            </p>
+        </section>
+        <section id="How Does Kenny Die?">
+            <p>
+                Kenny dies by completing an electrical connection between two broken wires on the hospital backup generator.
+            </p>
+        </section>
+        <section id="Review">
+            <p>
+                I like it!
+            </p>
+        </section>
+        <section id="Best Lines">
+            <dialogue>
+                <line>
+                    <player>Doctor</player>
+                    <text>We must split up into two teams, Team A and Team B. Team A will consist of myself, Stan, Kyle, Eric, Chef, and Nurse Goodly. Team B will consist of Kenny.</text>
+                </line>
+            </dialogue>
+            <dialogue>
+                <line>
+                    <player>Social Worker</player>
+                    <text>If you don't feel fit to raise a child, an abortion probably is the answer. Do you know the actual time of conception?</text>
+                </line>
+                <line>
+                    <player>Liane Cartman</player>
+                    <text>About eight years ago.</text>
+                </line>
+                <line>
+                    <player>Social Worker</player>
+                    <text>I see... So the fetus is...?</text>
+                </line>
+                <line>
+                    <player>Liane Cartman</player>
+                    <text>Eight years old.</text>
+                </line>
+                <line>
+                    <player>Social Worker</player>
+                    <text>Ms. Cartman, eight years old is a little late to be considering abortion.</text>
+                </line>
+            </dialogue>
+        </section>
+    </sections>
+</page>

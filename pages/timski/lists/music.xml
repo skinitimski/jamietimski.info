@@ -1,0 +1,201 @@
+<page parent="lists">
+    <title>Lists - Music</title>
+    <header>
+        <p>
+            Here are some <l href="../lists.html">lists</l> pertaining to music.
+        </p>
+    </header>
+    <sidebar heading="Other Lists">
+        <sections>
+
+            <list id="Favorite Albums">
+                <description>
+                    <p>Here's a bunch of albums I really like, with the following restrictions:</p>
+                    <ol>
+                        <li>Must be an album or LP</li>
+                        <li>Must enjoy listening to every track</li>
+                    </ol>
+                </description>
+                <columns>
+                    <column width="20%">Album</column>
+                    <column width="20%">By</column>
+                    <column width="60%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>Led Zeppelin II</columnValue>
+                        <columnValue>Led Zeppelin</columnValue>
+                        <columnValue>I'll only list one Zeppelin album, and this is it. Iconic rock and roll. Houses is a close second.</columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Five Iron Frenzy 2: Electric Boogaloo</columnValue>
+                        <columnValue>Five Iron Frenzy</columnValue>
+                        <columnValue>My favorite Five Iron album. Listening to it makes me go crazy.</columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Let's Face It</columnValue>>
+                        <columnValue>The Mighty Mighty Bosstones</columnValue>
+                        <columnValue>
+                            First album that I ever heard that I liked every track. There was a time when this was the <i>only</i> album I listened to. I even imagined up a rock opera for the album that I watched in my head as I listened to it.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Collective Soul</columnValue>>
+                        <columnValue>Collective Soul</columnValue>
+                        <columnValue>Nothing really special about it, I've just liked it since the first time I heard it.</columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Final Fantasy VII Original Sound Track</columnValue>>
+                        <columnValue>Nobuo Uematsu</columnValue>
+                        <columnValue>Really no surprise here. The OST has shaped the way I hear music.</columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Low Level Owl: Volume I</columnValue>>
+                        <columnValue>The Appleseed Cast</columnValue>
+                        <columnValue>The first time I heard this album I was doing homework and just put it on over the headphones. Right at the start of the 9th track I suddenly realized how perfectly the whole album was flowing. This is one example of an album that is better as a whole than any of its individual parts.</columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Greatest Hits</columnValue>>
+                        <columnValue>The Moody Blues</columnValue>
+                        <columnValue>The only compilation I'll allow on the list, I've heard this album countless times. When I was young and my family would go camping (happened about twice a year for just over a decade), this is what we'd listen to on the way there...</columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Brothers in Arms</columnValue>>
+                        <columnValue>Dire Straits</columnValue>
+                        <columnValue>...and this is what we'd listen to on the way back. Another favorite.</columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Rise or Die Trying</columnValue>>
+                        <columnValue>Four Year Strong</columnValue>
+                        <columnValue>This album pumps me up like no other.</columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Hell Freezes Over</columnValue>>
+                        <columnValue>Eagles</columnValue>
+                        <columnValue>I've heard this album probably 1,572,680 times.</columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Hello Rockview</columnValue>>
+                        <columnValue>Less Than Jake</columnValue>
+                        <columnValue>This album helped shape the way I play my trombone.</columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Dookie</columnValue>>
+                        <columnValue>Green Day</columnValue>
+                        <columnValue>The best punk rock album of all time. I love singing along to this album because it's perfect for my vocal range.</columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Turn the Radio Off</columnValue>>
+                        <columnValue>Reel Big Fish</columnValue>
+                        <columnValue>This album was my introduction to ska music.</columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Trebuchet</columnValue>>
+                        <columnValue>George Hrab</columnValue>
+                        <columnValue>Lots of good stuff on here. This guy does everything himself (with his brother). Very impressive production and composition for a one-man show.</columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>The Aggrolites</columnValue>>
+                        <columnValue>The Aggrolites</columnValue>
+                        <columnValue>A newer love for me, this is my favorite band as of Nov 2011. The organ player for this band is amazing; I strive to play like him.</columnValue>
+                    </listItem>
+                </listItems>
+            </list>
+
+            <list id="Favorite Bands">
+                <description>
+                    <p>
+                        These are some of my favorite bands.
+                    </p>
+                </description>
+                <columns>
+                    <column width="20%">Name</column>
+                    <column width="30%">Favorite Lineup</column>
+                    <column width="50%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>Five Iron Frenzy</columnValue>
+                        <columnValue></columnValue>
+                        <columnValue>
+                            <p>
+                                My favorite band of all time. I have everything they have ever released, and some things they haven't.
+                                Unfortunately, the band broke up in 2003, before I got the chance to see them live.
+                            </p>
+                            <p>
+                                I've been checking the internet on a regular basis since 2003, hoping to find news of FIF's return. When I was
+                                writing this list (11/28/2011), I went to Wikipedia to get a link for FIF, and just for fun I scrolled down to "Recent History" looking
+                                for updates (even though there never are any), Sure enough, there was news that the band was 
+                                <b>back in the studio and planning for future shows!</b> I've NEVER heard news that made me more excited!
+                            </p>
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>The Aggrolites</columnValue>
+                        <columnValue>Jesse Wagner (lead vocals, lead guitar), Brian Dixon (backing vocals, rhythm guitar), Jeff Roffredo (backing vocals, bass guitar), Roger "Reggae Rog" Rivas (organ, piano), Alex McKenzie (drums)</columnValue>
+                        <columnValue>
+                            I was introduced to these guys when I first started playing organ. They instantly became my favorite group when
+                            <l href="/pages/timski/bands.html#The Runaround Sound">The Runaround</l> started covering Aggro material. I've studied Roger's organ
+                            playing and built my style from his. I've seen Aggro in Boston a couple of times now.
+                        </columnValue>
+                    </listItem>
+                </listItems>
+            </list>
+
+            <list id="Favorite Songs">
+                <description>
+                    <p>
+                        These are some of my favorite songs.
+                    </p>
+                </description>
+                <columns>
+                    <column width="20%">Song Title</column>
+                    <column width="20%">By</column>
+                    <column width="60%">Comments</column>
+                </columns>
+                <listItems>
+                    <listItem>
+                        <columnValue>Judy Blue Eyes</columnValue>
+                        <columnValue>Crosby, Stills &amp; Nash</columnValue>
+                        <columnValue>
+                            Stephen Stills wrote this song for his then-girlfriend <a prefix=" " href="http://en.wikipedia.org/wiki/Judy_Collins">Judy Collins</a>. It is
+                            a suite in four continuous movements. I love singing this song, and I sing it whenever I want to show off my pipes, or when I need
+                            a little solace. I know every word and every part. I used to be able to sing all three
+                            different vocal parts, but my range doesn't allow me to hit Nash's part anymore.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>241</columnValue>
+                        <columnValue>Reel Big Fish</columnValue>
+                        <columnValue>
+                            Solid instrumental in a minor key. And I mean SOLID.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Something Like Laughter</columnValue>
+                        <columnValue>Five Iron Frenzy</columnValue>
+                        <columnValue>
+                            The lyrics to this song were written by Leanor, and oft bring a tear to my eye. This song elicits
+                            feelings of desparation within me.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>What a Fool Believes</columnValue>
+                        <columnValue>Doobie Brothers</columnValue>
+                        <columnValue>
+                            I think this song is magic. The words mean a lot to me; they seem to describe to me every love I've ever had.
+                        </columnValue>
+                    </listItem>
+                    <listItem>
+                        <columnValue>Morning</columnValue>
+                        <columnValue>Two and a Half White Guys</columnValue>
+                        <columnValue>
+                            The groove in this song is so sweet. I love these guys.
+                        </columnValue>
+                    </listItem>
+                </listItems>
+            </list>
+
+        </sections>
+    </sidebar>
+</page>

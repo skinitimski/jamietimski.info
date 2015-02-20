@@ -1,0 +1,28 @@
+#page	xslt
+#paths always given from pages|xslt root dir
+
+
+
+../index.xml	page.xslt
+aboutUs.xml	page.xslt
+log.xml	page.xslt
+jamie.xml	page.xslt
+timski.xml	page.xslt
+us.xml	page.xslt
+
+timski/about.xml	page.xslt
+#bands.xml	bands.xslt                        #not required because the filenames (minus extension) match
+timski/blog.xml	page.xslt
+#instruments.xml	instruments.xslt          #not required because the filenames (minus extension) match
+timski/lists.xml	page.xslt
+timski/quotes.xml	page.xslt
+timski/reviews.xml	page.xslt
+timski/instruments/*	instruments.xslt
+timski/lists/*	page.xslt
+timski/reviews/**	page.xslt
+timski/smilies.xml	page.xslt
+
+jamie/about.xml	page.xslt
+
+
+#ideas/deathCup.xml	page.xslt

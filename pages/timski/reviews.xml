@@ -1,0 +1,9 @@
+<page parent="timski">
+    <title>Reviews</title>
+    <header>
+        <p>
+            My brother and I like to review TV shows and movies and stuff.
+        </p>
+    </header>
+    <index subfolder="reviews" />
+</page>

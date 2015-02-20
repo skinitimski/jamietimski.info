@@ -1,0 +1,8 @@
+
+# Delete the old website...
+rm -fr .www
+
+# Delete the f**king google chrome cache
+cgcc
+
+

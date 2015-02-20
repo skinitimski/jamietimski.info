@@ -1,0 +1,93 @@
+<page parent="season3">
+    <title>Jewbilee</title>
+    <values>
+        <episode>9</episode>
+        <season>3</season>
+        <rating>10</rating>
+    </values>
+    <sections>
+        <section id="Synopsis">
+            <p>
+                It's the night of the meteor shower, but this time we get to see what happens to both Kyle <em>and</em> Kenny.
+                Kenny visits Kyle to see if he wants to camp out and watch the meteor shower, but Kyle is supposed to go to a
+                Jewish camp with Ike called Jewbilee that night. Reluctantly at first, Kyle's parents decide it would be OK for Kenny to
+                go to Jewbilee with Kyle, so they begin filling him in on the Jewish faith on the ride to the camp.
+            </p>
+            <p>
+                At the camp, Kyle and Kenny participate in the regular Jewbilee activities, while Ike gets sent off with the Squirts.
+                The Squirts have an encounter with the local bear, and the adventurous Squirt leader Schlomo, vying for his Chutzpah Badge,
+                decides to take the Squirts on a mission to catch the bear. They set traps for the bear, but each trap backfires and
+                results in the bear capturing a Squirt.
+            </p>
+            <p>
+                During a meeting of the camp elders, Elder Garth from the synagogue of Anti-Semites starts to speak words of the coming
+                of Haman, an adversary of the Jewish faith, which angers the other elders. He is thrown out of the meeting and told he
+                is no longer welcome at Jewbilee. He swears that on the very same night, Haman will come and smite Moses and all of his
+                followers.
+            </p>
+            <p>
+                The Scouts and elders pray to Moses by the campfire, and he appears. The scouts bring him tidings of soap sculptures and
+                popcorn necklackes while he awaits macaroni pictures from the Squirts, who are nowhere to be found. Moses notices that Kenny
+                is not kosher, and banishes him from Jewbilee. While the scouts
+                scramble to make the popcorn necklaces, Elder Garth approaches, reading from the book of Haman, and traps Moses in a conch
+                shell. Elder Garth locks all the other elders and the scouts in the one of the buildings, then reads again from the book
+                in order to summon Haman. It looks like all hope is lost for humanity.
+            </p>
+            <p>
+                Meanwhile, Kenny gets captured by the bear and taken back to the bear's cave, where all the Squirts are celebrating the
+                birthday of the bear's cub. Kenny informs the Squirts of the situation back at camp, and they return with the bear in order
+                to free the elders and stop Elder Garth. While the Squirts free the other elders and the other scouts, Kenny breaks open
+                the conch shell containing Moses with his head (killing himself in the process). Moses arises and immediately puts an end
+                to Haman and Elder Garth. Moses declares that Jewbilee will henceforth be an annual celebration in honor of Kenny and his
+                sacrifice for the Jewish faith.
+            </p>
+        </section>
+        <section id="How Does Kenny Die?">
+            <p>
+                Kenny is killed when he breaks the conch shell open with his head.
+            </p>
+        </section>
+        <section id="Review">
+            <p>
+                This is one of my favorite episodes of all time. It is absurdly hilarious.
+            </p>
+            <p>
+                Kenny is possibly my favorite of the four boys, and episodes like this one solidify that opinion. I find it interesting how
+                despite the fact that his words are all muffled you can typically make out what he is saying. It's also hilarious that daytime
+                censors still find it necessary to bleep out his muffled dialogue when he curses. There's also a (probably
+                unintentional) allusion in this episode to the Mysterion story arc, in that Kenny happily crushes the conch shell with his head
+                because the day <b>must</b> be saved, and he knows he'll just wake up the next morning completely fine.
+            </p>
+        </section>
+        <section id="Best Lines">
+            <dialogue>
+                <line>
+                    <player>Kyle</player>
+                    <text>Mom? Can Kenny go to Jewbilee with me?</text>
+                </line>
+                <line>
+                    <player>Shiela Broflovski</player>
+                    <text>Well, Kyle, Jewbilee is sort of a...special thing.</text>
+                </line>
+                <line>
+                    <player>Kyle</player>
+                    <text>Oh. Kenny isn't special?</text>
+                </line>
+                <line>
+                    <player>Kenny</player>
+                    <text>Awww.</text>
+                </line>
+            </dialogue>
+            <dialogue>
+                <line>
+                    <player>Chief Elder</player>
+                    <text>Great and honorable Moses, what do you desire from us, your children?</text>
+                </line>
+                <line>
+                    <player>Moses</player>
+                    <text>I desire...I desire macaroni pictures.</text>
+                </line>
+            </dialogue>
+        </section>
+    </sections>
+</page>

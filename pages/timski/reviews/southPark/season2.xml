@@ -1,0 +1,10 @@
+<page parent="southPark">
+    <title>South Park - Season 2</title>
+    <header>
+        <p>
+            Again, it's amazing to see how early some story arcs appeared in the series, such as Mr. Garrison losing
+            Mr. Hat and replacing him with Mr. Twig.
+        </p>
+    </header>
+    <index subfolder="season2" heading="List of Episodes" />
+</page>

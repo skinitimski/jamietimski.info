@@ -1,0 +1,145 @@
+<page parent="index" suppressHomeLink="true" suppressParentLink="true" sortOrder="60">
+    <title center="true">The Big Day</title>
+    <sidebar>
+        <p>
+            <strong>Note:</strong> The wedding was a smashing success. For purposes of preserving history, this page will remain unchanged.
+        </p>
+        <sections suppressHomeLink="true" suppressParentLink="true">
+            <section id="Event Details">
+                <h3>Date/Time</h3>
+                <p>Sunday, September 1, 2013</p>
+                <values break-after="false">
+                    <ceremony>1:00 PM</ceremony>
+                    <reception>2:00 PM</reception>
+                </values>
+                <h3>Location</h3>
+                <p>
+                    Jenkins Residences
+                    <br />15-17 Ferry Street
+                    <br />Gloucester, MA
+                    <br /><a href="https://maps.google.com/maps?hl=en&amp;q=17+ferry+street,+gloucester+ma&amp;ie=UTF-8">Google Maps</a>
+                </p>
+                <h3>Directions</h3>
+                <p>
+                    <b>Planes:</b> Fly into Boston's Logan International Airport (BOS) or Manchester–Boston Regional Airport (MHT) in Manchester, NH.
+                    If you need transportation from either airport, please contact Jamie or Timski at <i space-after="false">jamietimski@gmail.com</i>.
+                </p>
+                <p>
+                    <b>Trains:</b> The MBTA Commuter Rail stops in <a prefix=" " href="http://www.mbta.com/schedules_and_maps/rail/lines/stations/?stopId=71">downtown Gloucester</a>.
+                    Ferry St is just about a mile up Washington Street.
+                </p>
+                <p>
+                    <b>Automobiles:</b> Take MA Route 128 into Gloucester. At Grant Circle (the first rotary after the bridge), go 3/4 of the way
+                    around and take the exit for 127 toward Annisquam (Washington Street, northbound). About
+                    a third of a mile up, Ferry Street will be on the left.
+                </p>
+                <h3>Parking</h3>
+                <ul>
+                    <li>Limited "priority" parking will be available on Ferry Street nearby the Jenkins' residences </li>
+                    <li>Additional limited parking will be available on other parts of Ferry Street, Sunset Hill Road, and Periwinkle Lane</li>
+                    <li>Unrestricted parking will be available on Washington Street</li>
+                    <hidden>Additional limited parking will be available across the street from 15 Ferry on the grass</hidden>
+                </ul>
+                <h3>Attire</h3>
+                <p>
+                    Expected attire should be "dressy casual". That means wear clothes that are comfortable for an all-day cookout,
+                    but will look nice in pictures. The reception and ceremony will both take place on the grass, so shoes with heels
+                    are not recommended. The lovely couple probably won't be wearing footwear, so you won't have to either!
+                </p>
+            </section>
+            <section id="Accomodations">
+                <p>
+                    <b>Limited</b> camping space will be available at the Jenkins residences on the night of the reception. Some
+                    spare tents and other camping gear will also be available. Please contact Jamie or Timski at <i>jamietimski@gmail.com</i> 
+                    if you would like space or equipment reserved for you.
+                </p>
+                <p>
+                    If you are looking for hotels near Gloucester, MA, you can try <a prefix=' ' href='http://www.capeannvacations.com/Hotel.cfm'>capeannvacations.com</a>.
+                </p>
+                <p>
+                    We are still researching other local accomodations. We will post this information as soon as we have it!
+                </p>
+            </section>
+            <section id="Refreshments and Facilities">
+                <h3>Food</h3>
+                <p>
+                    Food will be provided as a buffet.
+                </p>
+                <p>
+                    Catering will be primarily provided by <a prefix=" " href="http://thepigkahuna.com/">The Pig Kahuna</a>. They will
+                    be slow roasting a pig on-site, in addition to BBQ chicken breast, corn on the cob, fruit salad, garden salad, and corn bread.
+                    The Pig Kahuna will also provide a vegetarian dish.
+                    In addition, hot dogs will be available for kids and other young folk.
+                </p>
+                <p>
+                    Beans, macaroni, and cole slaw in large quantities will be provided by family.
+                </p>
+                <p>
+                    The wedding cake will be provided by Jenn Klopotoski (<a href="https://www.facebook.com/CakesByJennK">Cakes by Jenn</a>).
+                </p>
+                <p>
+                    There will be no seating arrangement. Tables, chairs, and tents will be available throughout the yard for all to use.
+                </p>
+                <h3>Drink</h3>
+                <p>
+                    The lovely couple will be brewing and preparing kegs of beer for guests to enjoy. There will be various options available.
+                    So far four recipies are on the table, which are all being attempted this winter:
+                </p>
+                <ul>
+                    <li>
+                        <i>Afternoon DeLite</i><ul>
+                            <li>light/cream ale</li>
+                            <li>low <a prefix=" " href="https://en.wikipedia.org/wiki/Alcohol_by_volume">ABV</a>, low <a prefix=" " href="https://en.wikipedia.org/wiki/International_Bitterness_Units_scale#Bitterness">IBU</a>                            
+                        </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <i>Sunflower Weiss</i><ul>
+                            <li>Honey Weissbier</li>
+                            <li>medium ABV, low IBU</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <i>Hoppily Ever After</i><ul>
+                            <li>American Pale Ale</li>
+                            <li>medium ABV, high IBU</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <i>Love Drunk</i><ul>
+                            <li>Belgian Tripel</li>
+                            <li>high ABV, low IBU</li>
+                        </ul>
+                    </li>
+                </ul>
+                <p>
+                    Wine will also be provided.
+                </p>
+                <p>
+                    Juice, soda, water, and other non-alcoholic beverages will be provided.
+                </p>
+                <p>
+                    Liquor will not be stocked. If you want to mix a cocktail, you'll have to bring the booze!
+                </p>
+                <h3>Facilities</h3>
+                <p>
+                    A bathroom trailer (a.k.a. <a prefix=" " href="http://www.unitedsiteservices.com/product/portalisa-restroom-trailer-rental">PortaLisa</a>) will be on site.
+                </p>
+            </section>
+            <section id="Entertainment">
+                <p>
+                    Music during the ceremony will be provided by <a prefix=" " href="http://peterfedeleguitar.com/fr_home.cfm">Peter Fedele</a>.
+                </p>
+                <p>
+                    Entertainment during the reception will be provided by <a prefix=" " href="https://www.facebook.com/AllGoodFeelGood">All Good Feel Good Collective</a>.
+                </p>
+            </section>
+            <section id="Campfire">
+                <p>
+                    As the afternoon transitions into evening, a campfire will be lit. It will most likely burn into the night and continue to glow the next
+                    morning. <b>Warning:</b> there may be acoustic guitars and/or sparklers.
+                </p>
+            </section>
+        </sections>
+    </sidebar>
+</page>

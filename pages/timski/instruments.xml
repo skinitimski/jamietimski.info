@@ -1,0 +1,9 @@
+<page parent="timski">
+    <title>Instruments</title>
+    <header>
+        <p>
+            I own a lot of instruments which I use to make music on occasion. My primary instrument is the trombone.
+        </p>
+    </header>
+    <index subfolder="instruments" />
+</page>

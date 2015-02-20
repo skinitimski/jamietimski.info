@@ -1,0 +1,16 @@
+#source	destination
+profile.jpg	profile.jpg
+
+#make these last so they go into every directory (we may copy over directories above)
+#since there is no destination value, these will go to every directory on the target volume
+scripts/jquery-1.8.3.js
+favicon.ico
+style.css
+
+
+
+# Old stuff
+
+#scripts/rsvp.js	pages/wedding/pages/rsvp.js
+#scripts/rsvp.php	pages/wedding/pages/rsvp.php
+#scripts/submitted.html	pages/wedding/pages/submitted.html

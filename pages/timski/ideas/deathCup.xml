@@ -1,0 +1,121 @@
+<page>
+    <title>Death Cup</title>
+    <header>
+        <p>
+            This is a fun drinking game invented by a guy named Tyler. Please note that my name is <em>not</em> Tyler.
+        </p>
+        <p>
+            <span class="red">Warning:</span> Game may get you really, really smashed.
+        </p>
+        <p>
+            <span class="red">Further warning:</span> Game manual is in draft stage. We're still working out the bugs and running tests...every single night.
+            <span class="red"> Update!</span> Lab results are in. Game is truly awesome and gets you sufficiently intoxicated.
+        </p>
+    </header>
+    <sections>
+        <section id="Requirements">
+            <ul>
+                <li>4-7 players, 6 players is ideal</li>
+                <li>one cup for each player</li>
+                <li>another cup, TALLER than the others</li>
+                <ul>
+                    <li>note that the only requirement for this cup is that it is taller than the rest</li>
+                    <li>the cup may or may not have a smaller opening than the rest</li>
+                    <li>the wider the opening on this cup, the more alcohol that is consumed -- guaranteed</li>
+                </ul>
+                <li>some kind of table</li>
+                <li>a small collection of bottlecaps (one or more per player)</li>
+            </ul>
+        </section>
+        <section id="Setup">
+            <p>
+                The game is set up on a table. A large glass (called the <strong>"Death Cup"</strong>) is put in the center of the table and surrounded with smaller cups, one per player. The arrangement is flower-like. The arrangement should be as tight as possible so that all cups are touching the middle cup as well as their adjacent cups, but this will vary depending on the size of the cups you use and the number of players involved.
+            </p>
+            <p>
+                Players stand around the table and assume ownership of the closest cup to them. Each player must have their own cup, one cup per player. The Death Cup belongs to "everybody".
+            </p>
+            <p>
+                Each player's cup is filled with a regular beirut-like amount of beer, which is to the player's discretion. The middle cup is filled with a shot of whatever hard alcohol is on hand.
+            </p>
+            <p>
+                Scatter bottlecaps around the edges of the table for players to use.
+            </p>
+            <p>
+                The game can be played standing or sitting down. Depending on which way you want to play, the following cup sizes are recommended:
+            </p>
+            <ul>
+                <li>
+                    <strong>Standing Setup</strong>
+                </li>
+                <ul>
+                    <li>Use Solo (beirut) cups for the outside cups and a 12oz beer glass in the middle</li>
+                    <li>
+                        A 4'x4' card table works well, a 4' round table would be <em>ideal</em>
+                    </li>
+                </ul>
+                <li>
+                    <strong>Sitting Setup</strong>
+                </li>
+                <ul>
+                    <li>Use double shot glasses for the outside cups and a whiskey glass in the middle</li>
+                    <li>Sounds like you're using two couches and a coffee table (or similar)</li>
+                </ul>
+            </ul>
+        </section>
+        <section id="Gameplay">
+            <p>
+                <img src="gallery/heap/dcfig1.JPG" />
+            </p>
+            <p>
+                Players take turns tossing bottlecaps at the cup arrangement. A toss consists of the player putting a bottlecap on his or her wrist or palm and swinging their arm such that their hand hits the bottom of the table and the bottlecap flies off toward the cups.
+            </p>
+            <p>
+                <img src="gallery/heap/dcfig2.JPG" />
+            </p>
+            <p>
+                If a bottlecap lands in a player's cup, that player must drink the contents of their cup and refill it. That player also goes next.
+            </p>
+            <p>
+                If a bottlecap lands in the Death Cup, every player must drink their cup. The last player to drink their cup and place their cup back on the table upside down must drink the Death Cup. That player also goes next.
+            </p>
+        </section>
+        <section id="Objective">
+            <p>
+                There is no objective. The game continues until the last player opts/passes out.
+            </p>
+        </section>
+        <section id="Rules">
+            <p>
+                As always with any drinking game, House rules always run the game. Here are a list of commmon rules which you can pick and choose from.
+            </p>
+            <ul>
+                <li>If the bottlecap does not go above the table on a toss (for example, the player hits the bottlecap against the bottom of the table), the player gets to shoot again</li>
+                <li>A player can leave the room mid-game and the game may continue, skipping that player's turn when it comes up; the player leaves at the risk of someone hitting the Death Cup--since the player isn't around to drink their own cup, they inevitably lose</li>
+                <li>All shots that go above the table surface count</li>
+                <li>
+                    Your hand must hit the table <em>somehow:</em> fingers, palm--some part of your hand
+                </li>
+                <li>
+                    Sometimes one player's cup gets hit more than the rest (that player has the so-called <strong>"Magic Cup"</strong>); if that player becomes perturbed, he or she may switch places (and cups) with someone else at the discretion of the other players
+                </li>
+            </ul>
+            <p>Feel free to email new rules and/or variants to skinitimski@gmail.com if you would like to see them in this manual.</p>
+        </section>
+        <section id="Elimination Round">
+            <p>
+                In order to allow players to rotate in and out (for example, if the game was being played at a party), the game can be played with an elimination rule. When a player must take the Death Cup, that player is out and is replaced by the next person who wants to play.
+            </p>
+            <p>
+                In this variant, the players who stay on the table the longest are those who can drink their cup lightning fast. Like beirut, staying at the table for longer inevitably gets you more drunk, since your cup is always an open target.
+            </p>
+        </section>
+        <section id="Cluster Cup">
+            <p>
+                With a sufficient amount of motivated players, a game called <strong>Cluster Cup</strong> may be played. The rules are generally the same, but setup is somewhat different.
+            </p>
+            <p>
+                On a larger table, you can set up more than one arrangement (cluster) of cups. Each cluster has its own Death Cup. Now, players take turns aiming for any cluster on the table. But if a death cup is hit, a player must only drink their cup if their cup is in the cluster where the Death Cup was hit. It may initially be confusing to figure out who belongs to which cup, but with a large enough table, the game could be 15+ players strong.
+            </p>
+        </section>
+    </sections>
+</page>

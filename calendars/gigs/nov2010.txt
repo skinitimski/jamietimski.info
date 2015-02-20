@@ -1,0 +1,9 @@
+4	9:00 PM	Farm	The Farm	Essex, MA	100 Proof
+6	11:00 AM	Parade	Veterans' Day Parade	Topsfield, MA	Boston Fireman's Band
+#11	10:00 AM	Parade	Malden Veterans' Day Parade	Malden, MA	Boston Fireman's Band	Didn't attend!
+12	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	The Runaround Sound
+13	9:00 PM	Fibber's	Fibber McGee's	Gloucester, MA	The Runaround Sound
+24	9:00 PM	Lat 43	Latitude 43	Gloucester, MA	Mile 21	Pre-Thanksgiving EXTRAVAGANZA
+27	9:30 PM	Rhumb Line	The Rhumb Line	Gloucester, MA	100 Proof
+28	3:00 PM	Parade	Santa Claus Parade	Gloucester, MA	Boston Fireman's Band
+

@@ -1,0 +1,7 @@
+1	9:30 PM	Capt Carlo's	Captain Carlo's Restaurant	Gloucester, MA	Mile 21
+7	9:30 PM	Harbor House	The Harbor House	Gloucester, MA	Mile 21
+8	8:30 PM	Coastline Grill	The Coastline Grill	Manchester, MA	The Runaround
+13	9:00 PM	Lat 43	Latitude 43	Gloucester, MA	The Runaround
+15	10:00 PM	Soma	Soma Restaurant	Beverly, MA	Mile 21
+21	9:00 PM	Lat 43	Latitude 43	Gloucester, MA	Mile 21
+26	9:30 PM	Capt Carlo's	Captain Carlo's Restaurant	Gloucester, MA	Mile 21
