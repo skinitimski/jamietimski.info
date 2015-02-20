@@ -5,3 +5,5 @@
 *.tgz
 logs/**
 .www/**
+*.clean.next.psftp
+*.host.psftp
