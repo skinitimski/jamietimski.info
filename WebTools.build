@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<project name="WebTools" basedir="." default="release">
+
+    <property name="sln.name"            value="WebTools" />
+    <property name="sln.dir"             value="webtools" />
+    <property name="sln.file"            value="${path::combine(sln.dir, sln.name + '.sln')}" />
+    <property name="sln.log.dir"         value="logs" />
+    <property name="releases.dir"        value="." />
+    <property name="build.devenv"        value="mdtool" />
+    <property name="build.configuration" value="Release" />
+
+
+    <script language="C#">
+        <code>
+            <![CDATA[
+            public static void ScriptMain(Project project) {
+            project.Properties["build.year"] = DateTime.Now.Year.ToString();
+            }
+            ]]>
+        </code>
+    </script>
+
+    <script language="C#" prefix="timski" >
+        <code>
+            <![CDATA[
+            [Function("substring-from-last-char")]
+            public static string SubstringFromChar(string input, char ch)
+            {
+            // add 1 to skip the char itself
+            int index = input.LastIndexOf(ch) + 1;
+            if (index > 0)
+            return input.Substring(index, input.Length - index);
+            else
+            return null;
+            }
+            ]]>
+        </code>
+    </script>
+
+    <script language="C#" prefix="timski" >
+        <code>
+            <![CDATA[
+            [Function("substring-to-last-char")]
+            public static string SubstringToChar(string input, char ch)
+            {
+            //add 1 to skip the char itself
+            int index = input.LastIndexOf(ch);
+            if (index > 0)
+            return input.Substring(0, index);
+            else
+            return null;
+            }
+            ]]>
+        </code>
+    </script>
+
+    <script language="C#" prefix="timski" >
+        <code>
+            <![CDATA[
+            [Function("boolean-prompt")]
+            public static string BooleanPrompt(string message)
+            {
+            Console.WriteLine(message + " (y or n)");
+            string input = Console.ReadLine();
+            input.Trim();
+            if (input == "y" || input == "n" || input == "Y" || input == "N")
+            return input;
+            else
+            return BooleanPrompt(message + " (y or n)");
+            }
+            ]]>
+        </code>
+    </script>
+
+
+
+    <!-- help: help screen -->
+    <target name="help" description="Additional information about this script. Includes usage.">
+        <echo/>
+        <echo>Usage:</echo>
+        <echo/>
+        <echo> nant -buildfile:app.build help</echo>
+        <echo> nant -buildfile:app.build compile</echo>
+        <echo> nant -buildfile:app.build dist</echo>
+        <echo> nant -buildfile:app.build zip</echo>
+        <echo/>
+        <echo>You must also specify the project name using '-D:sln.name={solution name}' after the target.</echo>
+        <echo/>
+        <echo/>
+        <echo>Relevant target descriptions:</echo>
+        <echo/>
+        <echo>   help:    Prints this usage dialogue.</echo>
+        <echo/>
+        <echo>  clean:   Cleans dist directory and IDE build directory.</echo>
+        <echo>   wipe:   Completely empties dist directory and IDE build directory.</echo>
+        <echo/>
+        <echo>compile:   Compiles the solution.</echo>
+        <echo>   dist:   Compiles, tests, and creates a distribution of the solution.</echo>
+        <echo>    zip:   Runs dist then zips up what it spits out.</echo>
+        <echo/>
+        <echo/>
+        <echo>Type `nant -buildfile:app.build -projecthelp' to list all defined targets."</echo>
+        <echo/>
+    </target>
+
+
+
+    <!-- validate validate/process properties files -->
+    <target 
+        name="validate" 
+        description=" [internal] Validates the setup and configuration of the solution."
+        unless="${target::has-executed('validate')}" >
+
+        <echo>Running validation on archive setup...</echo>
+
+        <fail message="Solution directory does not exist: ${sln.dir}"             unless="${directory::exists(sln.dir)}" />
+
+        <mkdir dir="${sln.log.dir}" />
+
+        <echo/>
+        <echo/>
+        <echo>Solution:</echo>
+        <echo/>
+        <echo>               sln.name: ${sln.name}            </echo>
+        <echo>            sln.log.dir: ${sln.log.dir}         </echo>
+        <echo>                sln.dir: ${sln.dir}             </echo>
+        <echo>               sln.file: ${sln.file}            </echo>
+        <echo/>
+        <echo>           releases.dir: ${releases.dir}        </echo>
+        <echo/>
+        <echo/>
+        <echo message="DONE: VALIDATE" />
+
+    </target>
+
+
+
+
+
+
+
+
+
+    <!-- compile: compiles the application -->
+    <target name="compile" depends="validate" description=" [internal] Compiles the application; runs assembly/resource info targets.">
+
+        <property name="build.log" value="${path::combine(sln.log.dir, 'devenv.log')}" />
+
+        <delete file="${build.log}" />
+
+        <property name="build.cmdline" value="build ${sln.file} -c:${build.configuration} -t:Build" />
+
+        <echo/>
+        <echo/>
+        <echo>  Dev Environment: ${build.devenv}</echo>
+        <echo>     Command Line: ${build.cmdline}</echo>
+        <echo/>
+        <echo>    Solution File: ${sln.file} </echo>
+        <echo>        ^^ Exists: ${file::exists(sln.file)}</echo>
+        <echo/>
+        <echo/>
+
+        <fail if="${not file::exists(sln.file)}" message="Solution file doesn't exist: '${sln.file}'" />
+
+        <exec
+            verbose="true"
+            program="${build.devenv}"
+            commandline="${build.cmdline}"
+            failonerror="false"
+            resultproperty="build.result"
+            />
+
+        <echo>     build.result: ${build.result}</echo>
+
+        <fail if="${int::parse(build.result) != 0}" message="The DEVENV compilation failed. Check ${build.log} for details." />
+
+
+        <echo/>
+        <echo/>
+        <echo>DONE: COMPILE</echo>
+
+    </target>
+
+    <!-- release: Releases the build artifacts of the solution (dll, exe, exe.config) to the configured directory.  -->
+    <target name="release" depends="compile" description=" [Internal] Releases the solution build artifacts." >
+
+        <copy todir="${releases.dir}" overwrite="true" flatten="true">
+            <fileset basedir="${sln.dir}" >
+                <include name="WebTools/bin/${build.configuration}/webTools.dll" />
+                <include name="GenerateCalendars/bin/${build.configuration}/generateCalendars.exe" />
+                <include name="GenerateGallery/bin/${build.configuration}/generateGallery.exe" />
+                <include name="GenerateHostScripts/bin/${build.configuration}/generateHostScripts.exe" />
+                <include name="TransformPages/bin/${build.configuration}/transformPages.exe" />
+                <include name="BatchCopy/bin/${build.configuration}/batchCopy.exe" />
+                <include name="GenerateIndex/bin/${build.configuration}/generateIndex.exe" />
+            </fileset>
+        </copy>
+
+        <echo/>
+        <echo/>
+        <echo>DONE: RELEASE</echo>
+
+    </target>
+
+</project>

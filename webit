@@ -1,0 +1,54 @@
+#!/bin/bash
+
+
+# Set the CCYYMMDD timestamp
+DT=`date +%Y%m%d`
+BASEDIR=`pwd`
+WWW="$BASEDIR/.www"
+export MONO_RELEASES_DIR=.
+
+# Remove old .www folder
+echo Cleaning .www folder...
+rm -fR $WWW
+
+# Remove all "archive" files from the data folder
+echo Cleaning archives...
+rm -f *timski.tgz
+
+
+
+# Create a new snapshot archive
+echo Generating archive...
+
+tar -czf `date +%Y%m%d`-timski.tgz .
+
+
+# Create the web folder
+mkdir $WWW
+
+nant
+
+if [ -n "$1" ]
+then
+    echo Generating gallery...
+    exmon generateGallery "$1"
+fi
+
+
+echo Transforming pages...
+exmon transformPages
+
+echo Generating calendars...
+exmon generateCalendars
+
+echo Copying files...
+exmon batchCopy
+
+echo Generating host/cleanup scripts...
+exmon generateHostScripts
+
+
+date
+echo Done!
+
+
