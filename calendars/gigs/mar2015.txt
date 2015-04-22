@@ -1,3 +1,4 @@
-6	9:30 PM	Rhumb Line	The Rhumb Line	Glocuester, MA	The Runaround Sound
-14	5:00 PM	Private Party	Somewhere	Waltham, MA	The Runaround Sound	Papa Cheeks's Birthday Party
+7	9:00 PM	Minglewood	Minglewood Tavern	Gloucester, MA	The Runaround Sound
+14	5:00 PM	Private Party	VFW	Waltham, MA	The Runaround Sound	Papa Cheeks's Birthday Party
 18	9:00 PM	Opus	Opus	Salem, MA	Poppa Cigar
+21	9:00 PM	Short&Main	Short & Main	Gloucester, MA	The Runaround Sound

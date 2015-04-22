@@ -1,0 +1,6 @@
+1	9:30 PM	Rhumb Line	The Rhumb Line	Glocuester, MA	The Runaround Sound
+2	9:00 PM	Short&Main	Short & Main	Gloucester, MA	The Runaround Sound
+16	9:00 PM	Minglewood	Minglewood Tavern	Gloucester, MA	The Runaround Sound
+17	1:00 PM	Parade	Wellesley Memorial Day Parade	Wellesley, MA	Boston Fireman's Band
+24	1:00 PM	Parade	Somerville Memorial Day Parade	Somerville, MA	Boston Fireman's Band
+25	9:00 AM	Parade	Winchester Memorial Day Parade	Winchester, MA	Boston Fireman's Band
